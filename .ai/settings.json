@@ -1,0 +1,8 @@
+{
+  "name": "career-ai-guidance",
+  "description": "Provider-neutral guidance for AI assistants working on the career documentation repository.",
+  "rules": [
+    ".ai/rules/git.md",
+    ".ai/rules/safety.md"
+  ]
+}
