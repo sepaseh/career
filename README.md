@@ -35,6 +35,7 @@ The content is organized into independent sections so readers can quickly naviga
 - [Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)
 - [Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md)
 - [First Iranian Professional Social Network & Identity Platform](projects/first-iranian-professional-social-network-and-identity-platform.md)
+- [Location-Based Multi-Branch Retail Platform](projects/location-based-supermarket-retail-platform.md)
 
 ---
 
