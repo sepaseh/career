@@ -1,4 +1,4 @@
-# Mahmoudi Industrial Group
+# Custom Furniture Product Discovery Platform
 
 ## Overview
 

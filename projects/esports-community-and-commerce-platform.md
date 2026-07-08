@@ -1,4 +1,4 @@
-# Earnest ESport Platform
+# Esports Community and Commerce Platform
 
 ## Overview
 
