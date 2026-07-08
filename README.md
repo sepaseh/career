@@ -36,8 +36,8 @@ The content is organized into independent sections so readers can quickly naviga
 - [Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md)
 - [First Iranian Professional Social Network & Identity Platform](projects/first-iranian-professional-social-network-and-identity-platform.md)
 - [Location-Based Multi-Branch Retail Platform](projects/location-based-supermarket-retail-platform.md)
-- [Mahmoudi Industrial Group](projects/custom-furniture-product-discovery-platform.md)
-- [Earnest ESport Platform](projects/earnest-esport-project.md)
+- [Esports Community and Commerce Platform](projects/esports-community-and-commerce-platform.md)
+- [Custom Furniture Product Discovery Platform](projects/custom-furniture-product-discovery-platform.md)
 
 ---
 
