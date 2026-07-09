@@ -39,6 +39,7 @@ The content is organized into independent sections so readers can quickly naviga
 - [Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md)
 - [Esports Community and Commerce Platform](projects/esports-community-and-commerce-platform.md)
 - [Custom Furniture Product Discovery Platform](projects/custom-furniture-product-discovery-platform.md)
+- [Mashhad City Identity & Visitor Information Platform](projects/mashhad-city-identity-platform.md)
 
 ---
 
