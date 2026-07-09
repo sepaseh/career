@@ -41,6 +41,7 @@ The content is organized into independent sections so readers can quickly naviga
 - [Custom Furniture Product Discovery Platform](projects/custom-furniture-product-discovery-platform.md)
 - [Mashhad City Identity & Visitor Information Platform](projects/mashhad-city-identity-platform.md)
 - [Kids & Family Coupon Marketplace and Ticket Validation Platform](projects/kids-family-coupon-marketplace.md)
+- [Exhibition Services Marketplace & Operations Platform](projects/exhibition-services-marketplace-platform.md)
 
 ---
 
