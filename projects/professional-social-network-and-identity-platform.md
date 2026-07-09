@@ -12,9 +12,11 @@ It combined professional profiles, organization pages, social networking feature
 
 ## The Problem
 
-At the time, professionals and organizations lacked a dedicated platform for building searchable digital identities while maintaining an interactive web experience.
+Building a professional networking platform required more than allowing users to create online profiles.
 
-The challenge was to build a modern Single-Page Application that balanced rich user interactions with strong search engine discoverability for public-facing content.
+Many professionals and organizations lacked a credible, searchable online presence without investing in a dedicated website. For many users, creating and maintaining a personal or corporate website was unnecessarily expensive and complex, while existing alternatives did not provide a unified space focused on professional identity.
+
+The challenge was to create a platform where individuals and organizations could establish a trusted digital identity, become discoverable through search engines, and build a professional online presence through a centralized, easy-to-manage service.
 
 ---
 

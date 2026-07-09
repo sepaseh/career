@@ -10,9 +10,11 @@ Rather than serving as a standalone IPTV application, the platform became the pr
 
 ## The Problem
 
-Hotels often rely on multiple independent systems for entertainment, room automation, guest services, and hotel operations.
+As guest expectations evolved, televisions were no longer viewed as devices for watching broadcast channels alone. Hotels increasingly sought to provide integrated in-room digital experiences combining entertainment, guest services, hotel information, and room automation through a single interface.
 
-The challenge was to deliver a unified guest experience while integrating with heterogeneous hospitality systems and supporting a wide range of television platforms and set-top box devices.
+Delivering that experience required integrating multiple independent hospitality systems while supporting a wide variety of television operating systems and set-top box hardware.
+
+The challenge was to build a unified platform that transformed the in-room television into the primary digital touchpoint for guests throughout their stay.
 
 ---
 

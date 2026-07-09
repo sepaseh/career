@@ -12,9 +12,11 @@ The platform combined deep zoom image visualization, educational workflows, anno
 
 ## The Problem
 
-Conventional medical images captured through microscopes are too large to be viewed efficiently in standard web applications.
+Pathology education traditionally depends on physical microscopes, shared laboratory equipment, and direct access to glass slides, making practical teaching and assessment difficult to scale beyond dedicated laboratory environments.
 
-The challenge was to provide a smooth, browser-based experience for exploring gigapixel pathology slides while supporting educational workflows such as annotations, assessments, and interactive examinations.
+Medical universities needed a way to provide students and instructors with access to high-resolution pathology slides without requiring continuous use of laboratory equipment, while preserving the experience of exploring tissue samples at different magnification levels. Reducing equipment usage also lowered maintenance costs and later proved especially valuable when minimizing shared contact with laboratory devices became increasingly important.
+
+The challenge was to recreate the experience of examining pathology slides through a standard web browser while supporting annotations, educational content, and interactive examination workflows.
 
 ---
 
