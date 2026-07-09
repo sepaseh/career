@@ -6,6 +6,8 @@ This project was the first commercial engagement delivered by SP Soft.
 
 Developed for the International Relations Office of Mashhad Municipality, the platform introduced Mashhad to international visitors through multilingual content, cultural landmarks, visitor information, and a dedicated content management system.
 
+Rather than functioning as a conventional municipal website, it was designed as a long-term digital representation of the city, enabling non-technical staff to continuously publish and manage multilingual content while presenting Mashhad through interactive locations, rich media, and structured visitor information.
+
 ---
 
 ## The Problem

@@ -4,6 +4,8 @@
 
 This project focused on developing a digital pathology platform for education and interactive examinations, enabling students and instructors to work with extremely high-resolution microscopic tissue images through a standard web browser.
 
+Rather than relying on shared physical microscopes for teaching and assessment, the platform recreated the experience digitally, allowing pathology slides to be explored, annotated, and evaluated remotely. This approach reduced dependency on laboratory equipment, lowered maintenance costs, and became particularly valuable during the COVID-19 pandemic by minimizing shared contact with microscopes.
+
 The platform combined deep zoom image visualization, educational workflows, annotations, and examination tools into a unified learning environment for pathology education.
 
 ---
