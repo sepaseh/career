@@ -1,10 +1,12 @@
-# First Iranian Professional Social Network & Identity Platform
+# Professional Digital Identity & Networking Platform
 
 ## Overview
 
 This project focused on developing the first generation of one of Iran's early professional networking and digital identity platforms.
 
-The platform combined professional profiles, organization pages, social networking features, and business-oriented web applications into a unified ecosystem designed to improve professional communication and online presence.
+The platform was designed to serve as a trusted online professional identity for individuals and organizations, enabling them to establish a searchable digital presence while supporting professional networking, business communication, and public visibility.
+
+It combined professional profiles, organization pages, social networking features, and business-oriented web applications into a unified ecosystem designed to strengthen professional identity and online presence.
 
 ---
 
