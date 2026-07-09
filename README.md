@@ -40,6 +40,7 @@ The content is organized into independent sections so readers can quickly naviga
 - [Esports Community and Commerce Platform](projects/esports-community-and-commerce-platform.md)
 - [Custom Furniture Product Discovery Platform](projects/custom-furniture-product-discovery-platform.md)
 - [Mashhad City Identity & Visitor Information Platform](projects/mashhad-city-identity-platform.md)
+- [Kids & Family Coupon Marketplace and Ticket Validation Platform](projects/kids-family-coupon-marketplace.md)
 
 ---
 
