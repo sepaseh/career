@@ -4,7 +4,7 @@
 
 This project focused on developing a browser extension-based cryptocurrency wallet ecosystem supporting multiple blockchain networks.
 
-Beyond the wallet itself, the ecosystem included developer-facing tools, an application marketplace, and additional web applications designed to support blockchain users and developers through a unified platform.
+Beyond the wallet itself, the ecosystem included developer-facing tools, an application marketplace, and additional web applications supporting blockchain users and developers through a unified platform.
 
 ---
 
@@ -20,7 +20,7 @@ The challenge was to build scalable frontend applications capable of supporting 
 
 - Designing a browser extension architecture that could support product requirements beyond the constraints of existing extension-focused tooling.
 - Managing communication between browser extension contexts, including page scripts, background processes, and user-facing extension interfaces.
-- Supporting a multi-entry build process for browser extension outputs while keeping the project structure maintainable.
+- Supporting multiple browser extension runtime contexts while keeping development and build workflows maintainable.
 - Evaluating and replacing initial tooling decisions when they introduced architectural limitations.
 
 ---
@@ -30,36 +30,30 @@ The challenge was to build scalable frontend applications capable of supporting 
 - Developed frontend features for the browser extension wallet.
 - Designed and implemented a custom browser extension architecture after identifying limitations in the initial development tooling.
 - Built and maintained the browser extension build pipeline for multiple extension entry points.
-- Implemented user interfaces supporting blockchain transaction workflows.
 - Contributed to developer-facing web applications and ecosystem services.
 
 ---
 
 ## Technical Highlights
 
-### Browser Extension Wallet
+- **Replacing Plasmo with a Custom Extension Architecture:** Replaced the initial Plasmo-based implementation after identifying limitations in cross-context communication and page management as the product grew. Designed a custom extension architecture tailored to the project's long-term scalability instead of relying on framework abstractions.
 
-Developed user interfaces for a browser extension enabling secure interaction with blockchain networks.
+- **Multi-Entry Build and Development Pipeline:** Designed the extension around separate runtime contexts for the application UI, background service worker, content script, and inpage script. Built an independent multi-entry build pipeline and supporting development workflow, allowing each runtime to be built and updated independently while maintaining a cohesive extension.
 
-### Ecosystem Applications
+- **Concurrent Request-Response Messaging Across Extension Contexts:** Designed an asynchronous messaging protocol between web pages and the extension using unique request identifiers. Multiple requests could be processed concurrently across isolated runtime contexts while ensuring every response was correctly correlated with its originating request.
 
-Contributed to multiple web applications supporting developers and ecosystem participants beyond the wallet itself.
-
-### Reusable Frontend Architecture
-
-Developed reusable frontend components and shared application patterns supporting multiple products across the ecosystem.
-
-### Blockchain User Experience
-
-Implemented user interfaces designed to simplify complex blockchain interactions while maintaining usability and consistency.
+- **Provider Isolation for Incremental Wallet Compatibility:** Established a class-based integration pattern as the extension expanded beyond its initial MetaMask integration. Isolating provider implementations allowed additional wallet interfaces to be introduced without concentrating chain-specific behavior in a single shared layer.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
 - TypeScript
+- Chrome Extension APIs
 - Vite
-- React Context API
+- Rollup
 - React Query
-- gRPC
+- React Hook Form
+- Styled Components
+- Zod
