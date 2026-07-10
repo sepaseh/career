@@ -2,68 +2,58 @@
 
 ## Overview
 
-This project focused on developing a digital pathology platform for education and interactive examinations, enabling students and instructors to work with extremely high-resolution microscopic tissue images through a standard web browser.
+This project focused on developing a browser-based digital pathology platform for education and interactive examinations, enabling students and instructors to work with extremely high-resolution microscopic tissue slides.
 
-Rather than relying on shared physical microscopes for teaching and assessment, the platform recreated the experience digitally, allowing pathology slides to be explored, annotated, and evaluated remotely. This approach reduced dependency on laboratory equipment, lowered maintenance costs, and became particularly valuable during the COVID-19 pandemic by minimizing shared contact with microscopes.
-
-The platform combined deep zoom image visualization, educational workflows, annotations, and examination tools into a unified learning environment for pathology education.
+The platform combined deep zoom image visualization, interactive educational content, annotations, and examination workflows into a unified learning environment for pathology education.
 
 ---
 
 ## The Problem
 
-Pathology education traditionally depends on physical microscopes, shared laboratory equipment, and direct access to glass slides, making practical teaching and assessment difficult to scale beyond dedicated laboratory environments.
+Traditional pathology education depends on physical microscopes, shared laboratory equipment, and direct access to glass slides, making practical teaching and assessment difficult to scale.
 
-Medical universities needed a way to provide students and instructors with access to high-resolution pathology slides without requiring continuous use of laboratory equipment, while preserving the experience of exploring tissue samples at different magnification levels. Reducing equipment usage also lowered maintenance costs and later proved especially valuable when minimizing shared contact with laboratory devices became increasingly important.
+Medical universities needed a way to provide students and instructors with access to high-resolution pathology slides while preserving the experience of exploring tissue samples at different magnification levels. Beyond reducing dependency on laboratory equipment and lowering operational costs, the platform became particularly valuable during the COVID-19 pandemic by minimizing shared use of laboratory equipment.
 
-The challenge was to recreate the experience of examining pathology slides through a standard web browser while supporting annotations, educational content, and interactive examination workflows.
+The challenge was to recreate the practical experience of navigating pathology slides through a standard web browser while supporting guided learning, annotations, and interactive examination workflows.
 
 ---
 
 ## Engineering Challenges
 
-- Visualizing extremely large pathology images through a standard web browser without loading complete image files.
-- Supporting smooth zooming and navigation across multi-resolution image tiles.
-- Handling image preparation workflows where original slide files were too large for practical upload-based processing.
-- Supporting annotations and examination interactions without degrading image navigation performance.
+- Visualizing multi-gigabyte pathology slides through a standard web browser.
+- Recreating microscope-like navigation using multi-resolution image tiles.
+- Supporting both server-side and offline image preparation workflows for extremely large slide files.
+- Associating educational content and examination activities with precise locations on pathology slides.
+- Maintaining responsive navigation while rendering interactive educational overlays.
 
 ---
 
 ## My Contributions
 
+- Conducted on-site workflow analysis to understand pathology education and examination processes before defining the solution.
+- Designed the browser-based approach for navigating pathology slides.
 - Developed the frontend of the digital pathology platform.
-- Designed browser-based deep zoom image viewing experiences.
-- Implemented image tile loading and multi-resolution visualization workflows.
-- Developed interactive annotation features for pathology education.
-- Built examination workflows allowing instructors to evaluate student responses directly on pathology images.
-- Collaborated with backend engineers on image processing and educational platform integration.
+- Built the interactive educational and examination experience on top of pathology slides.
+- Developed annotation and marker management features for educational content and examinations.
+- Collaborated with the backend engineer on image processing workflows and platform integration.
 
 ---
 
 ## Technical Highlights
 
-### Gigapixel Image Visualization
+- **Adapting Map-Style Navigation:** Rather than reproducing microscope controls directly, the platform adopted map-style navigation concepts to enable intuitive exploration of extremely large pathology slides through smooth panning and incremental zooming.
 
-Developed browser-based visualization for extremely large pathology images using a tile-based deep zoom approach, enabling smooth exploration without loading complete image files.
+- **Interactive Educational Layer:** Designed an interactive layer that associated persistent markers with pathology slides, allowing learning material, guidance, annotations, and examination activities to remain synchronized with image navigation.
 
-### Interactive Medical Annotations
+- **Flexible Image Preparation Pipeline:** Supported both server-side and offline image preparation workflows, allowing institutions to work with multi-gigabyte pathology slides that were often impractical to upload through standard web interfaces.
 
-Implemented annotation tools allowing instructors to highlight regions of interest, attach educational content, and create interactive learning experiences.
-
-### Interactive Examination Platform
-
-Developed examination workflows enabling students to navigate pathology slides while answering questions directly within the educational interface.
-
-### Multi-Resolution Image Navigation
-
-Implemented seamless zooming and navigation across multiple image resolutions, providing a user experience comparable to dedicated pathology viewing software.
+- **Browser-Based Whole Slide Exploration:** Enabled students and instructors to explore gigapixel pathology slides through progressive tile loading, providing an experience comparable to physical microscope navigation without requiring specialized desktop software.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
 - Vite
-- HTML5
-- SASS
 - REST APIs
+- Deep Zoom Imaging
