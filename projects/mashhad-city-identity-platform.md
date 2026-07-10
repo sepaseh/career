@@ -30,9 +30,9 @@ Beyond publishing static information, the system needed to support multilingual 
 
 - Participated in requirements analysis and solution design.
 - Managed client communication and project coordination.
-- Developed the public website frontend.
-- Developed the React-based administrative panel.
-- Implemented the responsive mobile experience.
+- Developed the multilingual public website frontend.
+- Developed the React-based administration panel.
+- Implemented the responsive user experience across desktop and mobile devices.
 - Built the interactive city map with dynamically managed points of interest.
 - Delivered CMS training for municipality staff after deployment.
 

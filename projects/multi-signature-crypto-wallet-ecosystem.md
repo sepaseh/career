@@ -27,12 +27,11 @@ The challenge was to build scalable frontend applications capable of supporting 
 
 ## My Contributions
 
-- Developed frontend features for a browser extension-based cryptocurrency wallet.
+- Developed frontend features for the browser extension wallet.
+- Designed and implemented a custom browser extension architecture after identifying limitations in the initial development tooling.
+- Built and maintained the browser extension build pipeline for multiple extension entry points.
+- Implemented user interfaces supporting blockchain transaction workflows.
 - Contributed to developer-facing web applications and ecosystem services.
-- Built user interfaces supporting blockchain transaction workflows.
-- Collaborated with backend and blockchain engineers across multiple ecosystem products.
-- Contributed to scalable frontend architecture and reusable application components.
-- Supported continuous feature development across the wallet ecosystem.
 
 ---
 
