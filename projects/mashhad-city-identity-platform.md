@@ -20,9 +20,9 @@ Beyond publishing static information, the system needed to support multilingual 
 
 ## Engineering Challenges
 
-- Supporting multilingual content without coupling the CMS to a fixed language set.
-- Maintaining two separate frontend applications for the public website and administration panel.
-- Building a responsive experience without dedicated mobile designs.
+- Designing a multilingual content structure that could support additional languages without restructuring the application.
+- Maintaining separate public website and administration panel experiences while keeping content management consistent.
+- Implementing an interactive city map on a static image by translating administrator-managed locations into accurate visual coordinates instead of relying on geographic latitude and longitude.
 
 ---
 

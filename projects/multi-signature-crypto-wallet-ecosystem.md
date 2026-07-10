@@ -18,22 +18,21 @@ The challenge was to build scalable frontend applications capable of supporting 
 
 ## Engineering Challenges
 
-* Building secure browser extension user experiences.
-* Supporting interactions across multiple blockchain networks.
-* Maintaining consistency across multiple ecosystem applications.
-* Developing reusable frontend architecture for long-term product evolution.
-* Delivering responsive and intuitive interfaces for complex blockchain workflows.
+- Designing a browser extension architecture that could support product requirements beyond the constraints of existing extension-focused tooling.
+- Managing communication between browser extension contexts, including page scripts, background processes, and user-facing extension interfaces.
+- Supporting a multi-entry build process for browser extension outputs while keeping the project structure maintainable.
+- Evaluating and replacing initial tooling decisions when they introduced architectural limitations.
 
 ---
 
 ## My Contributions
 
-* Developed frontend features for a browser extension-based cryptocurrency wallet.
-* Contributed to developer-facing web applications and ecosystem services.
-* Built user interfaces supporting blockchain transaction workflows.
-* Collaborated with backend and blockchain engineers across multiple ecosystem products.
-* Contributed to scalable frontend architecture and reusable application components.
-* Supported continuous feature development across the wallet ecosystem.
+- Developed frontend features for a browser extension-based cryptocurrency wallet.
+- Contributed to developer-facing web applications and ecosystem services.
+- Built user interfaces supporting blockchain transaction workflows.
+- Collaborated with backend and blockchain engineers across multiple ecosystem products.
+- Contributed to scalable frontend architecture and reusable application components.
+- Supported continuous feature development across the wallet ecosystem.
 
 ---
 
@@ -59,9 +58,9 @@ Implemented user interfaces designed to simplify complex blockchain interactions
 
 ## Technologies
 
-* React
-* TypeScript
-* Vite
-* React Context API
-* React Query
-* gRPC
+- React
+- TypeScript
+- Vite
+- React Context API
+- React Query
+- gRPC
