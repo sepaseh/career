@@ -22,11 +22,10 @@ The challenge was to recreate the experience of examining pathology slides throu
 
 ## Engineering Challenges
 
-- Visualizing gigapixel pathology images within standard web browsers.
-- Maintaining smooth zooming and navigation across extremely large image datasets.
-- Designing an efficient image tiling workflow for multi-resolution viewing.
-- Supporting annotations and educational content without affecting navigation performance.
-- Building interactive examination workflows around high-resolution medical imagery.
+- Visualizing extremely large pathology images through a standard web browser without loading complete image files.
+- Supporting smooth zooming and navigation across multi-resolution image tiles.
+- Handling image preparation workflows where original slide files were too large for practical upload-based processing.
+- Supporting annotations and examination interactions without degrading image navigation performance.
 
 ---
 

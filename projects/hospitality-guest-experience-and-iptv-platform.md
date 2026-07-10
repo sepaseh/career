@@ -20,12 +20,11 @@ The challenge was to build a unified platform that transformed the in-room telev
 
 ## Engineering Challenges
 
-- Integrating with different hotel management and operational systems.
-- Supporting multiple television operating systems and hardware platforms.
-- Designing intuitive television-based user interfaces for remote control navigation.
-- Combining live television, multimedia, and interactive hospitality services into a unified experience.
-- Optimizing frontend performance for resource-constrained television hardware and set-top box devices.
-- Maintaining a scalable frontend architecture as the platform continuously evolved.
+- Supporting resource-constrained television hardware where modern frontend frameworks and animation-heavy interfaces were not practical.
+- Building a shared web application experience across different television platforms without maintaining separate frontend codebases.
+- Designing remote-control navigation for a non-linear, tile-based interface rather than a simple left-right menu structure.
+- Preventing guests from leaving the hotel application environment on Android-based devices.
+- Working around limited access to television platform documentation and device-specific implementation details.
 
 ---
 

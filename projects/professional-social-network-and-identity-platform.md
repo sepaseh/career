@@ -22,10 +22,11 @@ The challenge was to create a platform where individuals and organizations could
 
 ## Engineering Challenges
 
-- Building modern Single-Page Applications during the early adoption of SPA architecture.
-- Balancing SEO with highly interactive user interfaces.
-- Developing reusable frontend components across rapidly evolving product requirements.
-- Maintaining performance and scalability as the platform continued to expand.
+- Building a maintainable AngularJS application structure during the team's early adoption of modern SPA development.
+- Balancing interactive Single-Page Application behavior with search engine visibility for public professional profiles.
+- Supporting SEO through server-rendered public pages while replacing the initial markup with the AngularJS application on the client side.
+- Building Google AMP pages with little or no JavaScript to improve search visibility and deliver near-instant loading from Google's cache.
+- Modeling users who could manage multiple professional or organizational pages within the same identity platform.
 
 ---
 
