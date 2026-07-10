@@ -32,12 +32,12 @@ The challenge was to create a platform where individuals and organizations could
 
 ## My Contributions
 
-- Developed the frontend of the first-generation platform using AngularJS.
-- Built reusable frontend components shared across multiple product modules.
-- Implemented SEO-oriented public profile pages.
+- Developed the frontend of the platform using AngularJS.
+- Designed and implemented reusable frontend components shared across multiple product modules.
+- Built SEO-oriented public profile pages using a hybrid server-rendered and client-rendered approach.
+- Developed Google AMP pages to improve mobile search visibility and loading performance.
+- Implemented frontend support for professional profiles, organization pages, and identity management workflows.
 - Collaborated with backend engineers on API-driven frontend applications.
-- Contributed to configurable workflow and survey-based features.
-- Supported continuous feature development through iterative product releases.
 
 ---
 

@@ -30,12 +30,12 @@ The challenge was to build a unified platform that transformed the in-room telev
 
 ## My Contributions
 
-- Developed the frontend of an integrated hospitality platform.
+- Developed the frontend of the integrated hospitality platform.
 - Designed television-optimized user interfaces across multiple device platforms.
+- Built a shared web application capable of running across different television operating systems through platform-specific wrappers.
 - Implemented guest-facing hospitality services including dining, concierge, transportation, tourism, and room service workflows.
 - Developed interfaces for room automation, including lighting and HVAC controls.
 - Collaborated with backend engineers on hospitality system integrations.
-- Contributed to scalable frontend architecture across multiple platform modules.
 
 ---
 
