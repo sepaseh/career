@@ -2,11 +2,9 @@
 
 ## Overview
 
-This project focused on developing a community-oriented esports platform that combined player profiles, gaming content, digital commerce, and responsive web experiences into a unified ecosystem.
+This project focused on developing a community-oriented esports platform that unified player profiles, gaming content, and digital commerce within a single ecosystem.
 
-The platform allowed players to build public profiles, publish gaming-related content, showcase achievements, and interact with the growing esports community. Alongside its community features, it included an online store supporting multiple product types and promotional campaigns tailored to gaming audiences.
-
-To improve search engine visibility and content discoverability, the public website was built using server-side rendered ASP.NET pages, while the administrative interfaces consumed REST APIs.
+Rather than separating community engagement from online retail, the platform enabled players to build their public identity, interact with gaming content, and purchase both physical and digital products through a consistent user experience across desktop and mobile devices.
 
 ---
 
@@ -22,40 +20,35 @@ The challenge was to combine community features and commerce into a single platf
 
 ## Engineering Challenges
 
-- Building responsive experiences across desktop, tablet, and mobile devices.
-- Combining community features and commerce within a unified user experience.
-- Supporting different purchasing workflows for physical products, digital products, redeemable codes, bundled products, and customizable merchandise.
-- Integrating payment gateways while keeping shopping and fulfillment flows consistent.
+- Combining community features and digital commerce into a unified user experience without making either aspect feel secondary.
+- Supporting multiple fulfillment models for physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products through a consistent purchasing workflow.
+- Reusing the same commerce infrastructure to power event-oriented storefronts and promotional campaigns without requiring separate implementations.
 
 ---
 
 ## My Contributions
 
 - Collaborated in requirements analysis, frontend solution design, and API contract definition.
-- Designed and developed responsive user interfaces by adapting design references to the project's functional requirements.
-- Developed the public website, community features, shopping experience, and administrative interfaces.
-- Implemented commerce workflows covering product discovery, shopping cart, checkout, payments, order history, and multiple product fulfillment scenarios.
-- Integrated frontend applications with REST APIs for authentication, content management, commerce, and customer information.
+- Designed and developed the frontend applications for both the public platform and the administrative panel.
+- Implemented community features, including player profiles, content publishing, and user-facing interactions.
+- Built the complete commerce experience, covering product discovery, shopping cart, checkout, payments, order history, and multiple product fulfillment scenarios.
+- Developed administrative interfaces supporting content management, commerce operations, customer management, and platform administration.
 
 ---
 
 ## Technical Highlights
 
-### Responsive Community Experience
+- **Hybrid Community & Commerce Platform:** Combined player profiles, community features, content publishing, and digital commerce within a single platform, allowing users to move naturally between social engagement and purchasing workflows.
 
-Developed responsive interfaces allowing users to browse content, manage their profiles, publish posts, and access commerce features through a consistent experience across desktop and mobile devices.
+- **Flexible Product Fulfillment:** Supported multiple product types—including physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products—while presenting a unified shopping experience despite different fulfillment requirements.
 
-### Flexible Commerce Workflows
+- **Campaign-Oriented Storefronts:** Enabled dedicated event and promotional pages that showcased selected products and offers without requiring changes to the underlying commerce infrastructure.
 
-Built a commerce platform capable of handling physical merchandise, digital products, redeemable codes, customizable products, and bundled offerings through a unified shopping experience despite different fulfillment requirements.
-
-### Event-Oriented Promotions
-
-Implemented promotional storefronts that allowed products and campaigns to be presented through dedicated event pages without changing the underlying commerce structure.
+- **Player Identity System:** Provided public player profiles where users could present personal information, gaming activities, achievements, and community content as part of their online identity.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
 - Redux
