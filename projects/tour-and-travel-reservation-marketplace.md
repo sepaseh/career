@@ -18,7 +18,6 @@ The objective was to transform these fragmented interactions into a structured m
 
 ## Engineering Challenges
 
-- Rebuilding a significant portion of the frontend after a major product redesign.
 - Integrating authenticated workflows directly into the public website.
 - Implementing separate mobile and desktop experiences in a Next.js application while handling server-side device detection.
 - Preventing duplicated business logic across device-specific interfaces.
