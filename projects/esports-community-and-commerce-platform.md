@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project focused on developing a community-oriented esports platform that unified player profiles, gaming content, and digital commerce within a single ecosystem.
+This project involved developing a community-oriented esports platform that combined player identity, gaming content, and digital commerce within a unified ecosystem.
 
-Rather than separating community engagement from online retail, the platform enabled players to build their public identity, interact with gaming content, and purchase both physical and digital products through a consistent user experience across desktop and mobile devices.
+Beyond functioning as an online store or community website, the platform enabled players to build a public gaming identity, engage with community content, and purchase both physical and digital products through a consistent user experience. It brought together social interaction, content publishing, and commerce to support the broader needs of an esports community.
 
 ---
 
 ## The Problem
 
-Competitive gaming communities require more than content publishing.
+Competitive gaming communities lacked a dedicated platform where players could build a persistent identity while accessing the broader services surrounding the esports ecosystem.
 
-Players expect to build an online presence, discover content, and purchase gaming-related products through a consistent experience across desktop and mobile devices.
+Gaming-related activities such as player profiles, news, tournaments, merchandise, and digital products were typically scattered across separate platforms, requiring users to move between different services depending on their needs. This fragmented experience limited community engagement and made it difficult for organizers to build a unified ecosystem around competitive gaming.
 
-The challenge was to combine community features and commerce into a single platform while supporting different purchasing scenarios without making the overall user experience feel fragmented.
+The project aimed to bring these activities together into a single platform where community participation, digital identity, commerce, and esports services could coexist within a connected experience.
 
 ---
 

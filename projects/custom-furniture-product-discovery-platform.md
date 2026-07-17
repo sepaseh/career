@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project focused on designing and developing a multilingual corporate website and content management platform for a luxury custom wood furniture manufacturer.
+This project involved designing and developing a multilingual product discovery platform for a luxury custom wood furniture manufacturer.
 
-The platform was designed to help customers discover custom products through an intuitive browsing experience while providing administrators with a flexible system for managing products, projects, and marketing content.
+Beyond presenting products through a traditional catalog, the platform was designed around the different ways customers explore custom furniture. It unified multiple product discovery paths, rich marketing content, and content management within a single ecosystem, enabling customers to navigate the catalog from different perspectives while allowing administrators to manage the entire experience without technical assistance.
 
 ---
 
 ## The Problem
 
-Customers looking for custom furniture rarely begin their journey in the same way.
+Finding custom furniture is fundamentally different from purchasing standardized products, as customers often begin their search with inspiration rather than a specific item or model.
 
-Some already know the architectural style they prefer, others start with a product category, while many search based on the space they are designing.
+Traditional product catalogs were designed around fixed product listings, making it difficult for customers to explore collections from different perspectives or discover products that matched their preferences. At the same time, maintaining a rich multilingual catalog required continuous content updates without relying on technical teams.
 
-The challenge was to design an information architecture that supported these different customer perspectives without duplicating content or creating disconnected navigation structures.
+The project aimed to provide a flexible product discovery experience supported by a content management system that allowed both customers and administrators to navigate and manage the catalog more effectively.
 
 ---
 

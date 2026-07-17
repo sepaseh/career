@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project focused on developing a comprehensive hospitality platform that unified entertainment, hotel operations, guest services, room automation, and tourism experiences into a single digital ecosystem.
+This project involved developing a comprehensive hospitality platform that transformed in-room televisions into the primary digital touchpoint for hotel guests.
 
-Rather than serving as a standalone IPTV application, the platform became the primary digital touchpoint for hotel guests, providing access to virtually every service available throughout their stay.
+Beyond delivering IPTV services, the platform unified entertainment, hotel operations, guest services, room automation, and tourism experiences within a single ecosystem. It provided guests with seamless access to virtually every hotel service through a television-optimized interface while supporting a wide range of operating systems and hardware platforms.
 
 ---
 
 ## The Problem
 
-As guest expectations evolved, televisions were no longer viewed as devices for watching broadcast channels alone. Hotels increasingly sought to provide integrated in-room digital experiences combining entertainment, guest services, hotel information, and room automation through a single interface.
+Hotel guests typically relied on multiple disconnected channels to access services during their stay, including television, printed materials, reception staff, and direct phone calls.
 
-Delivering that experience required integrating multiple independent hospitality systems while supporting a wide variety of television operating systems and set-top box hardware.
+This fragmented experience made it difficult for guests to discover available services, while hotels lacked a unified digital platform for delivering information, entertainment, and hospitality services through a familiar in-room device. Rather than serving as a simple television system, there was an opportunity to transform the guest room into a centralized digital experience.
 
-The challenge was to build a unified platform that transformed the in-room television into the primary digital touchpoint for guests throughout their stay.
+The project aimed to consolidate guest-facing services into a single platform, enabling hotels to deliver entertainment, operational services, and local information through an integrated in-room experience.
 
 ---
 

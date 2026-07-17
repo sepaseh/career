@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project focused on designing and developing a multilingual marketplace platform for companies participating in exhibitions across Iran.
+This project involved designing and developing a multilingual marketplace platform for companies participating in exhibitions across Iran.
 
-The platform was designed to make exhibition services more transparent by connecting exhibitors with service providers while providing administrators with a flexible system for managing companies, exhibitions, content, and platform operations.
+Beyond serving as a business directory, the platform was designed to create a transparent marketplace where exhibitors could discover, compare, and eventually manage the services required for participating in exhibitions. It combined business profiles, exhibition information, service discovery, and operational management within a single ecosystem while providing a scalable foundation for future marketplace growth.
 
 ---
 
 ## The Problem
 
-International exhibitors entering the Iranian exhibition market often had limited knowledge of local service providers and fair pricing.
+Companies participating in exhibitions often relied on fragmented channels to find service providers, compare offerings, and coordinate the activities required before and during an event.
 
-As a result, services such as booth construction, catering, cleaning, promotional materials, gifts, and other exhibition-related operations frequently depended on a small network of intermediaries, making prices difficult to compare and limiting competition.
+The absence of a centralized platform made it difficult for exhibitors to discover reliable vendors, while service providers had limited opportunities to present their capabilities to potential customers. As a result, planning exhibition participation remained heavily dependent on personal networks and disconnected communication channels.
 
-The goal was to build a platform where exhibitors could discover service providers, compare available options, and gradually manage the entire exhibition preparation process through a single system.
+The project aimed to establish a unified marketplace where exhibitors and service providers could discover each other, manage their presence, and gradually move exhibition-related workflows into a single digital platform.
 
 ---
 

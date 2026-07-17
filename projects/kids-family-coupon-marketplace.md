@@ -2,19 +2,19 @@
 
 ## Overview
 
-Kids & Fun was a digital platform connecting family-oriented entertainment venues with customers through discounted promotional campaigns.
+This project involved developing a digital marketplace for family-oriented entertainment venues to manage promotional campaigns and sell discounted tickets.
 
-The platform enabled businesses to publish limited-time offers, manage coupon campaigns, sell discounted tickets, and validate them on-site through a dedicated mobile application.
-
-The system was successfully launched, remained in production for nearly two years, and processed thousands of coupon sales before the COVID-19 pandemic brought in-person recreational activities to a halt.
+Beyond offering online coupon sales, the platform unified campaign management, customer purchases, and on-site ticket validation within a single ecosystem. It enabled entertainment venues to independently create promotional offers while providing customers with a seamless purchasing experience and venue staff with a dedicated mobile solution for validating tickets during admission.
 
 ---
 
 ## The Problem
 
-This project focused on developing a digital marketplace that connected family-oriented entertainment venues with customers through promotional campaigns and discounted ticket sales.
+A growing community focused on children and family entertainment had already been built through social media, where discounted offers and promotional campaigns were shared with an expanding audience.
 
-Rather than relying on manual campaign distribution and coupon validation, the platform unified campaign management, online purchases, and on-site ticket validation into a single system for both customers and venue operators.
+As the community grew, managing promotions, purchases, and redemptions through manual workflows became increasingly difficult. Customers needed a more structured way to discover and purchase available offers, while venue operators required a reliable process for validating coupons and tracking campaign usage.
+
+The project aimed to transform an established community into a dedicated digital platform that managed the complete coupon lifecycle, from campaign publication and online purchase to on-site validation.
 
 ---
 

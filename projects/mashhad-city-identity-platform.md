@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project was the first commercial engagement delivered by SP Soft.
+This project involved developing a multilingual city identity platform for the International Relations Office of Mashhad Municipality.
 
-Developed for the International Relations Office of Mashhad Municipality, the platform introduced Mashhad to international visitors through multilingual content, cultural landmarks, visitor information, and a dedicated content management system.
-
-Rather than functioning as a conventional municipal website, it was designed as a long-term digital representation of the city, enabling non-technical staff to continuously publish and manage multilingual content while presenting Mashhad through interactive locations, rich media, and structured visitor information.
+Beyond functioning as a conventional municipal website, the platform served as a long-term digital representation of the city for international visitors. It combined multilingual content, cultural landmarks, visitor information, and interactive experiences within a centralized content management system, enabling non-technical staff to continuously maintain and expand the platform without developer involvement.
 
 ---
 
 ## The Problem
 
-The municipality needed a platform that could represent the city's identity while remaining easy to maintain by non-technical staff.
+The Municipality of Mashhad sought to establish an official digital presence that introduced the city's cultural identity, heritage, and visitor information to an international audience.
 
-Beyond publishing static information, the system needed to support multilingual content management, interactive locations, and future content growth without requiring continuous developer involvement.
+While information about Mashhad existed across different organizations and websites, there was no dedicated platform that presented the city through a consistent digital experience comparable to the official destination websites of major international cities. The project was intended to represent Mashhad's identity rather than provide commercial tourism services.
+
+The project aimed to create an official city website that combined cultural, historical, and practical visitor information within a unified experience, using a visual language inspired by Iranian-Islamic design to reflect the city's identity.
 
 ---
 

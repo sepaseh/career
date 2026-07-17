@@ -2,17 +2,19 @@
 
 ## Overview
 
-This project focused on developing a browser extension-based cryptocurrency wallet ecosystem supporting multiple blockchain networks.
+This project involved developing a browser extension-based cryptocurrency wallet ecosystem supporting multiple blockchain networks.
 
-Beyond the wallet itself, the ecosystem included developer-facing tools, an application marketplace, and additional web applications supporting blockchain users and developers through a unified platform.
+Beyond the wallet itself, the ecosystem expanded into a broader suite of products, including developer-facing tools, an application marketplace, and supporting web applications. Rather than treating the wallet as a standalone product, the platform was designed as the foundation of an integrated blockchain ecosystem that enabled users, developers, and partner applications to interact through a consistent frontend experience.
 
 ---
 
 ## The Problem
 
-Modern blockchain ecosystems require more than a standalone wallet. Users, developers, and ecosystem participants expect integrated tools that simplify blockchain interactions while maintaining a secure and intuitive user experience.
+Managing digital assets requires balancing strong security with an experience that remains practical for everyday users. Conventional wallet models often relied on a single point of authorization, increasing the impact of compromised credentials or devices.
 
-The challenge was to build scalable frontend applications capable of supporting multiple products within a rapidly evolving blockchain ecosystem.
+The initial objective was to build a multi-signature wallet that provided stronger protection without making asset management unnecessarily complex. As the product matured, it became clear that long-term adoption would depend not only on the wallet itself, but also on the surrounding ecosystem that could reinforce trust, usability, and developer engagement.
+
+The project therefore evolved from building a secure wallet into establishing the foundation for a broader blockchain ecosystem centered around that product.
 
 ---
 

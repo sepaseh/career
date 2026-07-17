@@ -2,23 +2,19 @@
 
 ## Overview
 
-This project focused on developing a location-based supermarket retail platform for online grocery shopping, customer ordering, delivery coordination, and store-side management.
+This project involved developing a location-based supermarket retail platform for online grocery shopping, customer ordering, delivery coordination, and retail operations.
 
-Rather than building a traditional online supermarket, the platform unified customer ordering, branch selection, inventory integration, delivery management, and retail operations into a single system.
+Beyond offering an online supermarket, the platform unified customer ordering, branch selection, inventory integration, delivery management, and in-store operations within a single retail ecosystem. It was designed to support the complete purchasing journey while providing the operational workflows required to manage day-to-day supermarket activities across multiple branches.
 
 ---
 
 ## The Problem
 
-Before the platform, customer orders were handled primarily over the phone, while branch operations were managed separately through internal retail systems with no unified online experience.
+A group of independently operated supermarkets wanted to expand beyond traditional phone-based ordering by offering a unified online shopping experience.
 
-A supermarket retail business needs more than a simple online catalog.
+Rather than maintaining separate websites for each branch, they needed a single platform where customers could browse products and place orders based on their location, while each supermarket continued serving its own delivery area. The challenge was to present the network as one consistent retail experience without exposing its underlying operational structure to customers.
 
-Customers expect to browse products quickly, manage their cart, choose delivery information, track orders, and complete payments through a smooth experience across mobile and desktop devices.
-
-At the same time, the business needs operational tools for inventory-oriented product management, order processing, delivery coordination, customer communication, access control, and commercial campaigns such as special offers.
-
-The goal was to build a connected retail platform that supported both customer experience and day-to-day retail operations.
+The project aimed to complement the existing ordering process with an integrated online platform that connected multiple supermarkets through a single customer-facing experience while preserving each branch's independent operations.
 
 ---
 
