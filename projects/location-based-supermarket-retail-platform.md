@@ -6,8 +6,6 @@ This project focused on developing a location-based supermarket retail platform 
 
 Rather than building a traditional online supermarket, the platform unified customer ordering, branch selection, inventory integration, delivery management, and retail operations into a single system.
 
-The product included customer-facing web and PWA experiences, responsive shopping interfaces, and an administrative panel for managing products, categories, orders, users, couriers, messages, special offers, and platform settings.
-
 ---
 
 ## The Problem
@@ -20,81 +18,47 @@ Customers expect to browse products quickly, manage their cart, choose delivery 
 
 At the same time, the business needs operational tools for inventory-oriented product management, order processing, delivery coordination, customer communication, access control, and commercial campaigns such as special offers.
 
-The challenge was to build a connected retail platform that supported both customer experience and daily operational workflows.
+The goal was to build a connected retail platform that supported both customer experience and day-to-day retail operations.
 
 ---
 
 ## Engineering Challenges
 
 - Building responsive customer-facing shopping experiences across mobile, tablet, laptop, and desktop screens.
-- Supporting both SPA and PWA-oriented frontend experiences.
-- Integrating the platform with inventory and accounting services.
-- Managing shopping cart behavior, product quantities, favorites, customer addresses, and checkout flows.
-- Calculating delivery cost based on customer location and selected address.
-- Supporting multiple payment methods, including online payment, cash, card reader, and wallet credit.
-- Building an administrative panel for products, categories, orders, users, couriers, messages, special offers, and settings.
-- Designing role-based access control for operational users in the management panel.
+- Coordinating complex shopping workflows across product discovery, cart management, checkout, and order tracking.
+- Reproducing the customer purchasing workflow inside the administrative panel to support operator-assisted phone orders.
 
 ---
 
 ## My Contributions
 
-- Developed the frontend applications for the supermarket retail platform.
+- Developed the frontend applications for both the customer-facing platform and the administrative panel.
 - Contributed to backend analysis and workflow design where frontend architecture and business processes overlapped.
-- Built responsive customer-facing pages for home, categories, product listing, product detail, cart, orders, profile, wallet, favorites, FAQ, and messages.
-- Implemented PWA-oriented shopping workflows for mobile users.
-- Developed the administrative panel used for managing products, categories, users, orders, phone orders, couriers, messages, special offers, and platform settings.
-- Integrated frontend applications with REST APIs for authentication, product data, cart submission, order management, customer information, and platform configuration.
-- Implemented address-based checkout behavior, including delivery-cost calculation from customer location data.
-- Supported multiple payment workflows, including online gateway redirection, cash, card reader, and wallet-based payment.
-- Implemented permission-aware management screens for different operational roles.
+- Implemented customer-facing shopping features across the complete purchasing journey, from product discovery to order completion.
+- Built an operator-assisted ordering workflow that enabled customer service staff to create and manage phone orders through the administrative panel using the same purchasing process as online customers.
+- Developed administrative interfaces supporting day-to-day retail operations across order management, customer services, and platform administration.
+- Implemented multiple payment workflows, including online gateway, cash, card reader, and wallet-based payments.
 
 ---
 
 ## Technical Highlights
 
-### Responsive Retail Experience
+- **Location-Based Branch Routing:** Orders were automatically assigned to the nearest eligible supermarket branch based on the customer's active delivery address. When branch service areas overlapped, orders could be routed to another branch, while addresses outside supported delivery zones were rejected.
 
-Developed shopping interfaces that adapted across portrait phones, landscape phones, tablets, laptops, and desktop screens, covering key customer journeys such as browsing, category navigation, product detail, cart, orders, wallet, profile, favorites, authentication, and FAQ pages while preserving consistent shopping workflows.
+- **Distance-Based Delivery Pricing:** Delivery costs were calculated using configurable geographic distance ranges, allowing pricing rules to scale consistently across multiple branch service areas without manual intervention.
 
-### Customer Shopping Flow
+- **Barcode-Centered Product Catalog:** The platform relied on product barcodes as the shared identifier across all supermarket branches, enabling a unified product catalog while allowing each branch to synchronize its own inventory independently.
 
-Implemented the customer purchase flow from product discovery to cart management, address selection, delivery calculation, payment type selection, order submission, and payment gateway redirection when required.
-
-### PWA-Oriented Mobile Experience
-
-Built a mobile-focused experience with install-oriented behavior, mobile navigation patterns, persistent shopping actions, and customer account workflows designed for repeated grocery shopping use.
-
-### Multi-Branch Order Routing
-
-Designed branch-aware ordering behavior so customer location and selected address could guide delivery availability and operational order handling.
-
-### Centralized Product Catalog
-
-Built catalog management around shared product data for supermarket operations.
-
-Product identities were standardized using existing retail barcodes, allowing inventory data to remain consistent across different accounting systems while significantly reducing onboarding effort for new supermarket deployments.
-
-### Business-Oriented Administration
-
-Developed a management panel for daily retail operations, including configurable service radius, branch-specific order management, dynamic operational roles, product and category management, courier management, customer management, messages, special offers, and system settings.
-
-### Location-Based Delivery Logic
-
-Integrated address and map-based workflows to support customer delivery locations, default addresses, latitude and longitude values, and delivery-cost calculation based on the selected address.
-
-### Role-Based Panel Access
-
-Implemented permission-based access control in the administrative panel so operational users could access only the sections and actions relevant to their roles.
+- **Adaptive Shopping Experience:** A shared frontend architecture delivered interfaces optimized for different devices, providing a traditional desktop shopping experience alongside an installation-ready Progressive Web App (PWA) tailored for frequent mobile purchases.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
+- TypeScript
 - Redux
 - Ant Design
-- PWA
-- Leaflet
-- Firebase Cloud Messaging
+- Firebase Cloud Messaging (FCM)
+- Progressive Web App (PWA)
 - REST APIs
