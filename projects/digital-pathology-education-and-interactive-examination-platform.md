@@ -54,6 +54,7 @@ The challenge was to recreate the practical experience of navigating pathology s
 ## Technology Stack
 
 - React
-- Vite
+- Redux
+- Ant Design
 - REST APIs
 - Deep Zoom Imaging

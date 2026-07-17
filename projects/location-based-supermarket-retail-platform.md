@@ -56,7 +56,6 @@ The goal was to build a connected retail platform that supported both customer e
 ## Technology Stack
 
 - React
-- TypeScript
 - Redux
 - Ant Design
 - Firebase Cloud Messaging (FCM)
