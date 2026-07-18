@@ -1,41 +1,36 @@
 # Mahdi Sepaseh
 
-**Senior Software Engineer**
+**Senior Frontend Engineer**
 
-**Frontend Architecture | System Design | Product Development**
+**React | TypeScript | Frontend Architecture**
 
 Mashhad, Iran
 
 Email: [m.sepaseh@gmail.com](mailto:m.sepaseh@gmail.com)
 
-LinkedIn: linkedin.com/in/sepaseh
-GitHub: github.com/sepaseh
+LinkedIn: [linkedin.com/in/sepaseh](https://www.linkedin.com/in/sepaseh/)
+
+GitHub: [github.com/sepaseh](https://github.com/sepaseh)
 
 ---
 
 ## Professional Summary
 
-Senior Software Engineer with 17+ years of experience designing scalable frontend architectures, enterprise software, and digital products across blockchain, healthcare, hospitality, industrial automation, fintech, and professional networking.
-
-Experienced in transforming complex business requirements into maintainable software solutions through frontend architecture, system design, and cross-functional technical leadership, with a strong focus on React and TypeScript ecosystems.
+Senior Frontend Engineer with 17+ years of experience building web applications across blockchain, healthcare, industrial software, hospitality, and enterprise platforms. Specialized in React, TypeScript, and frontend architecture, with a strong focus on translating complex business requirements into maintainable software.
 
 ---
 
 ## Core Skills
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, SASS, LESS
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3
 
-**React Ecosystem:** React Context, Redux, React Query, React Router, React Hook Form, Zod
+**State Management:** React Query, Redux, Context API
 
-**UI & Styling:** Ant Design, MUI, styled-components, Design Systems, Responsive Web Design, Progressive Web Apps (PWA)
+**UI & Styling:** Styled Components, Sass, Ant Design, Material UI
 
-**Architecture:** Frontend Architecture, Component-Based Architecture, Software Architecture, System Design, Monorepo, Browser Extension Development
+**Testing & Tooling:** Vite, ESLint, Prettier, Git, GitHub Actions
 
-**APIs & Communication:** REST APIs, gRPC, WebSocket
-
-**Development:** Vite, Rollup, Git, Docker, ESLint, Prettier, npm, pnpm, Yarn
-
-**Design Tools:** Figma, Adobe Photoshop
+**Architecture:** Frontend Architecture, Design Systems, Performance Optimization
 
 ---
 
@@ -43,88 +38,71 @@ Experienced in transforming complex business requirements into maintainable soft
 
 ### Senior Software Engineer
 
-**BitWatt** | Jul 2024 – Apr 2026
+[**BitWatt**](experience/bitwatt.md) | Jul 2024 – Apr 2026
 
-- Developed web applications supporting a blockchain ecosystem centered on a multi-chain, multi-signature cryptocurrency wallet.
+- Developed frontend applications supporting a blockchain ecosystem centered on a multi-chain, multi-signature cryptocurrency wallet.
 - Designed frontend architecture for developer platforms, transaction automation services, and supporting web applications.
-- Implemented schema-driven dynamic user interfaces for configurable workflows.
-- Contributed to system analysis, technical planning, and blockchain service integration.
-- Contributed to the frontend development of an AI-assisted physiotherapy platform.
+- Contributed to system analysis, technical planning, blockchain service integration, and the frontend development of an AI-assisted physiotherapy platform.
 
 ### Technical Lead
 
-**Veerasense** | Aug 2023 – Jul 2024
+[**Veerasense**](experience/veerasense.md) | Aug 2023 – Jul 2024
 
-- Led software development across AI-powered enterprise platforms for industrial and enterprise customers.
-- Participated in software architecture, system analysis, and technical decision-making.
-- Collaborated with AI and backend engineers to deliver scalable software solutions.
-- Coordinated technical communication, deployment, and customer onboarding.
-- Designed maintainable software supporting diverse industrial environments.
+- Led development of AI-powered industrial software solutions supporting monitoring, safety, inspection, and operational workflows.
+- Participated in software architecture, system analysis, and technical decision-making for enterprise software across multiple industries.
+- Worked directly with enterprise customers to translate operational requirements into scalable software solutions and support successful delivery.
 
 ### Technical Lead
 
-**Hoomaan** | Dec 2022 – May 2023
+[**Hoomaan**](experience/hoomaan.md) | Dec 2022 – May 2023
 
-- Led frontend development for a location-based retail marketplace platform.
-- Participated in software architecture and technical planning for scalable retail solutions.
-- Designed frontend solutions supporting distributed inventory and location-aware business workflows.
-- Collaborated with backend engineers to deliver integrated enterprise web applications.
-- Developed SEO-oriented web applications using Next.js.
+- Led frontend development of a location-based retail marketplace supporting customer ordering and retail operations.
+- Participated in software architecture and technical planning for location-based retail workflows and distributed inventory management.
+- Collaborated with backend engineers to deliver scalable marketplace solutions and coordinate technical implementation.
 
 ### Co-Founder / Software Engineer
 
-**SP Soft (Software Solutions Provider)** | May 2018 – Dec 2022
+[**SP Soft (Software Solutions Provider)**](experience/sp-soft.md) | May 2018 – Dec 2022
 
-- Delivered enterprise software solutions across healthcare, hospitality, tourism, education, finance, and business management.
-- Translated business requirements into scalable software and frontend architectures.
-- Developed maintainable web applications in collaboration with customers and backend engineers.
-- Participated in deployment and long-term product evolution across multiple enterprise projects.
+- Co-founded a software development company delivering enterprise software solutions across healthcare, hospitality, tourism, education, finance, and business management.
+- Led requirements analysis, solution design, frontend architecture, and implementation across projects spanning multiple business domains.
+- Collaborated directly with customers to translate operational requirements into scalable, maintainable software solutions throughout the product lifecycle.
 
 ### Senior Web Developer
 
-**Profile Digital** | Jul 2015 – May 2018
+[**Profile Digital**](experience/profile-digital.md) | Jul 2015 – May 2018
 
-- Developed Single-Page Applications using early JavaScript frameworks for a professional networking and digital identity platform.
-- Built reusable frontend components and API-driven web applications in collaboration with backend engineers.
-- Developed SEO-oriented public profiles and interactive web pages.
-- Contributed to configurable workflow and survey-based enterprise applications.
+- Contributed to the development of one of Iran's early professional networking and digital identity platforms.
+- Developed SEO-oriented public profile pages balancing search engine discoverability with interactive user experiences.
+- Built API-driven frontend applications and configurable workflow systems supporting scalable enterprise web platforms.
 
 ### Co-Founder / Web Developer
 
-**Commercial Trade Promotion** | Oct 2011 – May 2015
+[**Commercial Trade Promotion**](experience/commercial-trade-promotion.md) | Oct 2011 – May 2015
 
-- Delivered websites and digital solutions for commercial and industrial organizations.
-- Designed and implemented custom WordPress-based websites tailored to customer requirements.
-- Developed SEO-oriented websites and search-friendly content structures.
-- Collaborated directly with customers throughout solution design and implementation.
+- Co-founded a digital solutions company delivering websites for commercial and industrial organizations.
+- Designed and implemented custom WordPress themes tailored to customer branding and business requirements.
+- Built SEO-oriented websites while collaborating directly with customers to deliver search-friendly digital solutions.
 
 ### Junior Web Developer
 
-**Kaspid** | Nov 2008 – Mar 2011
+[**Kaspid**](experience/kaspid.md) | Nov 2008 – Mar 2011
 
-- Developed corporate websites and frontend templates for customer projects.
-- Integrated frontend implementations with CMS-based websites in collaboration with senior developers.
-- Supported website deployment, maintenance, and SEO-oriented web development practices.
+- Started my professional web development career at the age of 16, contributing to customer website projects within a collaborative development team.
+- Developed frontend templates and integrated them into CMS-based websites for commercial customers.
+- Gained early experience in SEO-oriented web development, production deployments, and customer website delivery.
 
 ---
 
 ## Selected Projects
 
-### Multi-Signature Crypto Wallet Ecosystem
+[**Multi-Signature Crypto Wallet Ecosystem:**](projects/multi-signature-crypto-wallet-ecosystem.md) Browser extension-based cryptocurrency wallet ecosystem supporting multiple blockchain networks through a multi-signature wallet architecture. Beyond the wallet itself, the ecosystem included developer tools, an application marketplace, and supporting web applications, creating an integrated blockchain ecosystem for both users and developers.
 
-Contributed to the development of a browser extension-based cryptocurrency wallet ecosystem, including transaction signing, developer platforms, transaction automation services, and scalable frontend architecture.
+[**Professional Social Network & Identity Platform:**](projects/professional-social-network-and-identity-platform.md) Professional networking platform enabling individuals and organizations to establish searchable digital identities online. The platform combined public profile pages, social interactions, configurable workflows, and SEO-oriented architecture to improve discoverability and long-term visibility.
 
-### Hospitality Guest Experience & IPTV Platform
+[**Digital Pathology Education & Interactive Examination Platform:**](projects/digital-pathology-education-and-interactive-examination-platform.md) Browser-based digital pathology platform enabling education and interactive examinations using extremely high-resolution microscopic tissue slides. The platform combined deep zoom visualization, educational content, annotations, and examination workflows to recreate the experience of exploring pathology slides through a standard web browser.
 
-Designed and developed an integrated hospitality platform combining IPTV, hotel automation, guest services, live TV streaming, and room management.
-
-### Digital Pathology Education & Interactive Examination Platform
-
-Developed a web-based pathology education platform featuring gigapixel image visualization, Deep Zoom technology, interactive annotations, and online examination workflows.
-
-### First Iranian Professional Social Network & Identity Platform
-
-Contributed to one of Iran's earliest professional networking platforms by developing SEO-oriented public profiles, configurable workflows, and scalable API-driven web applications.
+[**Hospitality Guest Experience & IPTV Platform:**](projects/hospitality-guest-experience-and-iptv-platform.md) Comprehensive hospitality platform that transformed in-room televisions into the primary digital touchpoint for hotel guests. Beyond IPTV services, the platform unified entertainment, hotel operations, guest services, room automation, and tourism experiences within a single ecosystem.
 
 ---
 
