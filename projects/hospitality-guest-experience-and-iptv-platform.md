@@ -30,12 +30,10 @@ The project aimed to consolidate guest-facing services into a single platform, e
 
 ## My Contributions
 
-- Developed the frontend of the integrated hospitality platform.
-- Designed television-optimized user interfaces across multiple device platforms.
-- Built a shared web application capable of running across different television operating systems through platform-specific wrappers.
-- Implemented guest-facing hospitality services including dining, concierge, transportation, tourism, and room service workflows.
-- Developed interfaces for room automation, including lighting and HVAC controls.
-- Collaborated with backend engineers on hospitality system integrations.
+- Conducted business analysis to translate hotel operational requirements into guest-facing digital experiences.
+- Designed a television navigation model inspired by the Windows Modern UI experience, optimized for directional remote-control input.
+- Built a configurable cross-platform frontend supporting multiple television platforms, selectable interface themes, and hotel-specific deployments.
+- Designed user experiences for hospitality services, room automation, and guest interactions while collaborating on backend API integration.
 
 ---
 

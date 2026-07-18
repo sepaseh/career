@@ -28,10 +28,9 @@ The project aimed to bring these activities together into a single platform wher
 ## My Contributions
 
 - Collaborated in requirements analysis, frontend solution design, and API contract definition.
-- Designed and developed the frontend applications for both the public platform and the administrative panel.
-- Implemented community features, including player profiles, content publishing, and user-facing interactions.
-- Built the complete commerce experience, covering product discovery, shopping cart, checkout, payments, order history, and multiple product fulfillment scenarios.
-- Developed administrative interfaces supporting content management, commerce operations, customer management, and platform administration.
+- Redesigned the user experience after evaluating the client's initial concept, creating a more cohesive interface for community features and digital commerce.
+- Designed the purchasing experience for multiple product types with distinct fulfillment workflows while maintaining a consistent customer journey.
+- Helped evolve the platform from a conventional gaming website into a community-oriented experience centered around persistent player identities.
 
 ---
 

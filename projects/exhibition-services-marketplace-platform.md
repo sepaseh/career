@@ -28,9 +28,7 @@ The project aimed to establish a unified marketplace where exhibitors and servic
 
 - Led product analysis and platform design based on the client's vision.
 - Designed the platform's information architecture, business workflows, and relational data model.
-- Implemented the multilingual public website using Next.js with server-side rendering.
-- Designed and implemented the dynamic administration panel.
-- Coordinated backend development while leading the frontend architecture and implementation.
+- Led product planning and technical design while coordinating backend implementation throughout the project.
 
 ---
 

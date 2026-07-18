@@ -26,11 +26,10 @@ The project aimed to provide a flexible product discovery experience supported b
 
 ## My Contributions
 
-- Led business analysis by visiting the client's factory and reviewing completed projects to understand customer behavior and product organization.
-- Researched international competitors, particularly Italian manufacturers, to benchmark successful approaches where comparable local examples were unavailable.
-- Designed the platform's information architecture and relational content model.
-- Collaborated on developing the multilingual public website and administration panel.
-- Designed and implemented the dynamic content management system supporting products, projects, architectural styles, spaces, catalogs, certificates, blog content, users, and permissions.
+- Conducted business analysis through on-site visits to the client's factory and completed projects to better understand customer workflows and product organization.
+- Researched international competitors to identify product discovery patterns where comparable local references were unavailable.
+- Designed the platform's information architecture, user experience, and user interface based on business analysis and market research.
+- Developed the frontend of the multilingual product discovery platform.
 
 ---
 

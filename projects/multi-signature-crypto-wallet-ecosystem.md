@@ -29,10 +29,9 @@ The project therefore evolved from building a secure wallet into establishing th
 
 ## My Contributions
 
-- Developed frontend features for the browser extension wallet.
 - Designed and implemented a custom browser extension architecture after identifying limitations in the initial development tooling.
 - Built and maintained the browser extension build pipeline for multiple extension entry points.
-- Contributed to developer-facing web applications and ecosystem services.
+- Developed a schema-driven dynamic form system that allowed ecosystem applications to render developer-defined configuration interfaces without frontend code changes.
 
 ---
 

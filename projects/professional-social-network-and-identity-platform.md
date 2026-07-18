@@ -28,12 +28,11 @@ The project aimed to establish a unified ecosystem where digital identity became
 
 ## My Contributions
 
-- Developed the frontend of the platform using AngularJS.
 - Designed and implemented reusable frontend components shared across multiple product modules.
 - Built SEO-oriented public profile pages using a hybrid server-rendered and client-rendered approach.
 - Developed Google AMP pages to improve mobile search visibility and loading performance.
-- Implemented frontend support for professional profiles, organization pages, and identity management workflows.
-- Collaborated with backend engineers on API-driven frontend applications.
+- Developed the hybrid mobile application using Apache Cordova from the shared web codebase.
+- Implemented a real-time feed update mechanism that notified users of newly available content without continuously reloading the timeline.
 
 ---
 

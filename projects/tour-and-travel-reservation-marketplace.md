@@ -29,13 +29,10 @@ The project aimed to bring these disconnected workflows together within a single
 
 ## My Contributions
 
-- Developed the frontend of the tourism marketplace.
-- Participated in frontend architecture discussions, API integration, and user workflow design.
-- Built public-facing pages for tours, accommodations, attractions, booking flows, and marketplace features.
-- Contributed to rebuilding the product around a unified website experience.
-- Developed multi-step tour management workflows and the accommodation reservation experience.
-- Implemented configurable homepage templates and content management features.
-- Collaborated closely with backend engineers throughout frontend integration and product development.
+- Contributed to rebuilding the product around a unified website experience, replacing the previous separation between public and authenticated applications.
+- Developed multi-step tour management workflows with draft persistence and resumable progress.
+- Implemented the accommodation reservation experience around room-level availability and booking workflows.
+- Developed a configurable homepage template system that allowed administrators to compose and manage dynamic landing pages without frontend changes.
 
 ---
 

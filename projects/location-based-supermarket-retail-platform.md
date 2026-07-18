@@ -28,12 +28,8 @@ The project aimed to complement the existing ordering process with an integrated
 
 ## My Contributions
 
-- Developed the frontend applications for both the customer-facing platform and the administrative panel.
-- Contributed to backend analysis and workflow design where frontend architecture and business processes overlapped.
-- Implemented customer-facing shopping features across the complete purchasing journey, from product discovery to order completion.
-- Built an operator-assisted ordering workflow that enabled customer service staff to create and manage phone orders through the administrative panel using the same purchasing process as online customers.
-- Developed administrative interfaces supporting day-to-day retail operations across order management, customer services, and platform administration.
-- Implemented multiple payment workflows, including online gateway, cash, card reader, and wallet-based payments.
+- Designed and implemented an operator-assisted ordering workflow, allowing customer service staff to create phone orders through a dedicated interface while assigning purchases to customer accounts.
+- Implemented multiple checkout workflows supporting online payment, wallet, cash, and card reader transactions.
 
 ---
 

@@ -27,13 +27,10 @@ The project aimed to create an official city website that combined cultural, his
 
 ## My Contributions
 
-- Participated in requirements analysis and solution design.
-- Managed client communication and project coordination.
-- Developed the multilingual public website frontend.
-- Developed the React-based administration panel.
-- Implemented the responsive user experience across desktop and mobile devices.
+- Participated in requirements analysis and solution design alongside the backend engineer.
+- Designed and implemented the frontend architecture for fully localized content, allowing new languages to be introduced without frontend changes.
 - Built the interactive city map with dynamically managed points of interest.
-- Delivered CMS training for municipality staff after deployment.
+- Delivered administrator training after deployment to support ongoing content management.
 
 ---
 

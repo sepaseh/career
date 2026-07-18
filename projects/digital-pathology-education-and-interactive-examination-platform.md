@@ -32,7 +32,6 @@ The project aimed to recreate the experience of examining tissue samples digital
 - Designed the browser-based approach for navigating pathology slides.
 - Developed the frontend of the digital pathology platform.
 - Built the interactive educational and examination experience on top of pathology slides.
-- Developed annotation and marker management features for educational content and examinations.
 - Collaborated with the backend engineer on image processing workflows and platform integration.
 
 ---

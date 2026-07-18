@@ -28,11 +28,10 @@ The project aimed to transform an established community into a dedicated digital
 
 ## My Contributions
 
-- Analyzed business requirements and contributed to workflow design and API contract definition.
-- Developed the customer-facing web application for browsing campaigns, purchasing coupons, and managing customer accounts.
-- Built a Progressive Web App (PWA) that enabled venue staff to validate coupons through QR code scanning or manual code entry.
-- Collaborated on frontend architecture and integrated the applications with REST APIs supporting campaign management, commerce, authentication, and coupon validation.
-- Supported the platform throughout its production lifecycle, refining workflows based on operational feedback.
+- Conducted business analysis, designed platform workflows, and contributed to API contract definition.
+- Developed the customer-facing marketplace for campaign discovery, coupon purchases, and account management.
+- Built a Progressive Web App (PWA) for venue staff to validate coupons through QR code scanning and manual code entry.
+- Refined platform workflows throughout production based on operational feedback from venue operators.
 
 ---
 
