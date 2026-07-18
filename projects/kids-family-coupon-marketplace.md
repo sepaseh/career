@@ -37,13 +37,9 @@ The project aimed to transform an established community into a dedicated digital
 
 ## Technical Highlights
 
-- **Campaign Management Platform:** Enabled entertainment venues to independently create and manage promotional campaigns by configuring pricing, coupon quantities, sales periods, and redemption rules without requiring technical assistance.
+- **Flexible Campaign Model:** Designed a configurable campaign structure that supported multiple ticket types with independent pricing, age groups, inventory limits, sales periods, and redemption rules within a single campaign.
 
-- **End-to-End Coupon Lifecycle:** Unified campaign publishing, coupon purchases, redemption, and validation into a single workflow, replacing previously manual processes with a centralized digital platform.
-
-- **Reliable Coupon Validation:** Implemented a validation process supporting both QR code scanning and manual code entry while preventing duplicate coupon redemption across venue operations.
-
-- **Mobile Validation Experience:** Delivered a Progressive Web App (PWA) that allowed venue staff to validate coupons directly from mobile devices, reducing operational overhead during customer check-in.
+- **Progressive Mobile Operations:** Delivered a Progressive Web App that enabled venue staff to perform ticket validation directly from mobile devices without requiring platform-specific native applications.
 
 ---
 
@@ -52,5 +48,5 @@ The project aimed to transform an established community into a dedicated digital
 - React
 - Redux
 - Ant Design
-- Progressive Web App (PWA)
 - REST APIs
+- Progressive Web App (PWA)

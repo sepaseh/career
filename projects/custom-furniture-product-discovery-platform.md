@@ -35,24 +35,13 @@ The project aimed to provide a flexible product discovery experience supported b
 
 ## Technical Highlights
 
-### Multiple Product Discovery Paths
-
-Designed three independent navigation paths based on architectural styles, product categories, and usage spaces, allowing customers to discover products according to their own decision-making process while navigating the same product catalog.
-
-### Information Architecture Driven by Business Analysis
-
-Rather than organizing content around the company's internal structure, the platform's information architecture was designed around observed customer behavior gathered through on-site analysis and research of mature international competitors.
-
-### SEO-Oriented Content Platform
-
-Designed the public website with multilingual content and SEO-friendly information architecture. The platform achieved first-page Google rankings for several target keywords within its market niche.
+- **Relational Product Classification:** Structured product relationships so that the same catalog could be explored through multiple independent navigation paths without duplicating product data, keeping navigation flexible while maintaining a single source of truth for product information.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
 - Redux
 - Ant Design
 - REST APIs
-- Search Engine Optimization (SEO)

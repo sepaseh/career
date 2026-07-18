@@ -36,13 +36,11 @@ The project aimed to bring these activities together into a single platform wher
 
 ## Technical Highlights
 
-- **Hybrid Community & Commerce Platform:** Combined player profiles, community features, content publishing, and digital commerce within a single platform, allowing users to move naturally between social engagement and purchasing workflows.
+- **Flexible Product Fulfillment:** Supported multiple fulfillment models—including physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products—while maintaining a consistent purchasing workflow across different product types.
 
-- **Flexible Product Fulfillment:** Supported multiple product types—including physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products—while presenting a unified shopping experience despite different fulfillment requirements.
+- **Attribute-Driven Product Model:** Designed the product model around configurable attributes that dynamically influenced filtering, pricing, and product behavior, enabling diverse product types to be managed through a unified structure.
 
-- **Campaign-Oriented Storefronts:** Enabled dedicated event and promotional pages that showcased selected products and offers without requiring changes to the underlying commerce infrastructure.
-
-- **Player Identity System:** Provided public player profiles where users could present personal information, gaming activities, achievements, and community content as part of their online identity.
+- **Configurable Campaign Storefronts:** Enabled dedicated event and promotional storefronts that assembled curated product selections without requiring changes to the underlying commerce infrastructure.
 
 ---
 

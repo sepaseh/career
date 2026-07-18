@@ -41,8 +41,6 @@ The project aimed to complement the existing ordering process with an integrated
 
 - **Barcode-Centered Product Catalog:** The platform relied on product barcodes as the shared identifier across all supermarket branches, enabling a unified product catalog while allowing each branch to synchronize its own inventory independently.
 
-- **Adaptive Shopping Experience:** A shared frontend architecture delivered interfaces optimized for different devices, providing a traditional desktop shopping experience alongside an installation-ready Progressive Web App (PWA) tailored for frequent mobile purchases.
-
 ---
 
 ## Technology Stack
@@ -50,6 +48,5 @@ The project aimed to complement the existing ordering process with an integrated
 - React
 - Redux
 - Ant Design
-- Firebase Cloud Messaging (FCM)
-- Progressive Web App (PWA)
 - REST APIs
+- Progressive Web App (PWA)

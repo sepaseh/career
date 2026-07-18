@@ -39,26 +39,19 @@ The project aimed to consolidate guest-facing services into a single platform, e
 
 ## Technical Highlights
 
-### End-to-End Guest Experience
+- **Cross-Platform Frontend Architecture:** Built a shared frontend architecture that supported Linux-based set-top boxes, Android set-top boxes, Android TV, LG webOS, and Samsung Tizen devices without maintaining separate codebases.
 
-Developed a unified guest experience covering entertainment, hotel information, dining, room automation, concierge services, transportation, tourism, and personalized hospitality features through a single television interface.
+- **Device Abstraction Layer:** Introduced device-specific key mapping that isolated hardware differences from the application logic, enabling the same interface and navigation model to operate consistently across multiple television platforms.
 
-### Cross-Platform Hospitality Platform
+- **Dynamic Television Navigation:** Designed a configurable navigation model that adapted to each hotel's enabled services while preserving a predictable remote-control experience across different deployments.
 
-Developed frontend applications supporting Linux-based set-top boxes, Android set-top boxes, Android TV, LG webOS, and Samsung Tizen devices.
-
-### Live Television Integration
-
-Contributed to interactive television features supporting live TV streaming alongside multimedia entertainment and hospitality services.
-
-### Modular Frontend Architecture
-
-Developed reusable frontend modules supporting continuous platform expansion as new hospitality services and guest experiences were introduced.
+- **Custom Android TV Launcher:** Replaced the standard Android TV launcher with a custom launcher that prevented guests from leaving the hospitality environment, allowing the television to operate as a dedicated hospitality device while maintaining a seamless guest experience.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - Vanilla JavaScript
 - HTML5
 - CSS3
+- Hybrid WebView Architecture

@@ -36,21 +36,11 @@ The project aimed to create an official city website that combined cultural, his
 
 ## Technical Highlights
 
-### Dynamic Content Management
+- **Language-Agnostic Content Model:** Built the frontend around a localized content structure that allowed pages, widgets, events, and other content to expand to additional languages without frontend changes.
 
-Built the frontend around a language-aware content model, allowing pages, widgets, events, and other content to expand to additional languages without restructuring the application.
+- **Admin-Managed Content Architecture:** Built a content architecture where public pages, widgets, galleries, events, FAQs, and news could be maintained by administrators without frontend changes or developer involvement.
 
-### Interactive City Map
-
-Implemented a CMS-driven map where administrators managed locations and coordinates while the frontend rendered interactive markers and contextual information dynamically.
-
-### Independent Content Administration
-
-Developed an administrative panel enabling municipality staff to manage pages, widgets, galleries, events, FAQs, news, and other public content without developer assistance.
-
-### Public Presentation
-
-Focused the frontend experience on presenting Mashhad through visual storytelling, multimedia content, and structured visitor information instead of a conventional tourism directory.
+- **Configurable Content Platform:** Developed a content management architecture that enabled municipality staff to manage pages, widgets, galleries, events, FAQs, news, and other public content without developer involvement.
 
 ---
 

@@ -38,13 +38,13 @@ The project aimed to bring these disconnected workflows together within a single
 
 ## Technical Highlights
 
-- **Rebuilding the Product Around a Unified User Experience:** The initial product separated the public website from the authenticated management experience, forcing users to move between different domains with inconsistent interfaces. The frontend was later redesigned so authenticated workflows became part of the main website, providing a more consistent and mobile-friendly user experience.
+- **Unified Application Experience:** Rebuilt the product around a single website experience, replacing the separation between public and authenticated applications while preserving existing business workflows.
 
-- **Device-Specific User Interfaces with Shared Business Logic:** Rather than relying solely on responsive layouts, the platform introduced dedicated mobile and desktop interfaces for complex data-heavy workflows. Presentation components were separated where different interactions were required, while business logic, validation, API integration, and shared application behavior remained reusable across both experiences.
+- **Device-Specific Presentation Architecture:** Built dedicated mobile and desktop interfaces for complex workflows while keeping business logic, validation, and API integration shared across both experiences.
 
-- **Resumable Multi-Step Tour Creation:** Tour creation was designed as a long-running workflow where each step was validated and saved independently. Draft progress was restored using backend-provided completion data, allowing organizers to continue from the first incomplete step instead of restarting the entire process.
+- **Resumable Multi-Step Workflows:** Implemented long-running creation workflows with step-level validation, draft persistence, and resumable progress based on backend completion state.
 
-- **Room-Level Availability and Reservation Modeling:** Accommodation management operated at the room level rather than the property level. Each room maintained its own availability, pricing, booking rules, and reservations, while the reservation calendar handled real-world scenarios such as allowing same-day check-out and check-in without creating scheduling conflicts.
+- **Room-Level Reservation Model:** Designed the reservation experience around room-level availability, supporting independent pricing, booking rules, and conflict-free scheduling.
 
 ---
 
@@ -54,5 +54,4 @@ The project aimed to bring these disconnected workflows together within a single
 - React
 - Redux
 - Ant Design
-- Vite
 - REST APIs

@@ -44,7 +44,7 @@ The project aimed to recreate the experience of examining tissue samples digital
 
 - **Flexible Image Preparation Pipeline:** Supported both server-side and offline image preparation workflows, allowing institutions to work with multi-gigabyte pathology slides that were often impractical to upload through standard web interfaces.
 
-- **Browser-Based Whole Slide Exploration:** Enabled students and instructors to explore gigapixel pathology slides through progressive tile loading, providing an experience comparable to physical microscope navigation without requiring specialized desktop software.
+- **Progressive Multi-Resolution Rendering:** Implemented progressive tile-based rendering that enabled interactive exploration of multi-gigabyte pathology slides in a standard web browser while keeping memory usage and network transfer manageable.
 
 ---
 

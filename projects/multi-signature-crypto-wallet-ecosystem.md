@@ -37,13 +37,13 @@ The project therefore evolved from building a secure wallet into establishing th
 
 ## Technical Highlights
 
-- **Replacing Plasmo with a Custom Extension Architecture:** Replaced the initial Plasmo-based implementation after identifying limitations in cross-context communication and page management as the product grew. Designed a custom extension architecture tailored to the project's long-term scalability instead of relying on framework abstractions.
+- **Custom Extension Architecture:** Replaced the initial Plasmo-based implementation with a custom browser extension architecture designed around the project's long-term scalability and extension-specific requirements.
 
-- **Multi-Entry Build and Development Pipeline:** Designed the extension around separate runtime contexts for the application UI, background service worker, content script, and inpage script. Built an independent multi-entry build pipeline and supporting development workflow, allowing each runtime to be built and updated independently while maintaining a cohesive extension.
+- **Multi-Entry Build Pipeline:** Built an independent build pipeline for isolated extension runtime contexts, allowing each entry point to be developed and deployed independently.
 
-- **Concurrent Request-Response Messaging Across Extension Contexts:** Designed an asynchronous messaging protocol between web pages and the extension using unique request identifiers. Multiple requests could be processed concurrently across isolated runtime contexts while ensuring every response was correctly correlated with its originating request.
+- **Cross-Context Messaging Protocol:** Designed an asynchronous messaging protocol that correlated concurrent requests and responses across isolated browser extension contexts.
 
-- **Provider Isolation for Incremental Wallet Compatibility:** Established a class-based integration pattern as the extension expanded beyond its initial MetaMask integration. Isolating provider implementations allowed additional wallet interfaces to be introduced without concentrating chain-specific behavior in a single shared layer.
+- **Provider Abstraction Layer:** Established a provider abstraction layer that allowed additional wallet integrations to be introduced without coupling chain-specific behavior to a shared implementation.
 
 ---
 
@@ -52,7 +52,6 @@ The project therefore evolved from building a secure wallet into establishing th
 - React
 - TypeScript
 - Chrome Extension APIs
-- Vite
 - Rollup
 - React Query
 - React Hook Form

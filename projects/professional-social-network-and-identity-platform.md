@@ -38,27 +38,20 @@ The project aimed to establish a unified ecosystem where digital identity became
 
 ## Technical Highlights
 
-### Professional Digital Identity
+- **Hybrid Rendering Strategy:** Combined server-rendered public profiles with client-side interactions to balance search engine visibility and a responsive user experience.
 
-Developed public profile pages designed to provide searchable digital identities for professionals and organizations.
+- **Google AMP Integration:** Delivered AMP versions of public profile pages while maintaining a shared content model under AMP's rendering constraints.
 
-### Single-Page Application
+- **Identity-Centric Profile Architecture:** Built a frontend architecture capable of representing both individuals and organizations through a consistent, role-aware profile model.
 
-Contributed to the development of a modern AngularJS-based Single-Page Application during the early evolution of SPA frontend development.
-
-### SEO-Oriented Frontend
-
-Implemented frontend solutions that balanced dynamic user interactions with search engine discoverability for publicly accessible content.
-
-### Reusable Frontend Components
-
-Developed reusable UI components and shared frontend patterns supporting the platform's continuous growth.
+- **Reusable Frontend Architecture:** Established reusable components and shared UI patterns that supported the platform's continuous expansion across multiple product modules.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - AngularJS
 - HTML5
 - SASS
 - REST APIs
+- Google AMP

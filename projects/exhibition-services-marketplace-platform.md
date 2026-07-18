@@ -34,27 +34,15 @@ The project aimed to establish a unified marketplace where exhibitors and servic
 
 ## Technical Highlights
 
-### Transparent Exhibition Services Marketplace
+- **Relational Marketplace Data Model:** Designed a relational data model that connected exhibitors, service providers, exhibitions, and service offerings through a unified structure, providing a scalable foundation for future marketplace capabilities.
 
-Designed the platform as the foundation for a competitive marketplace where exhibitors could discover, compare, and eventually purchase services required for participating in exhibitions, reducing dependence on informal intermediary networks.
+- **Shared Cross-Device Frontend Architecture:** Implemented a shared frontend architecture that supported distinct desktop and mobile user experiences while minimizing code duplication and maintaining a consistent business logic.
 
-### Rich Business Profile Platform
-
-Designed a modular profile management system allowing service providers to manage company information, catalogs, galleries, social networks, and exhibition participation through a unified workflow.
-
-### Engineering Lessons Beyond Technology
-
-This project became one of the most influential learning experiences in my engineering career.
-
-At the time, choosing Next.js was a technically appropriate decision that delivered excellent SEO, server-side rendering, and a modern development experience. However, I underestimated the deployment ecosystem available to the client.
-
-Most affordable hosting providers only supported traditional shared hosting environments for PHP or ASP.NET applications. Running a Next.js application required a dedicated VPS because container-based deployment options were not yet practically available in the local market. The monthly infrastructure cost became significantly higher than traditional shared hosting, making the startup commercially unsustainable despite the platform itself being technically successful.
-
-This experience permanently changed the way I evaluate software architecture. Since then, I have treated deployment environments, operational costs, infrastructure availability, and long-term business sustainability as architectural requirements rather than deployment details.
+- **Architecture Beyond Implementation:** The project reinforced the importance of evaluating deployment environments, operational costs, and infrastructure constraints as architectural requirements alongside technical considerations, influencing architectural decisions in subsequent projects.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - Next.js
 - React
