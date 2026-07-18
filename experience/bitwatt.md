@@ -12,9 +12,9 @@
 
 My work focused on building web applications within a blockchain ecosystem centered around a multi-chain, multi-signature cryptocurrency wallet.
 
-While dedicated engineering teams developed the desktop, mobile, and browser extension clients, I was responsible for the surrounding web ecosystem, including developer-oriented platforms, transaction automation services, and other web applications supporting the overall product.
+While dedicated engineering teams developed the desktop, mobile, and browser extension clients, I was primarily responsible for frontend development across the surrounding web ecosystem, including developer-facing platforms, application marketplace services, wallet-connected web applications, and other ecosystem services.
 
-Alongside blockchain products, I also contributed to internal software initiatives, including an AI-assisted physiotherapy platform.
+Alongside blockchain products, I also contributed to an internal AI-assisted physiotherapy platform.
 
 ---
 
@@ -35,36 +35,24 @@ My responsibilities extended beyond frontend implementation and included system 
 
 I was responsible for:
 
-- Designing maintainable frontend architecture for interconnected web applications.
-- Developing web applications supporting the wallet ecosystem.
-- Building developer-facing platforms and transaction automation services.
-- Collaborating with backend engineers to integrate blockchain functionality into web applications.
+- Designing maintainable frontend architecture for multiple web applications within a shared blockchain ecosystem.
+- Developing developer-facing platforms and wallet-connected web applications across the ecosystem.
+- Building reusable frontend infrastructure for extensible, configuration-driven applications.
+- Collaborating with backend engineers to integrate blockchain and wallet-based functionality into web applications.
 - Participating in product discussions, technical planning, and system analysis.
-- Improving maintainability, scalability, and performance across multiple frontend projects.
+- Improving maintainability, scalability, and consistency across multiple frontend projects.
 
 ---
 
 ## Key Engineering Work
 
-### Wallet Ecosystem
+- **Wallet Ecosystem:** Contributed to the browser extension during the early stages of development before transitioning to the surrounding web ecosystem, focusing on frontend architecture and product development across multiple web applications.
 
-Contributed to multiple web applications supporting a multi-chain, multi-signature cryptocurrency wallet ecosystem, with a primary focus on frontend architecture and product development.
+- **Developer Platform:** Contributed to a platform enabling third-party developers to publish and manage applications within the wallet ecosystem. Built the frontend for developer workflows, including wallet-based authentication, application management, team collaboration, API key management, and related developer tools.
 
-### Developer Platform
+- **Transaction Automation Platform:** Contributed to an application marketplace providing transaction automation and wallet-connected services. Implemented schema-driven dynamic user interfaces capable of rendering configurable workflows from standardized metadata, allowing new automation capabilities to be introduced without frontend changes.
 
-Contributed to a platform enabling developers to build and integrate custom services on top of the wallet ecosystem.
-
-My work focused on building reusable frontend infrastructure that allowed new capabilities to be introduced without requiring product-specific implementations.
-
-### Transaction Automation Platform
-
-Contributed to a platform enabling configurable transaction-based workflows integrated with the wallet ecosystem.
-
-A significant engineering challenge involved implementing schema-driven dynamic user interfaces capable of rendering configurable forms from standardized metadata, allowing new integrations to be supported without frontend changes.
-
-### AI-Assisted Physiotherapy Platform
-
-Contributed to the frontend development of an internal healthcare platform utilizing computer vision to assist physiotherapy specialists with movement analysis.
+- **AI-Assisted Physiotherapy Platform:** Developed the frontend of an internal healthcare platform utilizing computer vision to assist physiotherapy specialists with movement analysis and patient assessment.
 
 ---
 
@@ -74,18 +62,19 @@ Contributed to the frontend development of an internal healthcare platform utili
 - Building schema-driven dynamic user interfaces for configurable workflows.
 - Supporting extensible frontend solutions without product-specific implementations.
 - Balancing flexibility, maintainability, and consistency across multiple products.
-- Collaborating across multiple engineering teams while maintaining a unified user experience.
+- Collaborating across multiple engineering teams while maintaining a consistent user experience.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
 - TypeScript
-- Vite
-- Redux
+- Chrome Extension APIs
 - React Query
-- Browser Extensions
+- React Hook Form
+- Zod
+- Styled Components
 - REST APIs
 - gRPC
-- Git
+- Rollup
