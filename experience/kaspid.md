@@ -10,20 +10,17 @@
 
 ## Work Context
 
-Kaspid was my first professional experience in the web industry.
+Kaspid was my first professional experience in software development.
 
-I joined the company at the age of 16, where I began working alongside experienced developers and gained hands-on experience in professional web development, teamwork, and customer project delivery.
+I joined the company at the age of 16 and worked alongside experienced developers on customer website projects. During this period, I gained practical experience in frontend implementation, CMS integration, website deployment, and collaborative software development while contributing to the delivery of production websites.
 
-During this period, I contributed to the design and implementation of corporate websites while learning professional development practices in a collaborative team environment.
-
-In addition to website implementation, the company also provided SEO services, allowing me to gain early exposure to search-oriented web development alongside frontend implementation.
+The company also provided SEO services, giving me early exposure to search-oriented web development alongside frontend engineering.
 
 ---
 
 ## Domains I Worked In
 
 - Corporate Websites
-- Web Design
 - Content Management Systems
 - Search Engine Optimization (SEO)
 
@@ -39,32 +36,27 @@ I was responsible for:
 - Integrating frontend designs into CMS-based websites.
 - Collaborating with senior developers on customer website projects.
 - Supporting website deployment and maintenance.
-- Learning professional development workflows in a production environment.
 
 ---
 
 ## Key Engineering Work
 
-### Corporate Website Development
+- **Corporate Website Development:** Contributed to the implementation of corporate websites for commercial customers using CMS platforms and custom frontend templates.
 
-Participated in designing and implementing corporate websites for commercial customers using CMS platforms.
-
-### Professional Growth
-
-Built the foundation of my professional career by working within an experienced development team, gaining practical experience in collaborative development, customer projects, and production environments.
+- **CMS Integration:** Worked on integrating custom frontend implementations into content management systems while supporting production website delivery.
 
 ---
 
 ## Engineering Challenges
 
-- Transitioning from self-learning to professional web development.
-- Learning to work within an experienced development team.
+- Transitioning from self-learning to professional software development.
+- Working within an established engineering team and production environment.
 - Delivering production websites for real customers.
-- Building a strong foundation in frontend engineering and software development practices.
+- Building a solid foundation in frontend engineering practices.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - HTML
 - CSS
