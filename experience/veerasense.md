@@ -10,11 +10,7 @@
 
 ## Work Context
 
-My work focused on building enterprise software solutions around AI-powered industrial platforms used across manufacturing, petrochemical, mining, banking, education, and public sectors.
-
-While AI models formed the analytical core of the platform, my responsibilities centered on the surrounding software ecosystem, including system analysis, frontend architecture, customer requirements analysis, technical coordination, deployment, and software delivery.
-
-In addition to the primary industrial platform, I also participated in delivering customer-specific software solutions tailored to operational requirements across different industries.
+My role focused on delivering enterprise software solutions for industrial organizations while leading frontend engineering, technical planning, customer requirements analysis, and software delivery. I worked closely with customers and cross-functional engineering teams to translate operational needs into maintainable software solutions across multiple industries.
 
 ---
 
@@ -22,11 +18,12 @@ In addition to the primary industrial platform, I also participated in deliverin
 
 - Industrial Software
 - Industrial Automation
-- AI-powered Applications
-- Enterprise Solutions
-- Smart Monitoring
-- System Analysis
-- Technical Leadership
+- Manufacturing
+- Petrochemical
+- Mining
+- Banking
+- Education
+- Public Sector
 
 ---
 
@@ -36,50 +33,41 @@ My responsibilities combined software engineering, technical leadership, custome
 
 I was responsible for:
 
-- Leading software development activities across multiple projects.
+- Leading frontend development across multiple software projects.
 - Participating in software architecture and technical decision-making.
-- Conducting system analysis and translating customer requirements into software solutions.
-- Collaborating with AI engineers and backend developers.
+- Conducting system analysis and translating business requirements into software solutions.
+- Collaborating with AI engineers and backend developers throughout implementation.
 - Managing technical communication with enterprise customers.
-- Supporting deployment, onboarding, and technical training.
+- Supporting software deployment, onboarding, and technical training.
 
 ---
 
 ## Key Engineering Work
 
-### Industrial Software Platform
+- **Industrial AI Platform:** Contributed to enterprise software built around AI-powered industrial platforms supporting monitoring, inspection, safety, and operational workflows, with a focus on building maintainable and extensible frontend applications.
 
-Contributed to enterprise software built around AI-powered industrial platforms supporting monitoring, safety, inspection, and operational workflows.
+- **Customer Solution Engineering:** Worked directly with enterprise customers to analyze operational requirements, plan software solutions, support deployments, deliver user training, and provide post-deployment technical support.
 
-My work focused on designing maintainable software capable of supporting diverse industrial environments while remaining adaptable for future customer requirements.
-
-### Customer Solution Engineering
-
-Worked directly with enterprise customers throughout the technical lifecycle of projects, including requirements analysis, solution planning, deployment, user training, and post-deployment support.
-
-### Technical Leadership
-
-Coordinated engineering activities across multiple software projects while participating in technical planning, implementation, and software delivery.
+- **Technical Leadership:** Coordinated engineering activities across multiple software initiatives while contributing to technical planning, implementation, and delivery.
 
 ---
 
 ## Engineering Challenges
 
-- Designing reusable software solutions for different industrial environments.
-- Translating operational requirements into scalable software architecture.
-- Balancing customer-specific requests with long-term maintainability.
+- Designing reusable software solutions that could adapt to different industrial environments.
+- Translating operational workflows into scalable and maintainable software architecture.
+- Balancing customer-specific requirements with long-term maintainability.
 - Coordinating technical communication between enterprise customers and engineering teams.
-- Delivering software solutions across multiple industries with different operational needs.
+- Delivering software solutions across industries with diverse operational processes.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
 - TypeScript
-- Vite
 - Redux
-- React Query
 - REST APIs
 - WebSocket
-- Git
+- Ant Design
+- Less
