@@ -10,11 +10,9 @@
 
 ## Work Context
 
-My work focused on building one of Iran's early professional networking and digital identity platforms.
+I worked as a Senior Web Developer on the company's flagship professional networking platform while contributing to a range of custom software projects for domestic and international clients.
 
-This period marked an important stage in my professional growth, where I worked alongside an experienced engineering team and strengthened my understanding of software engineering principles while contributing to a rapidly evolving web product.
-
-At the time, Single-Page Application (SPA) development was rapidly evolving. During this period, I worked with early SPA frameworks while contributing to the development of modern, interactive web applications.
+This period coincided with the industry's transition from traditional server-rendered applications and CMS-based solutions toward Single-Page Applications and API-driven architectures. Alongside product development, I worked with an experienced engineering team on frontend modernization, reusable application architecture, and interactive web experiences.
 
 ---
 
@@ -22,54 +20,48 @@ At the time, Single-Page Application (SPA) development was rapidly evolving. Dur
 
 - Professional Networking
 - Digital Identity
-- SEO
+- Enterprise Web Applications
 - Workflow Systems
 - Survey Platforms
-- Enterprise Web Applications
+- SEO
 
 ---
 
 ## Responsibilities
 
-My responsibilities focused on frontend engineering and developing modern web applications.
+My responsibilities focused on frontend engineering and modern web application development.
 
 I was responsible for:
 
 - Developing interactive Single-Page Applications.
-- Building reusable frontend components.
-- Developing SEO-oriented web pages and public profiles.
-- Collaborating with backend engineers on API-driven applications.
-- Contributing to configurable workflow and survey-based systems.
-- Continuously improving frontend quality, maintainability, and user experience.
+- Building reusable frontend components across multiple products.
+- Developing SEO-oriented public-facing web applications.
+- Collaborating with backend engineers on API-driven architectures.
+- Contributing to configurable workflow and survey systems.
+- Supporting the evolution of shared frontend infrastructure.
 
 ---
 
 ## Key Engineering Work
 
-### Single-Page Applications
+- **Professional Networking Platform:** Contributed to the development and continuous evolution of one of Iran's early professional networking and digital identity platforms.
 
-Contributed to the development of modern Single-Page Applications using early JavaScript frameworks during the transition toward today's component-based frontend architectures.
+- **Frontend Modernization:** Participated in the company's transition from traditional CMS-based development toward modern SPA architecture and API-driven applications, including the evolution of internal backend infrastructure.
 
-### Professional Networking Platform
-
-Contributed to the development of one of Iran's early professional networking platforms, supporting public digital identities and professional profiles.
-
-### SEO-Oriented Web Applications
-
-Developed SEO-focused public-facing pages designed for effective search engine indexing while maintaining an interactive user experience.
+- **International Client Projects:** Contributed to custom web applications delivered for both domestic organizations and international clients across multiple business domains.
 
 ---
 
 ## Engineering Challenges
 
 - Building interactive web applications during the early adoption of SPA architecture.
-- Balancing SEO with increasingly dynamic user interfaces.
-- Developing reusable frontend solutions across multiple product features.
-- Supporting the rapid evolution of a growing web platform.
+- Balancing SEO requirements with increasingly dynamic user interfaces.
+- Developing reusable frontend solutions across long-term product development and custom projects.
+- Adapting to evolving frontend technologies while maintaining production systems.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - AngularJS
 - Knockout.js
