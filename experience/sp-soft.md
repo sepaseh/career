@@ -10,11 +10,11 @@
 
 ## Work Context
 
-As a co-founder and software engineer, I focused on transforming customer requirements into production-ready software solutions across multiple industries.
+As a co-founder and software engineer, I worked directly with customers from the earliest stages of discovery, analyzing their business needs, evaluating project feasibility, and defining suitable technical solutions.
 
-Our work ranged from product discovery and requirements analysis to software architecture, implementation, deployment, and long-term maintenance. During this period, I worked on enterprise software for healthcare, hospitality, tourism, education, finance, and business management.
+We accepted projects only when we were confident they aligned with our capabilities and could be delivered to an appropriate standard. For accepted projects, our involvement covered requirements analysis, solution design, software architecture, implementation, deployment, and long-term maintenance.
 
-Unlike product-focused companies, each project introduced a different business domain, requiring rapid domain analysis and adaptable software architecture.
+During this period, I worked on software products across healthcare, hospitality, tourism, education, finance, and business management. Each project introduced different operational workflows and constraints, requiring rapid domain analysis and architecture adapted to the specific problem.
 
 ---
 
@@ -32,53 +32,45 @@ Unlike product-focused companies, each project introduced a different business d
 
 ## Responsibilities
 
-My responsibilities focused on software engineering, solution design, and customer collaboration throughout the software delivery lifecycle.
+My responsibilities covered technical discovery, solution design, frontend engineering, and customer collaboration throughout the software delivery lifecycle.
 
 I was responsible for:
 
-- Conducting requirements analysis with customers.
-- Translating business requirements into technical solutions.
-- Designing software architecture and frontend architecture.
-- Developing scalable frontend applications across multiple projects.
-- Collaborating closely with backend engineers throughout implementation.
-- Participating in deployment, customer support, and long-term product evolution.
+- Leading customer discovery and analyzing business workflows.
+- Evaluating technical feasibility and defining suitable solution approaches.
+- Translating business requirements into implementation plans.
+- Designing software architecture and frontend application structure.
+- Developing maintainable frontend applications across diverse projects.
+- Collaborating with backend engineers on API design and system integration.
+- Supporting deployment, customer feedback, and long-term product evolution.
 
 ---
 
 ## Key Engineering Work
 
-### Enterprise Software Development
+- **Technical Discovery & Feasibility Assessment:** Worked directly with customers to understand operational needs, evaluate whether proposed products aligned with the team’s capabilities, and define realistic technical approaches before development began.
 
-Designed and developed software solutions across multiple industries, adapting architectural decisions to the requirements of each business domain rather than following a single product model.
+- **Domain-Specific Solution Design:** Designed software solutions across multiple industries, adapting workflows and architectural decisions to each domain rather than applying a predefined product model.
 
-### Product Discovery & Solution Design
-
-Worked directly with customers to understand operational workflows, identify technical requirements, and transform business needs into maintainable software solutions.
-
-### Frontend Architecture
-
-Designed reusable frontend architectures supporting long-term maintainability across projects with significantly different business requirements.
+- **Frontend Architecture:** Established maintainable frontend structures for products with significantly different requirements, supporting continued development and product evolution after initial delivery.
 
 ---
 
 ## Engineering Challenges
 
-- Rapidly understanding unfamiliar business domains.
-- Designing maintainable architectures for diverse enterprise projects.
-- Balancing customer-specific requirements with reusable software design.
-- Supporting long-term evolution of independently developed products.
-- Switching efficiently between multiple industries and technical domains.
+- Understanding unfamiliar business domains before defining technical solutions.
+- Evaluating project feasibility with limited information during early discovery.
+- Translating operational workflows into practical software designs.
+- Designing maintainable architectures for independently developed products.
+- Balancing customer-specific requirements with reusable engineering practices.
+- Supporting the long-term evolution of products across different industries.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- SASS
+- Redux
 - REST APIs
-- Git
+- Ant Design
+- Less
