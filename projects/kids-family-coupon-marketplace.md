@@ -2,50 +2,44 @@
 
 ## Overview
 
-Kids & Fun was a digital platform connecting family-oriented entertainment venues with customers through discounted promotional campaigns.
+This project involved developing a digital marketplace for family-oriented entertainment venues to manage promotional campaigns and sell discounted tickets.
 
-The platform enabled businesses to publish limited-time offers, manage coupon campaigns, sell discounted tickets, and validate them on-site through a dedicated mobile application.
-
-The system was successfully launched, remained in production for nearly two years, and processed thousands of coupon sales before the COVID-19 pandemic brought in-person recreational activities to a halt.
+Beyond offering online coupon sales, the platform unified campaign management, customer purchases, and on-site ticket validation within a single ecosystem. It enabled entertainment venues to independently create promotional offers while providing customers with a seamless purchasing experience and venue staff with a dedicated mobile solution for validating tickets during admission.
 
 ---
 
 ## The Problem
 
-This project focused on developing a digital marketplace that connected family-oriented entertainment venues with customers through promotional campaigns and discounted ticket sales.
+A growing community focused on children and family entertainment had already been built through social media, where discounted offers and promotional campaigns were shared with an expanding audience.
 
-Rather than relying on manual campaign distribution and coupon validation, the platform unified campaign management, online purchases, and on-site ticket validation into a single system for both customers and venue operators.
+As the community grew, managing promotions, purchases, and redemptions through manual workflows became increasingly difficult. Customers needed a more structured way to discover and purchase available offers, while venue operators required a reliable process for validating coupons and tracking campaign usage.
+
+The project aimed to transform an established community into a dedicated digital platform that managed the complete coupon lifecycle, from campaign publication and online purchase to on-site validation.
 
 ---
 
 ## Engineering Challenges
 
-- Transforming a manually operated promotional business into a structured digital platform without disrupting existing operational workflows.
-- Designing a flexible campaign model that allowed venues to independently configure pricing, availability, sales periods, and redemption rules.
-- Building a reliable coupon validation workflow that prevented duplicate redemption while remaining simple enough for venue staff to use during customer check-in.
-- Supporting both QR code scanning and manual validation to accommodate different operational environments and device capabilities.
+- Designing a flexible campaign model that supported multiple ticket types with independent pricing, age groups, availability, and redemption rules within a single promotional campaign.
+- Building a reliable coupon validation workflow that prevented duplicate redemption during customer admission.
+- Implementing reliable QR code scanning within a Progressive Web App while maintaining a smooth mobile experience across different devices.
 
 ---
 
 ## My Contributions
 
-- Analyzed business requirements and contributed to workflow design and API contract definition.
-- Developed the customer-facing web application for browsing campaigns, purchasing coupons, and managing customer accounts.
-- Built a Progressive Web App (PWA) that enabled venue staff to validate coupons through QR code scanning or manual code entry.
-- Collaborated on frontend architecture and integrated the applications with REST APIs supporting campaign management, commerce, authentication, and coupon validation.
-- Supported the platform throughout its production lifecycle, refining workflows based on operational feedback.
+- Conducted business analysis, designed platform workflows, and contributed to API contract definition.
+- Developed the customer-facing marketplace for campaign discovery, coupon purchases, and account management.
+- Built a Progressive Web App (PWA) for venue staff to validate coupons through QR code scanning and manual code entry.
+- Refined platform workflows throughout production based on operational feedback from venue operators.
 
 ---
 
 ## Technical Highlights
 
-- **Campaign Management Platform:** Enabled entertainment venues to independently create and manage promotional campaigns by configuring pricing, coupon quantities, sales periods, and redemption rules without requiring technical assistance.
+- **Flexible Campaign Model:** Designed a configurable campaign structure that supported multiple ticket types with independent pricing, age groups, inventory limits, sales periods, and redemption rules within a single campaign.
 
-- **End-to-End Coupon Lifecycle:** Unified campaign publishing, coupon purchases, redemption, and validation into a single workflow, replacing previously manual processes with a centralized digital platform.
-
-- **Reliable Coupon Validation:** Implemented a validation process supporting both QR code scanning and manual code entry while preventing duplicate coupon redemption across venue operations.
-
-- **Mobile Validation Experience:** Delivered a Progressive Web App (PWA) that allowed venue staff to validate coupons directly from mobile devices, reducing operational overhead during customer check-in.
+- **Progressive Mobile Operations:** Delivered a Progressive Web App that enabled venue staff to perform ticket validation directly from mobile devices without requiring platform-specific native applications.
 
 ---
 
@@ -54,5 +48,5 @@ Rather than relying on manual campaign distribution and coupon validation, the p
 - React
 - Redux
 - Ant Design
-- Progressive Web App (PWA)
 - REST APIs
+- Progressive Web App (PWA)

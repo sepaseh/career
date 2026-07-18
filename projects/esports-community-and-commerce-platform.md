@@ -2,49 +2,45 @@
 
 ## Overview
 
-This project focused on developing a community-oriented esports platform that unified player profiles, gaming content, and digital commerce within a single ecosystem.
+This project involved developing a community-oriented esports platform that combined player identity, gaming content, and digital commerce within a unified ecosystem.
 
-Rather than separating community engagement from online retail, the platform enabled players to build their public identity, interact with gaming content, and purchase both physical and digital products through a consistent user experience across desktop and mobile devices.
+Beyond functioning as an online store or community website, the platform enabled players to build a public gaming identity, engage with community content, and purchase both physical and digital products through a consistent user experience. It brought together social interaction, content publishing, and commerce to support the broader needs of an esports community.
 
 ---
 
 ## The Problem
 
-Competitive gaming communities require more than content publishing.
+Competitive gaming communities lacked a dedicated platform where players could build a persistent identity while accessing the broader services surrounding the esports ecosystem.
 
-Players expect to build an online presence, discover content, and purchase gaming-related products through a consistent experience across desktop and mobile devices.
+Gaming-related activities such as player profiles, news, tournaments, merchandise, and digital products were typically scattered across separate platforms, requiring users to move between different services depending on their needs. This fragmented experience limited community engagement and made it difficult for organizers to build a unified ecosystem around competitive gaming.
 
-The challenge was to combine community features and commerce into a single platform while supporting different purchasing scenarios without making the overall user experience feel fragmented.
+The project aimed to bring these activities together into a single platform where community participation, digital identity, commerce, and esports services could coexist within a connected experience.
 
 ---
 
 ## Engineering Challenges
 
-- Combining community features and digital commerce into a unified user experience without making either aspect feel secondary.
 - Supporting multiple fulfillment models for physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products through a consistent purchasing workflow.
-- Reusing the same commerce infrastructure to power event-oriented storefronts and promotional campaigns without requiring separate implementations.
+- Designing a flexible filtering system driven by product-specific attributes rather than predefined category-specific interfaces.
 
 ---
 
 ## My Contributions
 
 - Collaborated in requirements analysis, frontend solution design, and API contract definition.
-- Designed and developed the frontend applications for both the public platform and the administrative panel.
-- Implemented community features, including player profiles, content publishing, and user-facing interactions.
-- Built the complete commerce experience, covering product discovery, shopping cart, checkout, payments, order history, and multiple product fulfillment scenarios.
-- Developed administrative interfaces supporting content management, commerce operations, customer management, and platform administration.
+- Redesigned the user experience after evaluating the client's initial concept, creating a more cohesive interface for community features and digital commerce.
+- Designed the purchasing experience for multiple product types with distinct fulfillment workflows while maintaining a consistent customer journey.
+- Helped evolve the platform from a conventional gaming website into a community-oriented experience centered around persistent player identities.
 
 ---
 
 ## Technical Highlights
 
-- **Hybrid Community & Commerce Platform:** Combined player profiles, community features, content publishing, and digital commerce within a single platform, allowing users to move naturally between social engagement and purchasing workflows.
+- **Flexible Product Fulfillment:** Supported multiple fulfillment models—including physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products—while maintaining a consistent purchasing workflow across different product types.
 
-- **Flexible Product Fulfillment:** Supported multiple product types—including physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products—while presenting a unified shopping experience despite different fulfillment requirements.
+- **Attribute-Driven Product Model:** Designed the product model around configurable attributes that dynamically influenced filtering, pricing, and product behavior, enabling diverse product types to be managed through a unified structure.
 
-- **Campaign-Oriented Storefronts:** Enabled dedicated event and promotional pages that showcased selected products and offers without requiring changes to the underlying commerce infrastructure.
-
-- **Player Identity System:** Provided public player profiles where users could present personal information, gaming activities, achievements, and community content as part of their online identity.
+- **Configurable Campaign Storefronts:** Enabled dedicated event and promotional storefronts that assembled curated product selections without requiring changes to the underlying commerce infrastructure.
 
 ---
 

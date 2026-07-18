@@ -2,65 +2,56 @@
 
 ## Overview
 
-This project focused on developing a comprehensive hospitality platform that unified entertainment, hotel operations, guest services, room automation, and tourism experiences into a single digital ecosystem.
+This project involved developing a comprehensive hospitality platform that transformed in-room televisions into the primary digital touchpoint for hotel guests.
 
-Rather than serving as a standalone IPTV application, the platform became the primary digital touchpoint for hotel guests, providing access to virtually every service available throughout their stay.
+Beyond delivering IPTV services, the platform unified entertainment, hotel operations, guest services, room automation, and tourism experiences within a single ecosystem. It provided guests with seamless access to virtually every hotel service through a television-optimized interface while supporting a wide range of operating systems and hardware platforms.
 
 ---
 
 ## The Problem
 
-As guest expectations evolved, televisions were no longer viewed as devices for watching broadcast channels alone. Hotels increasingly sought to provide integrated in-room digital experiences combining entertainment, guest services, hotel information, and room automation through a single interface.
+Hotel guests typically relied on multiple disconnected channels to access services during their stay, including television, printed materials, reception staff, and direct phone calls.
 
-Delivering that experience required integrating multiple independent hospitality systems while supporting a wide variety of television operating systems and set-top box hardware.
+This fragmented experience made it difficult for guests to discover available services, while hotels lacked a unified digital platform for delivering information, entertainment, and hospitality services through a familiar in-room device. Rather than serving as a simple television system, there was an opportunity to transform the guest room into a centralized digital experience.
 
-The challenge was to build a unified platform that transformed the in-room television into the primary digital touchpoint for guests throughout their stay.
+The project aimed to consolidate guest-facing services into a single platform, enabling hotels to deliver entertainment, operational services, and local information through an integrated in-room experience.
 
 ---
 
 ## Engineering Challenges
 
 - Supporting resource-constrained television hardware where modern frontend frameworks and animation-heavy interfaces were not practical.
-- Building a shared web application experience across different television platforms without maintaining separate frontend codebases.
-- Designing remote-control navigation for a non-linear, tile-based interface rather than a simple left-right menu structure.
-- Preventing guests from leaving the hotel application environment on Android-based devices.
-- Working around limited access to television platform documentation and device-specific implementation details.
+- Building a shared web application experience across multiple television platforms without maintaining separate frontend codebases.
+- Supporting multiple television platforms through device-specific key mappings without changing the application logic.
+- Designing a dynamic remote-control navigation model that adapted to each hotel's enabled services while maintaining a predictable user experience.
+- Preventing guests from leaving the hospitality application on Android-based television devices while preserving a seamless in-room experience.
 
 ---
 
 ## My Contributions
 
-- Developed the frontend of the integrated hospitality platform.
-- Designed television-optimized user interfaces across multiple device platforms.
-- Built a shared web application capable of running across different television operating systems through platform-specific wrappers.
-- Implemented guest-facing hospitality services including dining, concierge, transportation, tourism, and room service workflows.
-- Developed interfaces for room automation, including lighting and HVAC controls.
-- Collaborated with backend engineers on hospitality system integrations.
+- Conducted business analysis to translate hotel operational requirements into guest-facing digital experiences.
+- Designed a television navigation model inspired by the Windows Modern UI experience, optimized for directional remote-control input.
+- Built a configurable cross-platform frontend supporting multiple television platforms, selectable interface themes, and hotel-specific deployments.
+- Designed user experiences for hospitality services, room automation, and guest interactions while collaborating on backend API integration.
 
 ---
 
 ## Technical Highlights
 
-### End-to-End Guest Experience
+- **Cross-Platform Frontend Architecture:** Built a shared frontend architecture that supported Linux-based set-top boxes, Android set-top boxes, Android TV, LG webOS, and Samsung Tizen devices without maintaining separate codebases.
 
-Developed a unified guest experience covering entertainment, hotel information, dining, room automation, concierge services, transportation, tourism, and personalized hospitality features through a single television interface.
+- **Device Abstraction Layer:** Introduced device-specific key mapping that isolated hardware differences from the application logic, enabling the same interface and navigation model to operate consistently across multiple television platforms.
 
-### Cross-Platform Hospitality Platform
+- **Dynamic Television Navigation:** Designed a configurable navigation model that adapted to each hotel's enabled services while preserving a predictable remote-control experience across different deployments.
 
-Developed frontend applications supporting Linux-based set-top boxes, Android set-top boxes, Android TV, LG webOS, and Samsung Tizen devices.
-
-### Live Television Integration
-
-Contributed to interactive television features supporting live TV streaming alongside multimedia entertainment and hospitality services.
-
-### Modular Frontend Architecture
-
-Developed reusable frontend modules supporting continuous platform expansion as new hospitality services and guest experiences were introduced.
+- **Custom Android TV Launcher:** Replaced the standard Android TV launcher with a custom launcher that prevented guests from leaving the hospitality environment, allowing the television to operate as a dedicated hospitality device while maintaining a seamless guest experience.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - Vanilla JavaScript
 - HTML5
 - CSS3
+- Hybrid WebView Architecture

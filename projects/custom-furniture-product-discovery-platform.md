@@ -2,61 +2,46 @@
 
 ## Overview
 
-This project focused on designing and developing a multilingual corporate website and content management platform for a luxury custom wood furniture manufacturer.
+This project involved designing and developing a multilingual product discovery platform for a luxury custom wood furniture manufacturer.
 
-The platform was designed to help customers discover custom products through an intuitive browsing experience while providing administrators with a flexible system for managing products, projects, and marketing content.
+Beyond presenting products through a traditional catalog, the platform was designed around the different ways customers explore custom furniture. It unified multiple product discovery paths, rich marketing content, and content management within a single ecosystem, enabling customers to navigate the catalog from different perspectives while allowing administrators to manage the entire experience without technical assistance.
 
 ---
 
 ## The Problem
 
-Customers looking for custom furniture rarely begin their journey in the same way.
+Finding custom furniture is fundamentally different from purchasing standardized products, as customers often begin their search with inspiration rather than a specific item or model.
 
-Some already know the architectural style they prefer, others start with a product category, while many search based on the space they are designing.
+Traditional product catalogs were designed around fixed product listings, making it difficult for customers to explore collections from different perspectives or discover products that matched their preferences. At the same time, maintaining a rich multilingual catalog required continuous content updates without relying on technical teams.
 
-The challenge was to design an information architecture that supported these different customer perspectives without duplicating content or creating disconnected navigation structures.
+The project aimed to provide a flexible product discovery experience supported by a content management system that allowed both customers and administrators to navigate and manage the catalog more effectively.
 
 ---
 
 ## Engineering Challenges
 
-- Designing an information architecture around multiple customer discovery paths instead of a single navigation hierarchy.
-- Modeling relationships between products, architectural styles, and usage spaces while keeping content management simple.
-- Building a multilingual website with search engine friendly content organization.
-- Developing a flexible administration panel capable of managing all website content through role-based access control.
+- Balancing rich product discovery capabilities with an intentionally simple user experience for a general public audience.
 
 ---
 
 ## My Contributions
 
-- Led business analysis by visiting the client's factory and reviewing completed projects to understand customer behavior and product organization.
-- Researched international competitors, particularly Italian manufacturers, to benchmark successful approaches where comparable local examples were unavailable.
-- Designed the platform's information architecture and relational content model.
-- Collaborated on developing the multilingual public website and administration panel.
-- Designed and implemented the dynamic content management system supporting products, projects, architectural styles, spaces, catalogs, certificates, blog content, users, and permissions.
+- Conducted business analysis through on-site visits to the client's factory and completed projects to better understand customer workflows and product organization.
+- Researched international competitors to identify product discovery patterns where comparable local references were unavailable.
+- Designed the platform's information architecture, user experience, and user interface based on business analysis and market research.
+- Developed the frontend of the multilingual product discovery platform.
 
 ---
 
 ## Technical Highlights
 
-### Multiple Product Discovery Paths
-
-Designed three independent navigation paths based on architectural styles, product categories, and usage spaces, allowing customers to discover products according to their own decision-making process while navigating the same product catalog.
-
-### Information Architecture Driven by Business Analysis
-
-Rather than organizing content around the company's internal structure, the platform's information architecture was designed around observed customer behavior gathered through on-site analysis and research of mature international competitors.
-
-### SEO-Oriented Content Platform
-
-Designed the public website with multilingual content and SEO-friendly information architecture. The platform achieved first-page Google rankings for several target keywords within its market niche.
+- **Relational Product Classification:** Structured product relationships so that the same catalog could be explored through multiple independent navigation paths without duplicating product data, keeping navigation flexible while maintaining a single source of truth for product information.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - React
 - Redux
 - Ant Design
 - REST APIs
-- Search Engine Optimization (SEO)

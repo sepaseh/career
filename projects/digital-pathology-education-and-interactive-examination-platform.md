@@ -2,29 +2,27 @@
 
 ## Overview
 
-This project focused on developing a browser-based digital pathology platform for education and interactive examinations, enabling students and instructors to work with extremely high-resolution microscopic tissue slides.
+This project involved developing a browser-based digital pathology platform for education and interactive examinations, enabling students and instructors to work with extremely high-resolution microscopic tissue slides.
 
-The platform combined deep zoom image visualization, interactive educational content, annotations, and examination workflows into a unified learning environment for pathology education.
+Beyond digitizing pathology slides, the platform recreated the experience of exploring tissue samples through a standard web browser while combining deep zoom visualization, educational content, annotations, and examination workflows within a unified learning environment.
 
 ---
 
 ## The Problem
 
-Traditional pathology education depends on physical microscopes, shared laboratory equipment, and direct access to glass slides, making practical teaching and assessment difficult to scale.
+Traditional pathology education depended on physical microscopes and glass slides, limiting access to learning materials and making remote education, collaborative review, and large-scale examinations difficult to conduct.
 
-Medical universities needed a way to provide students and instructors with access to high-resolution pathology slides while preserving the experience of exploring tissue samples at different magnification levels. Beyond reducing dependency on laboratory equipment and lowering operational costs, the platform became particularly valuable during the COVID-19 pandemic by minimizing shared use of laboratory equipment.
+Educational institutions needed a way to provide students and instructors with the same level of interaction they would have in a laboratory while removing the logistical constraints of handling and distributing physical specimens. Existing digital solutions also struggled to provide a smooth viewing experience for extremely high-resolution pathology slides through a standard web browser.
 
-The challenge was to recreate the practical experience of navigating pathology slides through a standard web browser while supporting guided learning, annotations, and interactive examination workflows.
+The project aimed to recreate the experience of examining tissue samples digitally, making pathology education and assessments more accessible without compromising the way students interacted with microscopic images.
 
 ---
 
 ## Engineering Challenges
 
-- Visualizing multi-gigabyte pathology slides through a standard web browser.
-- Recreating microscope-like navigation using multi-resolution image tiles.
-- Supporting both server-side and offline image preparation workflows for extremely large slide files.
-- Associating educational content and examination activities with precise locations on pathology slides.
-- Maintaining responsive navigation while rendering interactive educational overlays.
+- Visualizing multi-gigabyte pathology slides through progressive, multi-resolution image loading in a standard web browser.
+- Recreating microscope-like exploration with responsive panning and incremental zooming.
+- Keeping educational annotations and examination activities synchronized with precise locations during slide navigation.
 
 ---
 
@@ -34,7 +32,6 @@ The challenge was to recreate the practical experience of navigating pathology s
 - Designed the browser-based approach for navigating pathology slides.
 - Developed the frontend of the digital pathology platform.
 - Built the interactive educational and examination experience on top of pathology slides.
-- Developed annotation and marker management features for educational content and examinations.
 - Collaborated with the backend engineer on image processing workflows and platform integration.
 
 ---
@@ -47,7 +44,7 @@ The challenge was to recreate the practical experience of navigating pathology s
 
 - **Flexible Image Preparation Pipeline:** Supported both server-side and offline image preparation workflows, allowing institutions to work with multi-gigabyte pathology slides that were often impractical to upload through standard web interfaces.
 
-- **Browser-Based Whole Slide Exploration:** Enabled students and instructors to explore gigapixel pathology slides through progressive tile loading, providing an experience comparable to physical microscope navigation without requiring specialized desktop software.
+- **Progressive Multi-Resolution Rendering:** Implemented progressive tile-based rendering that enabled interactive exploration of multi-gigabyte pathology slides in a standard web browser while keeping memory usage and network transfer manageable.
 
 ---
 

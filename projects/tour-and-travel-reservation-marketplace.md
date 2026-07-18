@@ -2,52 +2,49 @@
 
 ## Overview
 
-This project focused on developing a marketplace platform for discovering, organizing, and booking tours and accommodations.
+This project involved developing a marketplace platform for discovering, organizing, and booking tours and accommodations.
 
-Rather than serving as a simple booking website, the platform brought together tour organizers, accommodation owners, and travelers through a unified ecosystem that combined service discovery, verified profiles, online reservations, payments, and operational management. The long-term vision extended beyond tour booking toward a broader travel platform, although the implemented product primarily centered around tour organization and reservation workflows.
+Beyond providing online reservations, the platform brought together tour organizers, accommodation owners, and travelers within a unified travel ecosystem. It combined service discovery, verified provider profiles, booking workflows, payments, and operational management into a single experience, while establishing the foundation for a broader travel platform that could evolve beyond tour reservations.
 
 ---
 
 ## The Problem
 
-Tour organizers and accommodation providers often operated through social media, making it difficult for travelers to evaluate their identity, credibility, and available services before making a reservation.
+Planning and booking travel services often required users to navigate multiple providers, compare inconsistent information, and complete different parts of the journey through separate systems.
 
-The objective was to transform these fragmented interactions into a structured marketplace where service providers could establish trusted profiles while travelers could discover, compare, and book travel services through a consistent digital experience.
+Tour organizers and accommodation providers also lacked a unified platform to present their services, manage reservations, and build credibility with potential customers. As a result, discovering, comparing, and booking travel experiences remained fragmented for both travelers and service providers.
+
+The project aimed to bring these disconnected workflows together within a single marketplace, simplifying the booking experience while providing travel businesses with a centralized platform to manage their services and reach a broader audience.
 
 ---
 
 ## Engineering Challenges
 
-- Integrating authenticated workflows directly into the public website.
-- Implementing separate mobile and desktop experiences in a Next.js application while handling server-side device detection.
-- Preventing duplicated business logic across device-specific interfaces.
-- Developing multi-step workflows with draft persistence and resumable progress.
-- Building a custom reservation calendar around booking availability and real-world reservation rules.
-- Supporting room-level accommodation management with independent pricing and availability.
+- Designing an integrated user experience where users could seamlessly manage their own content within the public application.
+- Implementing dedicated mobile and desktop interfaces in a Next.js application while keeping business logic shared across both experiences.
+- Designing long-running multi-step workflows with draft persistence and resumable progress.
+- Modeling room-level reservation availability while supporting real-world booking scenarios without scheduling conflicts.
 
 ---
 
 ## My Contributions
 
-- Developed the frontend of the tourism marketplace.
-- Participated in frontend architecture discussions, API integration, and user workflow design.
-- Built public-facing pages for tours, accommodations, attractions, booking flows, and marketplace features.
-- Contributed to rebuilding the product around a unified website experience.
-- Developed multi-step tour management workflows and the accommodation reservation experience.
-- Implemented configurable homepage templates and content management features.
-- Collaborated closely with backend engineers throughout frontend integration and product development.
+- Contributed to rebuilding the product around a unified website experience, replacing the previous separation between public and authenticated applications.
+- Developed multi-step tour management workflows with draft persistence and resumable progress.
+- Implemented the accommodation reservation experience around room-level availability and booking workflows.
+- Developed a configurable homepage template system that allowed administrators to compose and manage dynamic landing pages without frontend changes.
 
 ---
 
 ## Technical Highlights
 
-- **Rebuilding the Product Around a Unified User Experience:** The initial product separated the public website from the authenticated management experience, forcing users to move between different domains with inconsistent interfaces. The frontend was later redesigned so authenticated workflows became part of the main website, providing a more consistent and mobile-friendly user experience.
+- **Unified Application Experience:** Rebuilt the product around a single website experience, replacing the separation between public and authenticated applications while preserving existing business workflows.
 
-- **Device-Specific User Interfaces with Shared Business Logic:** Rather than relying solely on responsive layouts, the platform introduced dedicated mobile and desktop interfaces for complex data-heavy workflows. Presentation components were separated where different interactions were required, while business logic, validation, API integration, and shared application behavior remained reusable across both experiences.
+- **Device-Specific Presentation Architecture:** Built dedicated mobile and desktop interfaces for complex workflows while keeping business logic, validation, and API integration shared across both experiences.
 
-- **Resumable Multi-Step Tour Creation:** Tour creation was designed as a long-running workflow where each step was validated and saved independently. Draft progress was restored using backend-provided completion data, allowing organizers to continue from the first incomplete step instead of restarting the entire process.
+- **Resumable Multi-Step Workflows:** Implemented long-running creation workflows with step-level validation, draft persistence, and resumable progress based on backend completion state.
 
-- **Room-Level Availability and Reservation Modeling:** Accommodation management operated at the room level rather than the property level. Each room maintained its own availability, pricing, booking rules, and reservations, while the reservation calendar handled real-world scenarios such as allowing same-day check-out and check-in without creating scheduling conflicts.
+- **Room-Level Reservation Model:** Designed the reservation experience around room-level availability, supporting independent pricing, booking rules, and conflict-free scheduling.
 
 ---
 
@@ -57,5 +54,4 @@ The objective was to transform these fragmented interactions into a structured m
 - React
 - Redux
 - Ant Design
-- Vite
 - REST APIs

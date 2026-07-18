@@ -2,68 +2,56 @@
 
 ## Overview
 
-This project focused on developing the first generation of one of Iran's early professional networking and digital identity platforms.
+This project involved developing one of Iran's early professional networking and digital identity platforms for individuals and organizations.
 
-The platform was designed to serve as a trusted online professional identity for individuals and organizations, enabling them to establish a searchable digital presence while supporting professional networking, business communication, and public visibility.
-
-It combined professional profiles, organization pages, social networking features, and business-oriented web applications into a unified ecosystem designed to strengthen professional identity and online presence.
+Beyond enabling users to create online profiles, the platform established a trusted digital presence where professionals and businesses could build searchable identities, expand their visibility, and strengthen professional connections. It combined professional profiles, organization pages, social networking features, and business-oriented applications into a unified ecosystem centered around digital identity.
 
 ---
 
 ## The Problem
 
-Building a professional networking platform required more than allowing users to create online profiles.
+Professionals and businesses lacked a trusted digital identity that could represent who they were beyond a simple personal website or contact page.
 
-Many professionals and organizations lacked a credible, searchable online presence without investing in a dedicated website. For many users, creating and maintaining a personal or corporate website was unnecessarily expensive and complex, while existing alternatives did not provide a unified space focused on professional identity.
+The vision behind the project was to create a platform where every professional and organization could establish a verified online presence that also served as a living digital business card. As the platform evolved, additional capabilities such as content publishing, tagging, professional discovery, and organization profiles were introduced to make those identities easier to discover, connect, and grow.
 
-The challenge was to create a platform where individuals and organizations could establish a trusted digital identity, become discoverable through search engines, and build a professional online presence through a centralized, easy-to-manage service.
+The project aimed to establish a unified ecosystem where digital identity became the foundation for professional networking, business visibility, and future identity-driven services.
 
 ---
 
 ## Engineering Challenges
 
-- Building a maintainable AngularJS application structure during the team's early adoption of modern SPA development.
-- Balancing interactive Single-Page Application behavior with search engine visibility for public professional profiles.
-- Supporting SEO through server-rendered public pages while replacing the initial markup with the AngularJS application on the client side.
-- Building Google AMP pages with little or no JavaScript to improve search visibility and deliver near-instant loading from Google's cache.
-- Modeling users who could manage multiple professional or organizational pages within the same identity platform.
+- Designing a controlled profile customization system that balanced user personalization with a consistent and maintainable public profile structure.
+- Building Google AMP versions of public profiles under strict JavaScript and rendering constraints without duplicating the platform's content logic.
+- Modeling an identity system where a single user could create, own, and manage multiple professional or organizational profiles with different roles and permissions.
 
 ---
 
 ## My Contributions
 
-- Developed the frontend of the platform using AngularJS.
 - Designed and implemented reusable frontend components shared across multiple product modules.
 - Built SEO-oriented public profile pages using a hybrid server-rendered and client-rendered approach.
 - Developed Google AMP pages to improve mobile search visibility and loading performance.
-- Implemented frontend support for professional profiles, organization pages, and identity management workflows.
-- Collaborated with backend engineers on API-driven frontend applications.
+- Developed the hybrid mobile application using Apache Cordova from the shared web codebase.
+- Implemented a real-time feed update mechanism that notified users of newly available content without continuously reloading the timeline.
 
 ---
 
 ## Technical Highlights
 
-### Professional Digital Identity
+- **Hybrid Rendering Strategy:** Combined server-rendered public profiles with client-side interactions to balance search engine visibility and a responsive user experience.
 
-Developed public profile pages designed to provide searchable digital identities for professionals and organizations.
+- **Google AMP Integration:** Delivered AMP versions of public profile pages while maintaining a shared content model under AMP's rendering constraints.
 
-### Single-Page Application
+- **Identity-Centric Profile Architecture:** Built a frontend architecture capable of representing both individuals and organizations through a consistent, role-aware profile model.
 
-Contributed to the development of a modern AngularJS-based Single-Page Application during the early evolution of SPA frontend development.
-
-### SEO-Oriented Frontend
-
-Implemented frontend solutions that balanced dynamic user interactions with search engine discoverability for publicly accessible content.
-
-### Reusable Frontend Components
-
-Developed reusable UI components and shared frontend patterns supporting the platform's continuous growth.
+- **Reusable Frontend Architecture:** Established reusable components and shared UI patterns that supported the platform's continuous expansion across multiple product modules.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - AngularJS
 - HTML5
 - SASS
 - REST APIs
+- Google AMP

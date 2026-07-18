@@ -2,42 +2,34 @@
 
 ## Overview
 
-This project focused on developing a location-based supermarket retail platform for online grocery shopping, customer ordering, delivery coordination, and store-side management.
+This project involved developing a location-based supermarket retail platform for online grocery shopping, customer ordering, delivery coordination, and retail operations.
 
-Rather than building a traditional online supermarket, the platform unified customer ordering, branch selection, inventory integration, delivery management, and retail operations into a single system.
+Beyond offering an online supermarket, the platform unified customer ordering, branch selection, inventory integration, delivery management, and in-store operations within a single retail ecosystem. It was designed to support the complete purchasing journey while providing the operational workflows required to manage day-to-day supermarket activities across multiple branches.
 
 ---
 
 ## The Problem
 
-Before the platform, customer orders were handled primarily over the phone, while branch operations were managed separately through internal retail systems with no unified online experience.
+A group of independently operated supermarkets wanted to expand beyond traditional phone-based ordering by offering a unified online shopping experience.
 
-A supermarket retail business needs more than a simple online catalog.
+Rather than maintaining separate websites for each branch, they needed a single platform where customers could browse products and place orders based on their location, while each supermarket continued serving its own delivery area. The challenge was to present the network as one consistent retail experience without exposing its underlying operational structure to customers.
 
-Customers expect to browse products quickly, manage their cart, choose delivery information, track orders, and complete payments through a smooth experience across mobile and desktop devices.
-
-At the same time, the business needs operational tools for inventory-oriented product management, order processing, delivery coordination, customer communication, access control, and commercial campaigns such as special offers.
-
-The goal was to build a connected retail platform that supported both customer experience and day-to-day retail operations.
+The project aimed to complement the existing ordering process with an integrated online platform that connected multiple supermarkets through a single customer-facing experience while preserving each branch's independent operations.
 
 ---
 
 ## Engineering Challenges
 
-- Building responsive customer-facing shopping experiences across mobile, tablet, laptop, and desktop screens.
-- Coordinating complex shopping workflows across product discovery, cart management, checkout, and order tracking.
-- Reproducing the customer purchasing workflow inside the administrative panel to support operator-assisted phone orders.
+- Delivering optimized shopping experiences across desktop browsers and installation-ready mobile PWAs through a shared frontend architecture.
+- Reproducing the complete customer purchasing workflow inside the administrative panel to support operator-assisted phone orders.
+- Coordinating multiple payment workflows within a single checkout experience, including online payment, wallet, cash, and card reader transactions.
 
 ---
 
 ## My Contributions
 
-- Developed the frontend applications for both the customer-facing platform and the administrative panel.
-- Contributed to backend analysis and workflow design where frontend architecture and business processes overlapped.
-- Implemented customer-facing shopping features across the complete purchasing journey, from product discovery to order completion.
-- Built an operator-assisted ordering workflow that enabled customer service staff to create and manage phone orders through the administrative panel using the same purchasing process as online customers.
-- Developed administrative interfaces supporting day-to-day retail operations across order management, customer services, and platform administration.
-- Implemented multiple payment workflows, including online gateway, cash, card reader, and wallet-based payments.
+- Designed and implemented an operator-assisted ordering workflow, allowing customer service staff to create phone orders through a dedicated interface while assigning purchases to customer accounts.
+- Implemented multiple checkout workflows supporting online payment, wallet, cash, and card reader transactions.
 
 ---
 
@@ -49,8 +41,6 @@ The goal was to build a connected retail platform that supported both customer e
 
 - **Barcode-Centered Product Catalog:** The platform relied on product barcodes as the shared identifier across all supermarket branches, enabling a unified product catalog while allowing each branch to synchronize its own inventory independently.
 
-- **Adaptive Shopping Experience:** A shared frontend architecture delivered interfaces optimized for different devices, providing a traditional desktop shopping experience alongside an installation-ready Progressive Web App (PWA) tailored for frequent mobile purchases.
-
 ---
 
 ## Technology Stack
@@ -58,6 +48,5 @@ The goal was to build a connected retail platform that supported both customer e
 - React
 - Redux
 - Ant Design
-- Firebase Cloud Messaging (FCM)
-- Progressive Web App (PWA)
 - REST APIs
+- Progressive Web App (PWA)
