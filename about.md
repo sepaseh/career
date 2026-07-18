@@ -8,7 +8,7 @@ Mashhad, Razavi Khorasan, Iran
 
 **Email:** [m.sepaseh@gmail.com](mailto:m.sepaseh@gmail.com)
 
-**LinkedIn:** https://www.linkedin.com/in/sepaseh/
+**LinkedIn:** https://www.linkedin.com/in/sepaseh
 
 **GitHub:** https://github.com/sepaseh
 
@@ -16,16 +16,16 @@ Mashhad, Razavi Khorasan, Iran
 
 # About
 
-I am a Senior Software Engineer with more than 17 years of experience designing and building enterprise software, scalable web applications, and digital products across multiple industries, including blockchain, industrial automation, healthcare, hospitality, tourism, fintech, and professional networking.
+I am a Senior Software Engineer with more than 17 years of experience designing and building web applications and digital products across industries including blockchain, industrial automation, healthcare, hospitality, tourism, finance, and professional networking.
 
-My professional journey began at the age of sixteen as a junior web developer. Over the years, my role naturally evolved from software implementation to frontend architecture, system design, technical leadership, and product engineering. While frontend development remains my primary area of expertise, I have consistently worked beyond implementation by participating in system analysis, software architecture, product planning, technical consulting, and cross-functional collaboration.
+My professional journey began at the age of sixteen as a junior web developer. Over the years, my role evolved from frontend implementation and customer website delivery to product engineering, frontend architecture, system design, and technical leadership. Frontend development remains my primary area of expertise, but my responsibilities have consistently extended beyond implementation.
 
-Throughout my career, I have contributed to products ranging from blockchain wallet ecosystems and AI-assisted healthcare platforms to industrial software, digital pathology education systems, hospitality platforms, reservation systems, stock market simulation platforms, and professional networking applications. Working across diverse business domains has strengthened my ability to quickly understand complex requirements and translate them into practical, maintainable software solutions.
+Throughout my career, I have worked directly with product teams, customers, and domain specialists to understand business workflows, evaluate technical approaches, and translate complex requirements into practical software solutions. This has included contributing to product discovery, software architecture, implementation planning, API design, and cross-functional delivery.
 
-One of the aspects I enjoy most about software engineering is connecting business requirements with technical implementation. Whether participating in architecture discussions, analyzing customer needs, planning software solutions, or contributing directly to development, I enjoy solving problems that require both engineering thinking and product awareness.
+My experience includes blockchain wallet ecosystems, industrial and automation software, AI-assisted healthcare products, digital pathology education systems, hospitality platforms, reservation marketplaces, financial simulation tools, and professional networking applications. Working across different domains has strengthened my ability to understand unfamiliar problems without relying on a predefined solution model.
 
-Although my responsibilities have increasingly shifted toward architecture and technical leadership, I continue to value hands-on software development. Staying involved in implementation helps me make better architectural decisions while maintaining a realistic understanding of the technical challenges faced by engineering teams.
+Although my responsibilities have increasingly shifted toward architecture and technical leadership, I continue to value hands-on software development. Staying involved in implementation helps me make practical architectural decisions and maintain a realistic understanding of the challenges faced by engineering teams.
 
-I believe sustainable software is built through simplicity, maintainability, and continuous learning. Rather than focusing solely on technology, I strive to understand the underlying problem, evaluate different approaches, and design solutions that continue to deliver value as products, teams, and businesses evolve.
+I believe sustainable software is built through clear problem understanding, appropriate technical decisions, simplicity, and maintainability. Rather than beginning with a preferred technology, I try to understand the underlying problem, evaluate the available options, and design solutions that can evolve alongside the product, team, and business.
 
 This repository complements my resume by providing additional context about my professional experience, engineering approach, selected projects, and technical growth throughout my career.
