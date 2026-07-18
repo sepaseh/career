@@ -38,8 +38,6 @@ The project aimed to create an official city website that combined cultural, his
 
 - **Language-Agnostic Content Model:** Built the frontend around a localized content structure that allowed pages, widgets, events, and other content to expand to additional languages without frontend changes.
 
-- **Admin-Managed Content Architecture:** Built a content architecture where public pages, widgets, galleries, events, FAQs, and news could be maintained by administrators without frontend changes or developer involvement.
-
 - **Configurable Content Platform:** Developed a content management architecture that enabled municipality staff to manage pages, widgets, galleries, events, FAQs, news, and other public content without developer involvement.
 
 ---
