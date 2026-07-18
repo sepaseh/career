@@ -10,69 +10,62 @@
 
 ## Work Context
 
-My work focused on developing software solutions for the retail industry, with an emphasis on location-based marketplaces, inventory management, and business information systems.
-
-The primary product was a multi-vendor retail platform designed to connect customers with the nearest distribution centers while supporting scalable inventory and order management.
+I led a small engineering team responsible for developing web applications across retail, education, telecommunications, and business information systems. My role combined frontend architecture, technical leadership, hands-on development, and coordination with backend engineers throughout product delivery.
 
 ---
 
 ## Domains I Worked In
 
 - Retail Technology
-- Marketplace Platforms
-- Inventory Management
-- Location-Based Services
-- Enterprise Web Applications
+- Business Information Systems
+- Online Education
+- Telecommunications
 
 ---
 
 ## Responsibilities
 
-My responsibilities combined technical leadership with software architecture and frontend development.
+My responsibilities combined technical leadership with frontend architecture and hands-on software development.
 
 I was responsible for:
 
-- Leading frontend development activities.
-- Participating in software architecture and technical planning.
-- Designing scalable solutions for location-based retail workflows.
-- Collaborating with backend engineers on platform integration.
-- Supporting product implementation and technical decision-making.
+- Leading engineering activities within a small development team.
+- Establishing frontend architecture and development practices across projects.
+- Defining technical direction and making core architectural decisions.
+- Leading customer discovery sessions and translating business requirements into implementation plans.
+- Coordinating implementation across the development team.
+- Collaborating with backend engineers on API design and system integration.
+- Reviewing technical decisions to maintain implementation consistency across products.
 
 ---
 
 ## Key Engineering Work
 
-### Retail Marketplace Platform
+- **Frontend Engineering Structure:** Established a shared approach to frontend architecture, project organization, and implementation practices for use across multiple products.
 
-Contributed to the development of a location-based marketplace platform capable of routing customer orders to appropriate distribution centers based on operational rules and geographical location.
+- **Location-Based Retail Platform:** Led frontend development for a multi-branch supermarket platform involving location-aware ordering, distributed inventory, and operational workflows.
 
-Developed SEO-oriented web applications using Next.js to improve search engine visibility while maintaining a scalable frontend architecture.
+- **Industrial Information Platform:** Contributed to developing a searchable information platform covering companies and organizations across Iranian industries.
 
-### Inventory Management
+- **Online Education Platforms:** Led frontend work for separate educational products focused on professional baking and children's music education.
 
-Participated in designing software supporting distributed inventory management across multiple retail locations while maintaining a unified customer experience.
-
-### Technical Leadership
-
-Provided technical guidance during implementation while coordinating frontend development and software delivery.
+- **Telecommunications Website:** Contributed to delivering a public-facing website for a mobile network operator in Afghanistan.
 
 ---
 
 ## Engineering Challenges
 
-- Designing scalable software for distributed retail operations.
-- Supporting location-aware business workflows.
-- Balancing SEO requirements with modern frontend architecture.
-- Coordinating frontend and backend development across a rapidly evolving product.
-- Balancing maintainability with changing business requirements.
+- Establishing consistent frontend architecture and development practices across products with different business requirements.
+- Designing reusable foundations without forcing unrelated applications into the same product structure.
+- Coordinating frontend and backend development within a small team handling multiple active projects.
+- Maintaining implementation consistency while adapting applications to different operational workflows and audiences.
+- Balancing hands-on development responsibilities with technical leadership and delivery coordination.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - Next.js
 - React
-- TypeScript
 - Redux
 - REST APIs
-- Git
