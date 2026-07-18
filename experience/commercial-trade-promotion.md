@@ -10,9 +10,9 @@
 
 ## Work Context
 
-As a co-founder and web developer, I worked on delivering websites and digital solutions for commercial and industrial organizations.
+As a co-founder and web developer, I worked directly with commercial and industrial organizations to design and deliver custom websites aligned with their branding, content, and business objectives.
 
-Most projects were implemented using WordPress as a content management system. At the time, modern visual page builders were not yet common, so my work focused on designing websites, implementing custom WordPress themes, integrating existing WordPress template functions, and configuring SEO plugins for customer projects.
+My work combined website design, custom WordPress theme development, frontend implementation, and search engine optimization at a time when most business websites were built through custom development rather than visual page builders. This period provided hands-on experience across customer collaboration, web delivery, and building tailored digital solutions for a wide range of organizations.
 
 ---
 
@@ -27,41 +27,37 @@ Most projects were implemented using WordPress as a content management system. A
 
 ## Responsibilities
 
-My responsibilities focused on website design, frontend implementation, WordPress theme development, and customer collaboration.
+My responsibilities focused on website development, frontend implementation, and customer collaboration.
 
 I was responsible for:
 
-- Designing websites for commercial and industrial organizations.
-- Implementing custom WordPress themes based on customer requirements.
-- Integrating existing WordPress template functions into custom frontend layouts.
-- Configuring SEO plugins and search-friendly website structures.
-- Collaborating directly with customers to understand business requirements.
-- Participating in UI implementation and digital branding materials.
+- Designing and implementing custom websites for commercial and industrial organizations.
+- Developing custom WordPress themes tailored to project requirements.
+- Integrating WordPress functionality into custom frontend implementations.
+- Optimizing website structure and content for search engine visibility.
+- Collaborating directly with customers to understand business requirements and deliver tailored solutions.
+- Supporting visual implementation and digital branding materials where required.
 
 ---
 
 ## Key Engineering Work
 
-### Custom WordPress Websites
+- **Custom WordPress Development:** Designed and implemented custom WordPress websites with tailored themes, adapting each project to the customer's branding, content structure, and business objectives.
 
-Designed and implemented custom WordPress-based websites for companies across different industries, adapting each website to the customer's brand, content structure, and business goals.
-
-### SEO-Oriented Websites
-
-Implemented websites with a strong emphasis on search engine optimization, using SEO plugins and search-friendly structures to improve customer visibility.
+- **SEO-Oriented Website Delivery:** Built search-friendly websites by combining custom frontend implementation with SEO best practices to improve visibility and long-term maintainability.
 
 ---
 
 ## Engineering Challenges
 
-- Delivering custom websites for customers with diverse business needs.
-- Implementing tailored WordPress themes without modern visual page builders.
-- Balancing visual design, content structure, and SEO requirements.
-- Gaining practical experience across customer communication, design, and web delivery.
+- Delivering tailored websites for organizations across different industries.
+- Developing custom WordPress themes without relying on visual page builders.
+- Balancing branding, usability, and search engine optimization.
+- Managing customer requirements across design, implementation, and delivery.
 
 ---
 
-## Technologies
+## Technology Stack
 
 - WordPress
 - PHP Template Functions
@@ -70,4 +66,3 @@ Implemented websites with a strong emphasis on search engine optimization, using
 - CSS3
 - jQuery
 - SEO Plugins
-- Git
