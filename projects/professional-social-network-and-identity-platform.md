@@ -20,11 +20,9 @@ The project aimed to establish a unified ecosystem where digital identity became
 
 ## Engineering Challenges
 
-- Building a maintainable AngularJS application structure during the team's early adoption of modern SPA development.
-- Balancing interactive Single-Page Application behavior with search engine visibility for public professional profiles.
-- Supporting SEO through server-rendered public pages while replacing the initial markup with the AngularJS application on the client side.
-- Building Google AMP pages with little or no JavaScript to improve search visibility and deliver near-instant loading from Google's cache.
-- Modeling users who could manage multiple professional or organizational pages within the same identity platform.
+- Designing a controlled profile customization system that balanced user personalization with a consistent and maintainable public profile structure.
+- Building Google AMP versions of public profiles under strict JavaScript and rendering constraints without duplicating the platform's content logic.
+- Modeling an identity system where a single user could create, own, and manage multiple professional or organizational profiles with different roles and permissions.
 
 ---
 

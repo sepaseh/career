@@ -20,9 +20,8 @@ The project aimed to create an official city website that combined cultural, his
 
 ## Engineering Challenges
 
-- Designing a multilingual content structure that could support additional languages without restructuring the application.
-- Maintaining separate public website and administration panel experiences while keeping content management consistent.
-- Implementing an interactive city map on a static image by translating administrator-managed locations into accurate visual coordinates instead of relying on geographic latitude and longitude.
+- Designing a multilingual content structure that supported fully localized content across the platform while allowing additional languages to be introduced without restructuring the application.
+- Implementing an interactive city map on a static city illustration by translating administrator-managed coordinates into accurately positioned points of interest.
 
 ---
 

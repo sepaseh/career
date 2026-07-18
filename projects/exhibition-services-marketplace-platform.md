@@ -20,10 +20,7 @@ The project aimed to establish a unified marketplace where exhibitors and servic
 
 ## Engineering Challenges
 
-- Designing a platform that could evolve from a business directory into a complete exhibition operations platform.
-- Building a multilingual SEO-oriented website while maintaining dynamic business profiles and exhibition content.
-- Designing a flexible administration panel capable of managing companies, exhibitions, calendars, locations, users, permissions, and promotional content.
-- Creating a scalable content model that supported company profiles, galleries, catalogs, social networks, and exhibition participation.
+- Delivering distinct desktop and mobile user experiences through a shared frontend architecture while minimizing code duplication.
 
 ---
 

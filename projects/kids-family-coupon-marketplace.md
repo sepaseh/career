@@ -20,10 +20,9 @@ The project aimed to transform an established community into a dedicated digital
 
 ## Engineering Challenges
 
-- Transforming a manually operated promotional business into a structured digital platform without disrupting existing operational workflows.
-- Designing a flexible campaign model that allowed venues to independently configure pricing, availability, sales periods, and redemption rules.
-- Building a reliable coupon validation workflow that prevented duplicate redemption while remaining simple enough for venue staff to use during customer check-in.
-- Supporting both QR code scanning and manual validation to accommodate different operational environments and device capabilities.
+- Designing a flexible campaign model that supported multiple ticket types with independent pricing, age groups, availability, and redemption rules within a single promotional campaign.
+- Building a reliable coupon validation workflow that prevented duplicate redemption during customer admission.
+- Implementing reliable QR code scanning within a Progressive Web App while maintaining a smooth mobile experience across different devices.
 
 ---
 

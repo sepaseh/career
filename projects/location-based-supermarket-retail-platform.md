@@ -20,9 +20,9 @@ The project aimed to complement the existing ordering process with an integrated
 
 ## Engineering Challenges
 
-- Building responsive customer-facing shopping experiences across mobile, tablet, laptop, and desktop screens.
-- Coordinating complex shopping workflows across product discovery, cart management, checkout, and order tracking.
-- Reproducing the customer purchasing workflow inside the administrative panel to support operator-assisted phone orders.
+- Delivering optimized shopping experiences across desktop browsers and installation-ready mobile PWAs through a shared frontend architecture.
+- Reproducing the complete customer purchasing workflow inside the administrative panel to support operator-assisted phone orders.
+- Coordinating multiple payment workflows within a single checkout experience, including online payment, wallet, cash, and card reader transactions.
 
 ---
 

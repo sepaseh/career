@@ -20,11 +20,9 @@ The project aimed to recreate the experience of examining tissue samples digital
 
 ## Engineering Challenges
 
-- Visualizing multi-gigabyte pathology slides through a standard web browser.
-- Recreating microscope-like navigation using multi-resolution image tiles.
-- Supporting both server-side and offline image preparation workflows for extremely large slide files.
-- Associating educational content and examination activities with precise locations on pathology slides.
-- Maintaining responsive navigation while rendering interactive educational overlays.
+- Visualizing multi-gigabyte pathology slides through progressive, multi-resolution image loading in a standard web browser.
+- Recreating microscope-like exploration with responsive panning and incremental zooming.
+- Keeping educational annotations and examination activities synchronized with precise locations during slide navigation.
 
 ---
 

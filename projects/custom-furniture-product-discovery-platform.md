@@ -20,10 +20,7 @@ The project aimed to provide a flexible product discovery experience supported b
 
 ## Engineering Challenges
 
-- Designing an information architecture around multiple customer discovery paths instead of a single navigation hierarchy.
-- Modeling relationships between products, architectural styles, and usage spaces while keeping content management simple.
-- Building a multilingual website with search engine friendly content organization.
-- Developing a flexible administration panel capable of managing all website content through role-based access control.
+- Balancing rich product discovery capabilities with an intentionally simple user experience for a general public audience.
 
 ---
 

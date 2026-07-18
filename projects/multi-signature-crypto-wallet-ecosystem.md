@@ -21,9 +21,9 @@ The project therefore evolved from building a secure wallet into establishing th
 ## Engineering Challenges
 
 - Designing a browser extension architecture that could support product requirements beyond the constraints of existing extension-focused tooling.
-- Managing communication between browser extension contexts, including page scripts, background processes, and user-facing extension interfaces.
-- Supporting multiple browser extension runtime contexts while keeping development and build workflows maintainable.
-- Evaluating and replacing initial tooling decisions when they introduced architectural limitations.
+- Managing communication between isolated browser extension contexts, including injected scripts, background processes, and user-facing extension interfaces.
+- Injecting a compatible Ethereum provider into web pages while maintaining compatibility with existing dApp expectations.
+- Defining clear boundaries between React Query caching and browser persistence to avoid storing unnecessary or sensitive wallet data.
 
 ---
 

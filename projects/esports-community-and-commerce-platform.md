@@ -20,9 +20,8 @@ The project aimed to bring these activities together into a single platform wher
 
 ## Engineering Challenges
 
-- Combining community features and digital commerce into a unified user experience without making either aspect feel secondary.
 - Supporting multiple fulfillment models for physical merchandise, digital products, redeemable codes, bundled offerings, and customizable products through a consistent purchasing workflow.
-- Reusing the same commerce infrastructure to power event-oriented storefronts and promotional campaigns without requiring separate implementations.
+- Designing a flexible filtering system driven by product-specific attributes rather than predefined category-specific interfaces.
 
 ---
 

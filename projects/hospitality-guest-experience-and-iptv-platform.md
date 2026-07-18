@@ -21,10 +21,10 @@ The project aimed to consolidate guest-facing services into a single platform, e
 ## Engineering Challenges
 
 - Supporting resource-constrained television hardware where modern frontend frameworks and animation-heavy interfaces were not practical.
-- Building a shared web application experience across different television platforms without maintaining separate frontend codebases.
-- Designing remote-control navigation for a non-linear, tile-based interface rather than a simple left-right menu structure.
-- Preventing guests from leaving the hotel application environment on Android-based devices.
-- Working around limited access to television platform documentation and device-specific implementation details.
+- Building a shared web application experience across multiple television platforms without maintaining separate frontend codebases.
+- Supporting multiple television platforms through device-specific key mappings without changing the application logic.
+- Designing a dynamic remote-control navigation model that adapted to each hotel's enabled services while maintaining a predictable user experience.
+- Preventing guests from leaving the hospitality application on Android-based television devices while preserving a seamless in-room experience.
 
 ---
 

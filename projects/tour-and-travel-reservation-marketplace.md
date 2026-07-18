@@ -20,12 +20,10 @@ The project aimed to bring these disconnected workflows together within a single
 
 ## Engineering Challenges
 
-- Integrating authenticated workflows directly into the public website.
-- Implementing separate mobile and desktop experiences in a Next.js application while handling server-side device detection.
-- Preventing duplicated business logic across device-specific interfaces.
-- Developing multi-step workflows with draft persistence and resumable progress.
-- Building a custom reservation calendar around booking availability and real-world reservation rules.
-- Supporting room-level accommodation management with independent pricing and availability.
+- Designing an integrated user experience where users could seamlessly manage their own content within the public application.
+- Implementing dedicated mobile and desktop interfaces in a Next.js application while keeping business logic shared across both experiences.
+- Designing long-running multi-step workflows with draft persistence and resumable progress.
+- Modeling room-level reservation availability while supporting real-world booking scenarios without scheduling conflicts.
 
 ---
 
