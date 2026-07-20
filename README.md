@@ -33,15 +33,15 @@ The content is organized into independent sections so readers can quickly naviga
 
 - [Multi-Signature Crypto Wallet Ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md)
 - [Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)
-- [Multi-Vendor Tour & Travel Reservation Platform](projects/tour-and-travel-reservation-marketplace.md)
+- [Multi-Vendor Tour & Travel Reservation Platform](projects/multi-vendor-tour-travel-reservation-platform.md)
 - [Location-Based Supermarket Retail Platform](projects/location-based-supermarket-retail-platform.md)
-- [Professional Digital Identity & Networking Platform](projects/professional-social-network-and-identity-platform.md)
+- [Professional Digital Identity & Networking Platform](projects/professional-digital-identity-and-networking-platform.md)
 - [Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md)
 - [Esports Community and Commerce Platform](projects/esports-community-and-commerce-platform.md)
 - [Custom Furniture Product Discovery Platform](projects/custom-furniture-product-discovery-platform.md)
-- [Mashhad City Identity & Visitor Information Platform](projects/mashhad-city-identity-platform.md)
-- [Kids & Family Coupon Marketplace and Ticket Validation Platform](projects/kids-family-coupon-marketplace.md)
-- [Exhibition Services Marketplace & Operations Platform](projects/exhibition-services-marketplace-platform.md)
+- [Mashhad City Identity & Visitor Information Platform](projects/mashhad-city-identity-visitor-information-platform.md)
+- [Kids & Family Coupon Marketplace and Ticket Validation Platform](projects/kids-family-coupon-marketplace-and-ticket-validation-platform.md)
+- [Exhibition Services Marketplace & Operations Platform](projects/exhibition-services-marketplace-operations-platform.md)
 
 ---
 
