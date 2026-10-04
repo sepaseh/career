@@ -8,9 +8,9 @@
 
 **ایمیل:** [m.sepaseh@gmail.com](mailto:m.sepaseh@gmail.com)
 
-**LinkedIn:** https://www.linkedin.com/in/sepaseh
+**لینکدین:** https://www.linkedin.com/in/sepaseh
 
-**GitHub:** https://github.com/sepaseh
+**گیت‌هاب:** https://github.com/sepaseh
 
 ---
 
