@@ -2,6 +2,8 @@
 
 Welcome!
 
+[نسخه فارسی](fa/README.md)
+
 This repository documents my professional journey as a software engineer. Rather than serving as a traditional resume, it provides additional context about my experience, engineering approach, selected projects, and technical growth throughout my career.
 
 The content is organized into independent sections so readers can quickly navigate to topics of interest.
@@ -14,6 +16,7 @@ The content is organized into independent sections so readers can quickly naviga
 
 - [About](about.md)
 - [Resume (ATS Version)](resume.md)
+- [Resume PDF (ATS Version)](output/pdf/mahdi-sepaseh-resume-ats-en.pdf)
 
 ---
 

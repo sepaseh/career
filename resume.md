@@ -26,11 +26,17 @@ Senior Frontend Engineer with 17+ years of experience building web applications 
 
 **State Management:** React Query, Redux, Context API
 
-**UI & Styling:** Styled Components, Sass, Ant Design, Material UI
+**UI & Styling:** Tailwind CSS, shadcn/ui, Styled Components, Sass, Ant Design, Material UI
 
 **Testing & Tooling:** Vite, ESLint, Prettier, Git, GitHub Actions
 
 **Architecture:** Frontend Architecture, Design Systems, Performance Optimization
+
+---
+
+## Soft Skills
+
+Problem Solving · Systems Thinking · Technical Communication · Cross-Functional Collaboration · Ownership · Continuous Learning · Leadership · Mentoring
 
 ---
 
