@@ -41,7 +41,7 @@ function documentHTML(source,fa,phone){
  const font=fontSettings(fa);
  const {header,sections}=parse(source);const lines=header.split('\n').filter(x=>x.trim()&&x!=='---');
  const name=lines[0].replace(/^# /,'');const role=lines[1];const specialty=lines[2];const location=lines[3];
- const contacts=lines.slice(4).map(x=>inline(x.replace(/^(Email|ایمیل|LinkedIn|GitHub):\s*/,'')));
+ const contacts=lines.slice(4).map(x=>inline(x.replace(/^(Email|ایمیل|LinkedIn|GitHub|لینکدین|گیت‌هاب):\s*/,'')));
  if(phone)contacts.splice(1,0,`<a dir="ltr" href="tel:${escape(phone.replace(/\s/g,''))}">${escape(phone)}</a>`);
  const top=`<header><h1>${inline(name)}</h1><p class="role">${inline(role)}</p><p>${inline(specialty)}</p><div class="contacts"><span>${inline(location)}</span>${contacts.map(x=>`<span dir="ltr">${x}</span>`).join('')}</div></header>`;
  const experience=sections.find(s=>/^(Professional Experience|تجربه‌های حرفه‌ای)$/.test(s.title));
