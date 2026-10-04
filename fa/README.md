@@ -55,8 +55,8 @@
 
 ## پروفایل‌های عمومی
 
-- **GitHub:** https://github.com/sepaseh
-- **LinkedIn:** https://www.linkedin.com/in/sepaseh/
+- **گیت‌هاب:** https://github.com/sepaseh
+- **لینکدین:** https://www.linkedin.com/in/sepaseh/
 
 ---
 
