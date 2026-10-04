@@ -43,6 +43,8 @@
 - Design System Implementation
 - Cross-Platform User Experience
 - Television User Interfaces (TV UI)
+- Tailwind CSS
+- shadcn/ui
 
 ---
 
@@ -74,6 +76,22 @@
 - Technical Leadership
 - Customer Communication
 - Technical Consulting
-- Cross-Functional Collaboration
+
+---
+
+## Soft Skills
+
 - Problem Solving
+- Systems Thinking
+- Critical Thinking
+- Decision Making
+- Ownership
+- Initiative
+- Adaptability
+- Continuous Learning
+- Written Communication
+- Technical Communication
+- Cross-Functional Collaboration
+- Conflict Resolution
+- Leadership
 - Mentoring
