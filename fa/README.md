@@ -32,6 +32,8 @@
 
 ## پروژه‌ها
 
+- [دیجیتال بانک ملت](projects/digital-bank-mellat.md)
+- [برنامه‌ریزی منابع سازمانی](projects/enterprise-resource-planning.md)
 - [اکوسیستم کیف پول رمزارزی چندامضایی](projects/multi-signature-crypto-wallet-ecosystem.md)
 - [پلتفرم آموزش آسیب‌شناسی دیجیتال و آزمون تعاملی](projects/digital-pathology-education-and-interactive-examination-platform.md)
 - [پلتفرم چندتأمین‌کننده رزرو تور و خدمات سفر](projects/multi-vendor-tour-travel-reservation-platform.md)

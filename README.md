@@ -34,6 +34,8 @@ The content is organized into independent sections so readers can quickly naviga
 
 ## Projects
 
+- [Digital Bank Mellat](projects/digital-bank-mellat.md)
+- [Enterprise Resource Planning](projects/enterprise-resource-planning.md)
 - [Multi-Signature Crypto Wallet Ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md)
 - [Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)
 - [Multi-Vendor Tour & Travel Reservation Platform](projects/multi-vendor-tour-travel-reservation-platform.md)
