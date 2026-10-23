@@ -20,73 +20,53 @@ Senior Frontend Engineer with 17+ years of experience building web applications 
 
 ---
 
-## Core Skills
-
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3
-
-**State Management:** React Query, Redux, Context API
-
-**UI & Styling:** Tailwind CSS, shadcn/ui, Styled Components, Sass, Ant Design, Material UI
-
-**Testing & Tooling:** Vite, ESLint, Prettier, Git, GitHub Actions
-
-**Architecture:** Frontend Architecture, Design Systems, Performance Optimization
-
----
-
-## Soft Skills
-
-Problem Solving · Systems Thinking · Technical Communication · Cross-Functional Collaboration · Ownership · Continuous Learning · Leadership · Mentoring
-
----
-
 ## Professional Experience
 
 ### Senior Software Engineer
 
 [**BitWatt**](experience/bitwatt.md) | Jul 2024 – Apr 2026
 
-- Developed frontend applications supporting a blockchain ecosystem centered on a multi-chain, multi-signature cryptocurrency wallet.
-- Designed frontend architecture for developer platforms, transaction automation services, and supporting web applications.
-- Contributed to system analysis, technical planning, blockchain service integration, and the frontend development of an AI-assisted physiotherapy platform.
+- Built React and TypeScript developer workflows for wallet-based authentication, application management, team collaboration, and API key management.
+- Implemented schema-driven interfaces for transaction automation, enabling new workflows to be configured through metadata without frontend code changes.
+- Contributed to system analysis and technical planning across the ecosystem; developed the frontend of an AI-assisted physiotherapy platform.
 
 ### Technical Lead
 
 [**Veerasense**](experience/veerasense.md) | Aug 2023 – Jul 2024
 
-- Led development of AI-powered industrial software solutions supporting monitoring, safety, inspection, and operational workflows.
-- Participated in software architecture, system analysis, and technical decision-making for enterprise software across multiple industries.
-- Worked directly with enterprise customers to translate operational requirements into scalable software solutions and support successful delivery.
+- Led React and TypeScript frontend development for AI-powered industrial monitoring, safety, and inspection software, collaborating with AI and backend engineers.
+- Analyzed enterprise customer workflows and contributed to software architecture and technical implementation plans.
+- Supported customer deployments and user training; provided post-deployment technical support.
 
 ### Technical Lead
 
 [**Hoomaan**](experience/hoomaan.md) | Dec 2022 – May 2023
 
-- Led frontend development of a location-based retail marketplace supporting customer ordering and retail operations.
-- Participated in software architecture and technical planning for location-based retail workflows and distributed inventory management.
-- Collaborated with backend engineers to deliver scalable marketplace solutions and coordinate technical implementation.
+- Established shared frontend architecture, project organization, and implementation practices across products using React and Next.js.
+- Led frontend development for a multi-branch supermarket platform supporting location-aware ordering, distributed inventory, and retail operations.
+- Coordinated the development team and worked with backend engineers on API design and service integration.
 
 ### Co-Founder / Software Engineer
 
 [**SP Soft (Software Solutions Provider)**](experience/sp-soft.md) | May 2018 – Dec 2022
 
 - Co-founded a software development company delivering enterprise software solutions across healthcare, hospitality, tourism, education, finance, and business management.
-- Led requirements analysis, solution design, frontend architecture, and implementation across projects spanning multiple business domains.
-- Collaborated directly with customers to translate operational requirements into scalable, maintainable software solutions throughout the product lifecycle.
+- Led customer discovery, technical feasibility assessment, frontend architecture, and application development with React and Redux.
+- Worked with backend engineers on API design and system integration; supported deployment and continued product development after delivery.
 
 ### Senior Web Developer
 
 [**Profile Digital**](experience/profile-digital.md) | Jul 2015 – May 2018
 
-- Contributed to the development of one of Iran's early professional networking and digital identity platforms.
-- Developed SEO-oriented public profile pages balancing search engine discoverability with interactive user experiences.
-- Built API-driven frontend applications and configurable workflow systems supporting scalable enterprise web platforms.
+- Developed reusable frontend components and API-driven applications with AngularJS and JavaScript for a professional networking and digital identity platform.
+- Combined server-rendered public profiles with client-side interactions and delivered Google AMP pages for mobile search visibility.
+- Contributed to the transition from CMS-based applications to SPA architecture and shared frontend infrastructure.
 
-### Co-Founder / Web Developer
+### Web Developer
 
 [**Commercial Trade Promotion**](experience/commercial-trade-promotion.md) | Oct 2011 – May 2015
 
-- Co-founded a digital solutions company delivering websites for commercial and industrial organizations.
+- Developed custom websites for commercial and industrial organizations, working directly with customers on requirements and delivery.
 - Designed and implemented custom WordPress themes tailored to customer branding and business requirements.
 - Built SEO-oriented websites while collaborating directly with customers to deliver search-friendly digital solutions.
 
@@ -94,29 +74,58 @@ Problem Solving · Systems Thinking · Technical Communication · Cross-Function
 
 [**Kaspid**](experience/kaspid.md) | Nov 2008 – Mar 2011
 
-- Started my professional web development career at the age of 16, contributing to customer website projects within a collaborative development team.
-- Developed frontend templates and integrated them into CMS-based websites for commercial customers.
-- Gained early experience in SEO-oriented web development, production deployments, and customer website delivery.
+- Developed frontend templates and integrated them into CMS-based websites for commercial customers within a development team.
+- Contributed to SEO-oriented website development, production deployments, and customer delivery.
+
+---
+
+## Technical Skills
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3
+
+**State Management:** React Query, Redux, Context API
+
+**UI & Styling:** Tailwind CSS, shadcn/ui, Styled Components, Sass, Ant Design, Material UI
+
+**Development Tools:** Vite, ESLint, Prettier, Git, GitHub Actions
+
+**Architecture:** Frontend Architecture, Design Systems, Performance Optimization
 
 ---
 
 ## Selected Projects
 
-[**Multi-Signature Crypto Wallet Ecosystem:**](projects/multi-signature-crypto-wallet-ecosystem.md) Browser extension-based cryptocurrency wallet ecosystem supporting multiple blockchain networks through a multi-signature wallet architecture. Beyond the wallet itself, the ecosystem included developer tools, an application marketplace, and supporting web applications, creating an integrated blockchain ecosystem for both users and developers.
+[**Multi-Signature Crypto Wallet Ecosystem**](projects/multi-signature-crypto-wallet-ecosystem.md) | BitWatt | 2024–2026
 
-[**Professional Digital Identity & Networking Platform:**](projects/professional-digital-identity-and-networking-platform.md) Professional networking platform enabling individuals and organizations to establish searchable digital identities online. The platform combined public profile pages, social interactions, configurable workflows, and SEO-oriented architecture to improve discoverability and long-term visibility.
+Designed and implemented custom browser extension architecture with React, TypeScript, and Rollup; built a multi-entry build pipeline and asynchronous messaging between isolated extension contexts.
 
-[**Digital Pathology Education & Interactive Examination Platform:**](projects/digital-pathology-education-and-interactive-examination-platform.md) Browser-based digital pathology platform enabling education and interactive examinations using extremely high-resolution microscopic tissue slides. The platform combined deep zoom visualization, educational content, annotations, and examination workflows to recreate the experience of exploring pathology slides through a standard web browser.
+[**Digital Pathology Education & Interactive Examination Platform**](projects/digital-pathology-education-and-interactive-examination-platform.md) | SP Soft | 2018–2022
 
-[**Hospitality Guest Experience & IPTV Platform:**](projects/hospitality-guest-experience-and-iptv-platform.md) Comprehensive hospitality platform that transformed in-room televisions into the primary digital touchpoint for hotel guests. Beyond IPTV services, the platform unified entertainment, hotel operations, guest services, room automation, and tourism experiences within a single ecosystem.
+Developed the React and Redux frontend with progressive, multi-resolution rendering for multi-gigabyte slides; synchronized educational annotations and examinations with image navigation.
+
+[**Hospitality Guest Experience & IPTV Platform**](projects/hospitality-guest-experience-and-iptv-platform.md) | SP Soft | 2018–2022
+
+Built a shared JavaScript frontend for Android TV, webOS, Tizen, and Linux/Android set-top boxes; isolated device-specific key mappings to support remote-control navigation without separate codebases.
+
+[**Professional Digital Identity & Networking Platform**](projects/professional-digital-identity-and-networking-platform.md) | Profile Digital | 2015–2018
+
+Built reusable AngularJS components and a role-aware profile interface for individuals and organizations; developed a Cordova mobile application from the shared web codebase.
 
 ---
 
 ## Education
 
-**Bachelor's Degree in Software Engineering Technology**
+**Bachelor's Degree in Computer Software Engineering Technology**
 
-Shandiz Institute of Higher Education, Mashhad, Iran (2015–2017)
+Shandiz Non-Profit Institute of Higher Education | 2016–2018
+
+**Associate Degree in Computer Software**
+
+Khorasan Non-Profit Institute of Higher Education | 2012–2015
+
+**English Language Course**
+
+Jihad Daneshgahi Applied Science and Technology Education Center | 2012–2015
 
 ---
 

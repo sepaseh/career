@@ -2,12 +2,13 @@
 
 ## Bachelor's Degree
 
-**Software Engineering Technology (Non-Continuous Program)**
+**Computer Software Engineering Technology**
 
-Khorasan Institute of Higher Education (2012 – 2015)
-Shandiz Institute of Higher Education (2015 – 2017)
+Shandiz Non-Profit Institute of Higher Education
 
 Mashhad, Iran
+
+**2016–2018** (Bahman 1394 – Khordad 1397, Solar Hijri)
 
 ---
 
@@ -15,11 +16,19 @@ Mashhad, Iran
 
 **Computer Software**
 
-University of Applied Science and Technology (ACECR)
+Khorasan Non-Profit Institute of Higher Education
 
 Mashhad, Iran
 
-**2012 – 2014**
+**2012–2015** (Mehr 1391 – Khordad 1394, Solar Hijri)
+
+---
+
+## English Language Course
+
+Jihad Daneshgahi Applied Science and Technology Education Center
+
+**2012–2015** (Mehr 1391 – Esfand 1393, Solar Hijri)
 
 ---
 

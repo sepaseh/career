@@ -1,5 +1,9 @@
 # Hospitality Guest Experience & IPTV Platform
 
+**Associated Company:** SP Soft (Software Solutions Provider)
+
+**Period:** 2018–2022
+
 ## Overview
 
 This project involved developing a comprehensive hospitality platform that transformed in-room televisions into the primary digital touchpoint for hotel guests.
