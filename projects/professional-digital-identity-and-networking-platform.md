@@ -1,5 +1,9 @@
 # Professional Digital Identity & Networking Platform
 
+**Associated Company:** Profile Digital
+
+**Period:** 2015–2018
+
 ## Overview
 
 This project involved developing one of Iran's early professional networking and digital identity platforms for individuals and organizations.

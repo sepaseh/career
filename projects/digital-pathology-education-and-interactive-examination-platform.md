@@ -1,5 +1,9 @@
 # Digital Pathology Education & Interactive Examination Platform
 
+**Associated Company:** SP Soft (Software Solutions Provider)
+
+**Period:** 2018–2022
+
 ## Overview
 
 This project involved developing a browser-based digital pathology platform for education and interactive examinations, enabling students and instructors to work with extremely high-resolution microscopic tissue slides.

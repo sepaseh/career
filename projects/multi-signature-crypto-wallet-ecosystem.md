@@ -1,5 +1,9 @@
 # Multi-Signature Crypto Wallet Ecosystem
 
+**Associated Company:** BitWatt
+
+**Period:** 2024–2026
+
 ## Overview
 
 This project involved developing a browser extension-based cryptocurrency wallet ecosystem supporting multiple blockchain networks.
