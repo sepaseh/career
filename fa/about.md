@@ -2,7 +2,7 @@
 
 **مهندس ارشد نرم‌افزار**
 
-معماری فرانت‌اند · طراحی سیستم · رهبری فنی · مهندسی محصول
+Frontend Architecture · System Design · Technical Leadership · Product Engineering
 
 مشهد، خراسان رضوی، ایران
 

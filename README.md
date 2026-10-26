@@ -17,6 +17,7 @@ The content is organized into independent sections so readers can quickly naviga
 - [About](about.md)
 - [Resume (ATS Version)](resume.md)
 - [Resume PDF (ATS Version)](output/pdf/mahdi-sepaseh-resume-ats-en.pdf)
+- [LinkedIn Profile Reference](linkedin.md)
 
 ---
 
@@ -53,6 +54,7 @@ The content is organized into independent sections so readers can quickly naviga
 ## Technical Background
 
 - [Skills](skills.md)
+- [Skills Review and Evidence](docs/skills-review.md)
 - [Education](education.md)
 
 ---
@@ -67,3 +69,9 @@ The content is organized into independent sections so readers can quickly naviga
 Thank you for taking the time to explore my work.
 
 This repository is continuously evolving alongside my professional experience. While the ATS resume provides a concise overview, the additional documents offer deeper insight into my engineering approach, selected projects, and career journey.
+
+## Keeping Profile Content Consistent
+
+Experience and project records hold the underlying facts. [Skills](skills.md) groups the broader practical capabilities; [the resume](resume.md) selects the most relevant ones for a Senior Frontend Engineer role. [The LinkedIn reference](linkedin.md) is the source of truth for the intended profile fields: Intro, Contact Info, About, Featured, Experience, Education, Projects, Skills, Courses and Languages. It has a corresponding [Persian version](fa/linkedin.md); publication notes and source links are separated from profile copy at the end.
+
+Update the underlying facts first, then the affected English and Persian skills, resume and LinkedIn files. Keep the same skill identities and order across both LinkedIn references, preserve intentional wording differences from the resume, and record the date of any live-profile review. Regenerate public resume PDFs after resume text changes using [the exporter](scripts/README.md). Editing the LinkedIn references does not publish changes to the live profile.

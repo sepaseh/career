@@ -26,9 +26,11 @@ function fontCSS(settings) {
 const escape = value => value.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const inline = value => escape(value).replace(/\[([^\]]+)\]\(([^)]+)\)/g,(_,label,url) => /^(https?:|mailto:)/.test(url) ? `<a href="${url}">${label}</a>` : label).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
 function parse(source) {
- const chunks=source.replace(/\r/g,'').split(/^## /m);const header=chunks.shift();
+ const chunks=source.replace(/\r/g,'').split(/^## /m);
+ const opening=chunks.shift().split(/^---[ \t]*$/m);const header=opening.shift();
+ const introduction=opening.join('\n').trim();
  const sections=chunks.map(chunk=>{const [title,...lines]=chunk.trim().split('\n');return {title,lines};});
- return {header,sections};
+ return {header,introduction,sections};
 }
 function paragraphs(lines) {
  let html='', list=false;
@@ -39,16 +41,16 @@ function paragraphs(lines) {
 }
 function documentHTML(source,fa,phone){
  const font=fontSettings(fa);
- const {header,sections}=parse(source);const lines=header.split('\n').filter(x=>x.trim()&&x!=='---');
+ const {header,introduction,sections}=parse(source);const lines=header.split('\n').filter(x=>x.trim()&&x!=='---');
  const name=lines[0].replace(/^# /,'');const role=lines[1];const specialty=lines[2];const location=lines[3];
  const contacts=lines.slice(4).map(x=>inline(x.replace(/^(Email|ایمیل|LinkedIn|GitHub|لینکدین|گیت‌هاب):\s*/,'')));
  if(phone)contacts.splice(1,0,`<a dir="ltr" href="tel:${escape(phone.replace(/\s/g,''))}">${escape(phone)}</a>`);
- const top=`<header><h1>${inline(name)}</h1><p class="role">${inline(role)}</p><p>${inline(specialty)}</p><div class="contacts"><span>${inline(location)}</span>${contacts.map(x=>`<span dir="ltr">${x}</span>`).join('')}</div></header>`;
+ const top=`<header><h1>${inline(name)}</h1><p class="role">${inline(role)}</p><p dir="ltr">${inline(specialty)}</p><div class="contacts"><span>${inline(location)}</span>${contacts.map(x=>`<span dir="ltr">${x}</span>`).join('')}</div></header>`;
  const experience=sections.find(s=>/^(Professional Experience|تجربه‌های حرفه‌ای)$/.test(s.title));
  const expIndex=sections.indexOf(experience);
  const jobs=experience.lines.join('\n').split(/^### /m).slice(1).map(job=>{const [title,...content]=job.trim().split('\n');return `<article><h3>${inline(title)}</h3>${paragraphs(content)}</article>`;});
  const section=s=>`<section><h2>${inline(s.title)}</h2>${paragraphs(s.lines)}</section>`;
- const before=top+sections.slice(0,expIndex).map(section).join('')+`<h2>${inline(experience.title)}</h2>`;
+ const before=top+paragraphs(introduction.split('\n'))+sections.slice(0,expIndex).map(section).join('')+`<h2>${inline(experience.title)}</h2>`;
  const after=sections.slice(expIndex+1).map(section).join('');
  const html=`<!doctype html><html lang="${fa?'fa':'en'}" dir="${fa?'rtl':'ltr'}"><head><meta charset="utf-8"><title>Mahdi Sepaseh - ATS Resume</title><style>
  ${fontCSS(font)}

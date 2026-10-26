@@ -2,6 +2,8 @@
 
 The Markdown resumes remain the content source. The exporter preserves all sections and text, uses a single-column two-page layout, and embeds the configured fonts: Vazirmatn for Persian and Roboto for English.
 
+The opening profile paragraph has no section heading. A Markdown horizontal rule separates the name/contact header from that paragraph; the exporter renders the paragraph below the contact block before professional experience.
+
 Run with Node.js and Playwright (a local installation or the Codex bundled runtime):
 
 ```text
