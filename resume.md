@@ -14,9 +14,7 @@ GitHub: [github.com/sepaseh](https://github.com/sepaseh)
 
 ---
 
-## Professional Summary
-
-Senior Frontend Engineer with 17+ years of experience building web applications across blockchain, healthcare, industrial software, hospitality, and enterprise platforms. Specialized in React, TypeScript, and frontend architecture, with a strong focus on translating complex business requirements into maintainable software.
+I am a Senior Frontend Engineer with 17+ years of experience developing web products, from commercial websites to enterprise platforms. My primary expertise is in React, TypeScript and frontend architecture. Alongside development, I have contributed to business requirements analysis, solution design and technical team leadership.
 
 ---
 
@@ -89,7 +87,15 @@ Senior Frontend Engineer with 17+ years of experience building web applications 
 
 **Development Tools:** Vite, ESLint, Prettier, Git, GitHub Actions
 
-**Architecture:** Frontend Architecture, Design Systems, Performance Optimization
+**Testing:** Vitest, React Testing Library, Playwright; unit, integration and end-to-end testing
+
+**Architecture & Performance:** Frontend Architecture, Design Systems, Web Performance Optimization, Core Web Vitals
+
+---
+
+## Soft Skills
+
+Problem Solving · Systems Thinking · Technical Communication · Cross-Functional Collaboration · Ownership · Technical Leadership · Mentoring
 
 ---
 
@@ -115,17 +121,11 @@ Built reusable AngularJS components and a role-aware profile interface for indiv
 
 ## Education
 
-**Bachelor's Degree in Computer Software Engineering Technology**
+**Bachelor's in Computer Software Engineering Technology** | Shandiz Institute | 2016–2018
 
-Shandiz Non-Profit Institute of Higher Education | 2016–2018
+**Associate Degree in Computer Software** | Khorasan Institute of Higher Education | 2012–2015
 
-**Associate Degree in Computer Software**
-
-Khorasan Non-Profit Institute of Higher Education | 2012–2015
-
-**English Language Course**
-
-Jihad Daneshgahi Applied Science and Technology Education Center | 2012–2015
+**English Language Course** | Jihad Daneshgahi Education Center | 2012–2015
 
 ---
 
