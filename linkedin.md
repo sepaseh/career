@@ -44,6 +44,9 @@ I have applied this in client work by writing development and testing guidance f
 
 We analyzed product requirements and planned the engineering work together for the wallet ecosystem, while I was responsible for frontend architecture and development across its web applications. I built interfaces for developers to manage applications, teams and API keys. For transaction automation, I built shared infrastructure that rendered interfaces from schemas and metadata, allowing compatible features to be added without changing the frontend code.
 
+- Implemented wallet-based sign-in using React and TypeScript.
+- Built the frontend for an internal AI-assisted physiotherapy platform that used computer vision.
+
 ### Veerasense
 
 **Title:** Technical Lead  
@@ -53,6 +56,9 @@ We analyzed product requirements and planned the engineering work together for t
 **Location type:** On-site
 
 I organized the software team and trained junior developers, gradually handing frontend development over to them. I reviewed and documented customers' operational needs on site and helped design a shared image acquisition and distribution core for the AI modules to address limits on concurrent camera connections. I also led development and deployment with the team, from the initial version through to operational use.
+
+- Contributed to a configurable panel in React and TypeScript that presented results from different AI modules for each customer deployment.
+- Trained users and provided technical support during and after rollout.
 
 ### Hoomaan
 
@@ -64,6 +70,9 @@ I organized the software team and trained junior developers, gradually handing f
 
 I led discovery meetings with the customer and documented requirements and technical constraints for designers and developers. I defined the shared frontend structure and the API contracts for login, registration and one-time passwords, keeping Postman collections aligned with the implementation. I also coordinated the designer, backend developers and frontend developers and resolved delivery blockers.
 
+- Led frontend development for a multi-branch supermarket platform with location-aware ordering and distributed inventory.
+- Mentored developers on responsive Next.js implementation and shared application structure.
+
 ### SP Soft (Software Solutions Provider)
 
 **Title:** Co-Founder / Software Engineer  
@@ -74,6 +83,9 @@ I led discovery meetings with the customer and documented requirements and techn
 
 I analyzed business needs through customer discussions, site visits and research into similar products, and assessed technical feasibility before development began. I was responsible for solution design, UI/UX and frontend architecture, and worked with backend engineering on API design, integration, testing and deployment. We kept working with the customer after delivery, gathering feedback and maintaining the product.
 
+- Built React and Redux applications in domains including healthcare, hospitality and commerce.
+- Tested web performance with GTmetrix and worked with the team to publish applications to international app stores.
+
 ### Profile Digital
 
 **Title:** Senior Web Developer  
@@ -83,6 +95,9 @@ I analyzed business needs through customer discussions, site visits and research
 **Location type:** On-site
 
 I developed frontends for the Profile professional network, a backend-as-a-service (BaaS) platform and a survey system. For user-defined data structures, I built a dynamic admin panel that generated forms and fields from schemas at runtime. I also worked with analysts and backend engineers to redesign an international product and modernize its infrastructure, and was responsible for frontend implementation and integration.
+
+- Built reusable AngularJS components and API-driven interfaces for the professional networking platform.
+- Combined server-rendered public profiles with client-side interactions and delivered Google AMP pages for mobile search.
 
 ### Commercial Trade Promotion
 
@@ -95,6 +110,9 @@ I developed frontends for the Profile professional network, a backend-as-a-servi
 
 I worked directly with commercial and industrial clients to define requirements and deliver WordPress websites. I developed custom themes and optimized the sites for search engines.
 
+- Tailored WordPress themes to each client’s branding, content and business requirements.
+- Integrated custom frontend code into WordPress using PHP templates.
+
 ### Kaspid
 
 **Title:** Junior Web Developer  
@@ -104,6 +122,9 @@ I worked directly with commercial and industrial clients to define requirements 
 **Location type:** On-site
 
 I built frontend templates and integrated them into content management systems for commercial websites. I worked with senior developers to deploy and deliver sites to clients.
+
+- Implemented website layouts with HTML, CSS, JavaScript and jQuery.
+- Helped maintain published websites and supported search-oriented development for commercial clients.
 
 ## Education
 
@@ -132,8 +153,8 @@ I built frontend templates and integrated them into content management systems f
 
 Modernized a legacy ERP application over 80 days, rebuilding its MVC and jQuery interface as a React management portal.
 
-- Reconstructed requirements from the legacy application and worked with backend engineering to standardize and document API contracts.
-- Wrote reusable development and testing instructions for coding assistants and set up automated quality checks, API contract tests and browser tests.
+- Reconstructed requirements from the legacy application, simplified forms with Ant Design and worked with backend engineering to standardize and document API contracts.
+- Wrote reusable development and testing instructions for coding assistants and set up GitHub Actions checks for code quality, API contracts, browser behavior and Storybook interactions.
 - Designed a way to trace reported service issues to the pull requests that resolved them.
 
 ### Digital Bank Mellat
@@ -142,9 +163,9 @@ Modernized a legacy ERP application over 80 days, rebuilding its MVC and jQuery 
 
 Frontend applications for digital identity verification, video banking and the staff workflows supporting those services.
 
-- Helped define video banking requirements and design REST and WebSocket contracts. Designed and implemented customer and banker interfaces.
+- Helped define video banking requirements and design REST and WebSocket contracts. Designed and implemented three frontend applications for identity verification, video banking and staff operations around a monorepo with shared packages.
 - Contributed to design documentation, data models, sequence diagrams and executable API collections in Bruno.
-- Wrote project-specific guidance for coding assistants and set up application and shared-package tests and continuous integration in GitHub Actions.
+- Wrote project-specific guidance for coding assistants, set up application and shared-package tests in GitHub Actions, and automated packaging of lightweight deployment releases.
 
 ### Multi-Signature Crypto Wallet Ecosystem
 
@@ -155,6 +176,7 @@ A multi-chain wallet ecosystem with browser extension clients, developer tools a
 
 - Designed a custom browser extension architecture, multi-entry Rollup build pipeline and asynchronous messaging between isolated extension contexts.
 - Built schema-driven forms so ecosystem applications could render developer-defined workflows without frontend code changes.
+- Introduced an abstraction for wallet providers so new chain integrations could reuse shared extension code.
 
 ### Location-Based Supermarket Retail Platform
 
@@ -165,6 +187,7 @@ A multi-branch grocery platform connecting customer ordering, branch operations 
 
 - Implemented operator-assisted ordering so customer service staff could place phone orders through a dedicated interface linked to customer accounts.
 - Built checkout workflows supporting online payment, wallet, cash and card reader transactions.
+- Used a shared frontend architecture for the desktop browser experience and the installable mobile progressive web app.
 
 ### Digital Pathology Education & Interactive Examination Platform
 
@@ -175,6 +198,7 @@ A browser-based environment for exploring high-resolution pathology slides and c
 
 - Designed and developed progressive multi-resolution viewing with map-style panning and zooming for multi-gigabyte slides.
 - Built an interactive layer that kept annotations, learning content and examinations synchronized with slide navigation.
+- Attended workshops and worked with a microscope to understand how students and educators examine tissue and run assessments.
 
 ### Hospitality Guest Experience & IPTV Platform
 
@@ -185,6 +209,7 @@ A hotel television platform combining entertainment, guest services, room automa
 
 - Built a shared JavaScript frontend for Android TV, webOS, Tizen and Linux/Android set-top boxes with device-specific key mappings.
 - Designed configurable remote-control navigation and guest-service interfaces that adapted to each hotel's enabled services.
+- Analyzed hotel services and worked with the building management team to integrate room lighting and ventilation controls. Surveyed hotel networks to plan deployment on Linux virtual machines.
 
 ### Multi-Vendor Tour & Travel Reservation Platform
 
@@ -195,6 +220,18 @@ A unified travel marketplace for managing tours, accommodation discovery and res
 
 - Built multi-step tour management with draft persistence and resumable progress, and implemented accommodation reservations around room-level availability.
 - Developed configurable homepage templates and separate mobile/desktop presentations while sharing business logic and API integration.
+- Helped unify the public and authenticated parts of the product in a single website.
+
+### Esports Store & Social Network
+
+**Dates:** 2018–2022
+
+**Associated with:** SP Soft (Software Solutions Provider)
+
+A community platform combining player profiles, gaming content and commerce.
+
+- Designed configurable product attributes and a shared purchase and order-tracking process for physical, digital and customizable products.
+- Designed and built the mobile and desktop web interfaces and worked with backend engineers on API contracts and Steam inventory and item transfers.
 
 ### Professional Digital Identity & Networking Platform
 
@@ -205,6 +242,35 @@ A professional networking platform combining individual and organization profile
 
 - Built reusable frontend components and public profiles combining server-rendered content, client-side interactions and Google AMP pages.
 - Developed a hybrid Apache Cordova application from the shared web codebase and a feed mechanism that notified users of newly available content.
+- Built a role-aware profile interface for individuals and organizations around a common data model.
+
+### Custom Furniture Product Discovery Platform
+
+A multilingual catalog for a custom wood furniture manufacturer.
+
+- Visited the factory and completed project sites to understand how customers explore furniture options. Used those findings and competitor research to design the information architecture and user experience.
+- Built the multilingual frontend around product relationships so customers could explore the same catalog in different ways without duplicating product data.
+
+### Exhibition Services Marketplace & Operations Platform
+
+A multilingual marketplace for exhibitors to discover and compare service providers in Iran.
+
+- Led product analysis and designed the relational model connecting exhibitions, exhibitors, providers and services.
+- Coordinated backend implementation and built a shared frontend for distinct desktop and mobile experiences.
+
+### Kids & Family Coupon Marketplace and Ticket Validation Platform
+
+A marketplace for family entertainment offers, with on-site ticket validation for venue staff.
+
+- Designed campaigns with multiple ticket types, separate pricing, availability and redemption rules. Built the customer-facing marketplace for browsing and buying offers.
+- Built a progressive web app that let venue staff validate tickets by scanning a QR code or entering a code manually.
+
+### Mashhad City Identity & Visitor Information Platform
+
+A multilingual visitor information platform for Mashhad Municipality’s International Relations Office.
+
+- Built a frontend architecture that supported localized content and let the team introduce new languages without frontend changes.
+- Built an interactive city map with points of interest managed by staff and trained administrators after deployment.
 
 ## Skills
 
@@ -321,9 +387,9 @@ On 26 October 2026, associations were saved for 50 skills; 12 remained intention
 | 42 | Contract Testing | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Consumer contracts only; no claim of full provider verification. |
 | 43 | Web Accessibility | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Automated accessibility and keyboard/focus checks; not full WCAG certification or manual screen-reader expertise. |
 | 44 | Browser Extension Development | [BitWatt](experience/bitwatt.md) | [Multi-Signature Crypto Wallet Ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md) | Actual implementation source and the linked project record. |
-| 45 | Progressive Web Apps (PWA) | [Hoomaan](experience/hoomaan.md) | [Location-Based Supermarket Retail Platform](projects/location-based-supermarket-retail-platform.md) | Another career project, Kids & Family Coupon Marketplace, is not one of the eight live project targets, so excluded from this UI map. |
+| 45 | Progressive Web Apps (PWA) | [Hoomaan](experience/hoomaan.md) | [Location-Based Supermarket Retail Platform](projects/location-based-supermarket-retail-platform.md) | The October live mapping covered the supermarket project. The [Kids & Family Coupon Marketplace](projects/kids-family-coupon-marketplace-and-ticket-validation-platform.md) also documents a staff ticket-validation progressive web app as part of the new project draft. |
 | 46 | Vite | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Actual implementation source and the linked project record. |
-| 47 | Turbopack | — | — | Practical use is recorded, but no specific association to these employers or eight projects was established. Next.js alone is not proof. |
+| 47 | Turbopack | — | — | The skills inventory records practical use without an employer or project association. |
 | 48 | Turborepo | — | [Digital Bank Mellat](projects/digital-bank-mellat.md) | Actual implementation source and the linked project record. |
 | 49 | Git | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Project Git/checkout/CI workflow context; do not infer every historical employer used Git solely from collaboration. |
 | 50 | Docker | — | [Digital Bank Mellat](projects/digital-bank-mellat.md) | Container build/runtime configuration evidence only; no employer or production operations claim. |
@@ -372,8 +438,8 @@ This section is repository guidance, not profile copy.
 - Both degrees received final English/Persian readbacks with the month ranges above and no grade.
 - The owner confirmed that English and Persian profile-language variants already exist. Preserve those variants; no additional profile-language variant or language-proficiency record was created during this update. The Languages entries above are reference values, not a claim that a live proficiency section was observed.
 - Project dates and company associations are based on owner-confirmed records and the reviewed profile history. Enterprise Resource Planning and Digital Bank Mellat were freelance projects, with no company association recorded here. ERP ran from Aug 2026 to Nov 2026.
-- Projects are eight shared English-only records in both profile-language variants. Keep the existing records and publish only the exact English project headings and English descriptions, with no Persian titles or descriptions. The Persian LinkedIn reference deliberately repeats this English section; the underlying Persian project documents remain broader career sources, not project text to publish on LinkedIn. On 26 October 2026, a fresh live reload verified the eight English titles and descriptions in use at that review.
-- Project contribution sources: [ERP](projects/enterprise-resource-planning.md), [Digital Bank Mellat](projects/digital-bank-mellat.md), [wallet ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md), [supermarket retail](projects/location-based-supermarket-retail-platform.md), [digital pathology](projects/digital-pathology-education-and-interactive-examination-platform.md), [hospitality/IPTV](projects/hospitality-guest-experience-and-iptv-platform.md), [travel reservations](projects/multi-vendor-tour-travel-reservation-platform.md), and [professional networking](projects/professional-digital-identity-and-networking-platform.md).
+- Both references share 13 English project entries. Eight titles and descriptions were verified on the live profile on 26 October 2026. The revised descriptions and five additional entries are intended copy for a future update. Use only documented project dates and company associations.
+- Project contribution sources: [ERP](projects/enterprise-resource-planning.md), [Digital Bank Mellat](projects/digital-bank-mellat.md), [wallet ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md), [supermarket retail](projects/location-based-supermarket-retail-platform.md), [digital pathology](projects/digital-pathology-education-and-interactive-examination-platform.md), [hospitality/IPTV](projects/hospitality-guest-experience-and-iptv-platform.md), [travel reservations](projects/multi-vendor-tour-travel-reservation-platform.md), [esports](projects/esports-community-and-commerce-platform.md), [professional networking](projects/professional-digital-identity-and-networking-platform.md), [furniture discovery](projects/custom-furniture-product-discovery-platform.md), [exhibition services](projects/exhibition-services-marketplace-operations-platform.md), [family entertainment](projects/kids-family-coupon-marketplace-and-ticket-validation-platform.md) and [Mashhad visitor information](projects/mashhad-city-identity-visitor-information-platform.md).
 - The ordered Skills list reflects the 62 published skill identities, not a proficiency ranking. Preserve those identities, including React, HTML5, CSS3, Frontend Architecture, Performance Optimization and Technical Mentoring. For future additions, select the appropriate canonical entry without creating alias duplicates.
 - On 26 October 2026, a freshly reopened Reorder editor showed all 62 skills persisted in exactly the order above, with no mismatches.
 - The 26 October 2026 review verified all 62 skill names and their order, both degrees, and the eight shared English-only project titles and descriptions. Save confirmations for About, the Persian headline and the seven experience entries apply to the wording from that review.

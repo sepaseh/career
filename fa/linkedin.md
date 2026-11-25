@@ -44,6 +44,9 @@
 
 در اکوسیستم کیف‌پول، تحلیل نیازهای محصول و برنامه‌ریزی فنی را همراه تیم پیش می‌بردیم و مسئولیت معماری و توسعهٔ فرانت‌اند برنامه‌های وب بر عهدهٔ من بود. رابط‌هایی ساختم تا توسعه‌دهندگان بتوانند برنامه‌ها، تیم‌ها و کلیدهای API را مدیریت کنند. برای خودکارسازی تراکنش‌ها، زیرساخت مشترکی ساختم که رابط‌ها را از روی Schema و فراداده نمایش می‌داد و امکان افزودن قابلیت‌های سازگار را فقط با پیکربندی فراهم می‌کرد.
 
+- ورود با کیف‌پول را با React و TypeScript پیاده‌سازی کردم.
+- فرانت‌اند پلتفرم داخلی فیزیوتراپی مبتنی بر بینایی ماشین را توسعه دادم.
+
 ### ویراسنس Veerasense
 
 **عنوان شغلی:** راهبر فنی  
@@ -53,6 +56,9 @@
 **شیوه همکاری:** حضوری
 
 سامان‌دهی تیم نرم‌افزار و آموزش همکاران تازه‌کار را بر عهده گرفتم و توسعهٔ فرانت‌اند را به‌تدریج به آن‌ها سپردم. نیازهای عملیاتی مشتریان را در محل بررسی و مستند می‌کردم و برای رفع محدودیت اتصال هم‌زمان دوربین‌ها، در طراحی هستهٔ مشترک دریافت و توزیع تصاویر میان ماژول‌های هوش مصنوعی مشارکت داشتم. توسعه و استقرار راهکارها را هم همراه تیم از نسخهٔ اولیه تا بهره‌برداری هدایت می‌کردم.
+
+- در ساخت پنلی قابل پیکربندی با React و TypeScript مشارکت کردم تا نتایج ماژول‌های مختلف هوش مصنوعی متناسب با نیاز هر مشتری نمایش داده شود.
+- در زمان راه‌اندازی و پس از آن کاربران را آموزش دادم و پشتیبانی فنی ارائه کردم.
 
 ### هومان Hoomaan
 
@@ -64,6 +70,9 @@
 
 جلسات نیازسنجی مشتری را هدایت می‌کردم و نیازها و محدودیت‌های فنی را برای طراحان و توسعه‌دهندگان مستند می‌کردم. ساختار مشترک فرانت‌اند و قراردادهای API ورود، ثبت‌نام و رمز یک‌بارمصرف را تعریف کردم و کالکشن‌های Postman را با پیاده‌سازی هماهنگ نگه می‌داشتم. هماهنگی طراح، بک‌اند و فرانت‌اند و رفع موانع تحویل هم بر عهدهٔ من بود.
 
+- توسعهٔ فرانت‌اند پلتفرم سوپرمارکت چندشعبه‌ای را با قابلیت سفارش بر اساس موقعیت مکانی و مدیریت موجودی شعب هدایت کردم.
+- به توسعه‌دهندگان در پیاده‌سازی واکنش‌گرا با Next.js و استفاده از ساختار مشترک برنامه‌ها کمک کردم.
+
 ### اس‌پی‌سافت SP Soft
 
 **عنوان شغلی:** هم‌بنیان‌گذار / مهندس نرم‌افزار  
@@ -74,6 +83,9 @@
 
 نیازهای کسب‌وکار را با گفت‌وگو با مشتری، بازدید میدانی و بررسی محصولات مشابه تحلیل می‌کردم و امکان‌پذیری فنی راهکارها را پیش از شروع توسعه می‌سنجیدم. طراحی راهکار، رابط و تجربهٔ کاربری و معماری فرانت‌اند بر عهدهٔ من بود و طراحی API، یکپارچه‌سازی، تست و استقرار را همراه بک‌اند پیش می‌بردیم. پس از تحویل هم ارتباط با مشتری، دریافت بازخورد و نگهداری محصول ادامه داشت.
 
+- با React و Redux در حوزه‌هایی از جمله سلامت، هتلداری و تجارت برنامه ساختم.
+- عملکرد وب را با GTmetrix می‌سنجیدم و همراه تیم در انتشار برنامه‌ها در فروشگاه‌های بین‌المللی مشارکت داشتم.
+
 ### پروفایل دیجیتال Profile Digital
 
 **عنوان شغلی:** توسعه‌دهنده ارشد وب  
@@ -83,6 +95,9 @@
 **شیوه همکاری:** حضوری
 
 فرانت‌اند شبکهٔ حرفه‌ای پروفایل، پلتفرم بک‌اند به‌عنوان سرویس (BaaS) و سامانهٔ نظرسنجی را توسعه دادم. برای ساختارهای داده‌ای که کاربران تعریف می‌کردند، پنل مدیریتی پویایی ساختم که فرم‌ها و فیلدها را هنگام اجرا از روی Schema تولید می‌کرد. در بازطراحی یک محصول بین‌المللی و نوسازی زیرساخت آن، با تیم تحلیل و بک‌اند همکاری داشتم و پیاده‌سازی فرانت‌اند و یکپارچه‌سازی را پیش بردم.
+
+- برای پلتفرم شبکه‌سازی حرفه‌ای، کامپوننت‌های قابل استفادهٔ مجدد AngularJS و رابط‌های مبتنی بر API ساختم.
+- رندر سمت سرور صفحات عمومی پروفایل را با تعاملات سمت کاربر ترکیب کردم و برای جست‌وجوی موبایل صفحات Google AMP پیاده‌سازی کردم.
 
 ### بازرگانی توسعه تجارت Commercial Trade Promotion
 
@@ -95,6 +110,9 @@
 
 نیازهای وب‌سایت را مستقیم با مشتریان تجاری و صنعتی مشخص می‌کردم و سایت‌های WordPress را با قالب اختصاصی تحویل می‌دادم. ساختار سایت‌ها را هم برای موتورهای جست‌وجو بهینه می‌کردم.
 
+- قالب‌های WordPress را متناسب با هویت برند، محتوا و نیاز کسب‌وکار هر مشتری طراحی می‌کردم.
+- کد اختصاصی فرانت‌اند را با استفاده از قالب‌های PHP در WordPress یکپارچه می‌کردم.
+
 ### کاسپید Kaspid
 
 **عنوان شغلی:** توسعه‌دهنده تازه‌کار وب  
@@ -104,6 +122,9 @@
 **شیوه همکاری:** حضوری
 
 قالب‌های فرانت‌اند را برای وب‌سایت‌های شرکتی می‌ساختم و به سیستم‌های مدیریت محتوا متصل می‌کردم. استقرار و تحویل سایت‌ها به مشتریان را هم همراه توسعه‌دهندگان ارشد پیش می‌بردم.
+
+- چیدمان صفحات وب را با HTML، CSS، JavaScript و jQuery پیاده‌سازی می‌کردم.
+- در نگهداری وب‌سایت‌های منتشرشده و توسعهٔ سایت‌های مشتریان با توجه به نیازهای جست‌وجو مشارکت داشتم.
 
 ## تحصیلات Education
 
@@ -132,8 +153,8 @@
 
 Modernized a legacy ERP application over 80 days, rebuilding its MVC and jQuery interface as a React management portal.
 
-- Reconstructed requirements from the legacy application and worked with backend engineering to standardize and document API contracts.
-- Wrote reusable development and testing instructions for coding assistants and set up automated quality checks, API contract tests and browser tests.
+- Reconstructed requirements from the legacy application, simplified forms with Ant Design and worked with backend engineering to standardize and document API contracts.
+- Wrote reusable development and testing instructions for coding assistants and set up GitHub Actions checks for code quality, API contracts, browser behavior and Storybook interactions.
 - Designed a way to trace reported service issues to the pull requests that resolved them.
 
 ### Digital Bank Mellat
@@ -142,9 +163,9 @@ Modernized a legacy ERP application over 80 days, rebuilding its MVC and jQuery 
 
 Frontend applications for digital identity verification, video banking and the staff workflows supporting those services.
 
-- Helped define video banking requirements and design REST and WebSocket contracts. Designed and implemented customer and banker interfaces.
+- Helped define video banking requirements and design REST and WebSocket contracts. Designed and implemented three frontend applications for identity verification, video banking and staff operations around a monorepo with shared packages.
 - Contributed to design documentation, data models, sequence diagrams and executable API collections in Bruno.
-- Wrote project-specific guidance for coding assistants and set up application and shared-package tests and continuous integration in GitHub Actions.
+- Wrote project-specific guidance for coding assistants, set up application and shared-package tests in GitHub Actions, and automated packaging of lightweight deployment releases.
 
 ### Multi-Signature Crypto Wallet Ecosystem
 
@@ -155,6 +176,7 @@ A multi-chain wallet ecosystem with browser extension clients, developer tools a
 
 - Designed a custom browser extension architecture, multi-entry Rollup build pipeline and asynchronous messaging between isolated extension contexts.
 - Built schema-driven forms so ecosystem applications could render developer-defined workflows without frontend code changes.
+- Introduced an abstraction for wallet providers so new chain integrations could reuse shared extension code.
 
 ### Location-Based Supermarket Retail Platform
 
@@ -165,6 +187,7 @@ A multi-branch grocery platform connecting customer ordering, branch operations 
 
 - Implemented operator-assisted ordering so customer service staff could place phone orders through a dedicated interface linked to customer accounts.
 - Built checkout workflows supporting online payment, wallet, cash and card reader transactions.
+- Used a shared frontend architecture for the desktop browser experience and the installable mobile progressive web app.
 
 ### Digital Pathology Education & Interactive Examination Platform
 
@@ -175,6 +198,7 @@ A browser-based environment for exploring high-resolution pathology slides and c
 
 - Designed and developed progressive multi-resolution viewing with map-style panning and zooming for multi-gigabyte slides.
 - Built an interactive layer that kept annotations, learning content and examinations synchronized with slide navigation.
+- Attended workshops and worked with a microscope to understand how students and educators examine tissue and run assessments.
 
 ### Hospitality Guest Experience & IPTV Platform
 
@@ -185,6 +209,7 @@ A hotel television platform combining entertainment, guest services, room automa
 
 - Built a shared JavaScript frontend for Android TV, webOS, Tizen and Linux/Android set-top boxes with device-specific key mappings.
 - Designed configurable remote-control navigation and guest-service interfaces that adapted to each hotel's enabled services.
+- Analyzed hotel services and worked with the building management team to integrate room lighting and ventilation controls. Surveyed hotel networks to plan deployment on Linux virtual machines.
 
 ### Multi-Vendor Tour & Travel Reservation Platform
 
@@ -195,6 +220,18 @@ A unified travel marketplace for managing tours, accommodation discovery and res
 
 - Built multi-step tour management with draft persistence and resumable progress, and implemented accommodation reservations around room-level availability.
 - Developed configurable homepage templates and separate mobile/desktop presentations while sharing business logic and API integration.
+- Helped unify the public and authenticated parts of the product in a single website.
+
+### Esports Store & Social Network
+
+**Dates:** 2018–2022
+
+**Associated with:** SP Soft (Software Solutions Provider)
+
+A community platform combining player profiles, gaming content and commerce.
+
+- Designed configurable product attributes and a shared purchase and order-tracking process for physical, digital and customizable products.
+- Designed and built the mobile and desktop web interfaces and worked with backend engineers on API contracts and Steam inventory and item transfers.
 
 ### Professional Digital Identity & Networking Platform
 
@@ -205,6 +242,35 @@ A professional networking platform combining individual and organization profile
 
 - Built reusable frontend components and public profiles combining server-rendered content, client-side interactions and Google AMP pages.
 - Developed a hybrid Apache Cordova application from the shared web codebase and a feed mechanism that notified users of newly available content.
+- Built a role-aware profile interface for individuals and organizations around a common data model.
+
+### Custom Furniture Product Discovery Platform
+
+A multilingual catalog for a custom wood furniture manufacturer.
+
+- Visited the factory and completed project sites to understand how customers explore furniture options. Used those findings and competitor research to design the information architecture and user experience.
+- Built the multilingual frontend around product relationships so customers could explore the same catalog in different ways without duplicating product data.
+
+### Exhibition Services Marketplace & Operations Platform
+
+A multilingual marketplace for exhibitors to discover and compare service providers in Iran.
+
+- Led product analysis and designed the relational model connecting exhibitions, exhibitors, providers and services.
+- Coordinated backend implementation and built a shared frontend for distinct desktop and mobile experiences.
+
+### Kids & Family Coupon Marketplace and Ticket Validation Platform
+
+A marketplace for family entertainment offers, with on-site ticket validation for venue staff.
+
+- Designed campaigns with multiple ticket types, separate pricing, availability and redemption rules. Built the customer-facing marketplace for browsing and buying offers.
+- Built a progressive web app that let venue staff validate tickets by scanning a QR code or entering a code manually.
+
+### Mashhad City Identity & Visitor Information Platform
+
+A multilingual visitor information platform for Mashhad Municipality’s International Relations Office.
+
+- Built a frontend architecture that supported localized content and let the team introduce new languages without frontend changes.
+- Built an interactive city map with points of interest managed by staff and trained administrators after deployment.
 
 ## مهارت‌ها Skills
 
@@ -321,9 +387,9 @@ A professional networking platform combining individual and organization profile
 | 42 | Contract Testing | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Consumer contracts only; no claim of full provider verification. |
 | 43 | Web Accessibility | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Automated accessibility and keyboard/focus checks; not full WCAG certification or manual screen-reader expertise. |
 | 44 | Browser Extension Development | [BitWatt](experience/bitwatt.md) | [Multi-Signature Crypto Wallet Ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md) | Actual implementation source and the linked project record. |
-| 45 | Progressive Web Apps (PWA) | [Hoomaan](experience/hoomaan.md) | [Location-Based Supermarket Retail Platform](projects/location-based-supermarket-retail-platform.md) | Another career project, Kids & Family Coupon Marketplace, is not one of the eight live project targets, so excluded from this UI map. |
+| 45 | Progressive Web Apps (PWA) | [Hoomaan](experience/hoomaan.md) | [Location-Based Supermarket Retail Platform](projects/location-based-supermarket-retail-platform.md) | The October live mapping covered the supermarket project. The [Kids & Family Coupon Marketplace](projects/kids-family-coupon-marketplace-and-ticket-validation-platform.md) also documents a staff ticket-validation progressive web app as part of the new project draft. |
 | 46 | Vite | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Actual implementation source and the linked project record. |
-| 47 | Turbopack | — | — | Practical use is recorded, but no specific association to these employers or eight projects was established. Next.js alone is not proof. |
+| 47 | Turbopack | — | — | The skills inventory records practical use without an employer or project association. |
 | 48 | Turborepo | — | [Digital Bank Mellat](projects/digital-bank-mellat.md) | Actual implementation source and the linked project record. |
 | 49 | Git | — | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md) | Project Git/checkout/CI workflow context; do not infer every historical employer used Git solely from collaboration. |
 | 50 | Docker | — | [Digital Bank Mellat](projects/digital-bank-mellat.md) | Container build/runtime configuration evidence only; no employer or production operations claim. |
@@ -372,8 +438,8 @@ A professional networking platform combining individual and organization profile
 - هر دو مدرک با بازه ماه‌های بالا و بدون Grade در نسخه انگلیسی و فارسی بازخوانی نهایی شده‌اند.
 - صاحب پروفایل وجود نسخه‌های زبانی انگلیسی و فارسی را تأیید کرده است. این نسخه‌ها حفظ شده‌اند و در این به‌روزرسانی هیچ نسخه زبانی یا سابقه تسلط به زبان تازه‌ای ساخته نشده است. موارد بخش Languages بالا، اطلاعات مرجع هستند و به معنی مشاهده بخش تسلط به زبان در پروفایل آنلاین نیستند.
 - تاریخ و شرکت مرتبط پروژه‌ها بر اطلاعات تأییدشده صاحب مخزن و سوابق پروفایل بررسی‌شده متکی است. ERP و دیجیتال بانک ملت پروژه‌های فریلنسری هستند و شرکت مرتبط برای آن‌ها تعیین نشده است. بازهٔ ERP از اوت ۲۰۲۶ تا نوامبر ۲۰۲۶ است.
-- پروژه‌ها هشت رکورد مشترک و فقط انگلیسی در هر دو نسخه زبانی پروفایل هستند. همین رکوردها حفظ و فقط عنوان دقیق انگلیسی پروژه و توضیح انگلیسی منتشر شود؛ عنوان و توضیح فارسی در این بخش منتشر نشود. بخش پروژه‌های همین مرجع فارسی عمداً متن انگلیسی را تکرار می‌کند؛ سندهای فارسی پروژه‌ها منابع گسترده‌تر مسیر حرفه‌ای هستند و متن انتشار پروژه در لینکدین نیستند. در بازبینی آنلاین ۲۶ اکتبر ۲۰۲۶، عنوان و توضیح انگلیسی هر هشت پروژه طبق متن همان زمان تأیید شد.
-- منابع مشارکت در پروژه‌ها: [ERP](projects/enterprise-resource-planning.md)، [دیجیتال بانک ملت](projects/digital-bank-mellat.md)، [کیف پول](projects/multi-signature-crypto-wallet-ecosystem.md)، [سوپرمارکت](projects/location-based-supermarket-retail-platform.md)، [آسیب‌شناسی دیجیتال](projects/digital-pathology-education-and-interactive-examination-platform.md)، [هتل و IPTV](projects/hospitality-guest-experience-and-iptv-platform.md)، [رزرو سفر](projects/multi-vendor-tour-travel-reservation-platform.md) و [شبکه‌سازی حرفه‌ای](projects/professional-digital-identity-and-networking-platform.md).
+- هر دو مرجع، متن انگلیسی یکسانی برای ۱۳ پروژه دارند. در بازبینی آنلاین ۲۶ اکتبر ۲۰۲۶، عنوان و توضیح هشت پروژهٔ آن زمان تأیید شد. شرح‌های بازبینی‌شده و پنج پروژهٔ تازه برای به‌روزرسانی بعدی آماده‌اند. تاریخ و شرکت مرتبط را بر اساس اطلاعات مستند وارد کنید.
+- منابع مشارکت در پروژه‌ها: [ERP](projects/enterprise-resource-planning.md)، [دیجیتال بانک ملت](projects/digital-bank-mellat.md)، [کیف پول](projects/multi-signature-crypto-wallet-ecosystem.md)، [سوپرمارکت](projects/location-based-supermarket-retail-platform.md)، [آسیب‌شناسی دیجیتال](projects/digital-pathology-education-and-interactive-examination-platform.md)، [هتل و IPTV](projects/hospitality-guest-experience-and-iptv-platform.md)، [رزرو سفر](projects/multi-vendor-tour-travel-reservation-platform.md)، [ورزش‌های الکترونیک](projects/esports-community-and-commerce-platform.md)، [شبکه‌سازی حرفه‌ای](projects/professional-digital-identity-and-networking-platform.md)، [کشف مبلمان](projects/custom-furniture-product-discovery-platform.md)، [خدمات نمایشگاهی](projects/exhibition-services-marketplace-operations-platform.md)، [تفریحات خانواده](projects/kids-family-coupon-marketplace-and-ticket-validation-platform.md) و [اطلاعات بازدیدکنندگان مشهد](projects/mashhad-city-identity-visitor-information-platform.md).
 - فهرست مرتب مهارت‌ها همان ۶۲ ورودی منتشرشده است و رتبه تسلط نیست. نام این ورودی‌ها، از جمله React، HTML5، CSS3، Frontend Architecture، Performance Optimization و Technical Mentoring، حفظ شود. برای موارد آینده، ورودی اصلی مناسب انتخاب شود و نام‌های هم‌معنی تکراری ساخته نشوند.
 - در ۲۶ اکتبر ۲۰۲۶، با بازکردن دوباره ویرایشگر Reorder، ذخیره هر ۶۲ مهارت دقیقاً به ترتیب بالا و بدون مغایرت تأیید شد.
 - در بررسی ۲۶ اکتبر ۲۰۲۶، نام و ترتیب ۶۲ مهارت، هر دو مدرک و عنوان و توضیح انگلیسی هشت پروژهٔ مشترک بازخوانی شدند. تأیید ذخیرهٔ About، هدلاین فارسی و هفت سابقهٔ کاری مربوط به متن همان بررسی است.
