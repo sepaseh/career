@@ -2,7 +2,7 @@
 
 [فارسی](fa/skills.md) · [LinkedIn selection](linkedin.md)
 
-This inventory combines professional experience with practical work on my own development tools. Related techniques are grouped under broader capabilities. The [skills review](docs/skills-review.md) records the basis and scope of recent additions. Learning plans are kept outside this inventory; no proficiency score is inferred from repository contents.
+This inventory summarizes the skills I use in software engineering, with links to relevant experience and projects.
 
 ## Software Engineering
 
@@ -12,6 +12,33 @@ This inventory combines professional experience with practical work on my own de
 - Technical Planning
 - Product Development
 - Product Engineering
+
+---
+
+## Analysis, Modeling and Documentation
+
+- Business Process Analysis
+- Stakeholder Discovery and Requirements Clarification
+- Acceptance Criteria Definition
+- Product Benchmarking and International Technical Research
+- Information Architecture
+- Relational Data Modeling and Entity-Relationship Diagrams (ERD)
+- Interaction and Data Modeling (UML sequence diagrams, ERD and Mermaid)
+- High-Level Design Documentation (HLD)
+- Technical Documentation and Document Version Control (Git)
+- API Contract Documentation (Postman, Swagger / OpenAPI and Bruno)
+
+These capabilities are demonstrated in the [banking](projects/digital-bank-mellat.md), [ERP](projects/enterprise-resource-planning.md), [Hoomaan](experience/hoomaan.md), [marketplace](projects/exhibition-services-marketplace-operations-platform.md) and [furniture discovery](projects/custom-furniture-product-discovery-platform.md) work. The banking documentation was prepared with the team. My Postman contract work is documented at Hoomaan.
+
+---
+
+## AI-Assisted Engineering
+
+- Project context and repository guidance for AI coding assistants
+- Reusable instructions for coding assistants on recurring tasks such as design, code review and change validation
+- Development and testing workflows that connect assistant guidance to API contracts, pull requests and automated checks in continuous integration
+
+I wrote assistant guidance alongside contracts and automated checks in client work. [ERP modernization](projects/enterprise-resource-planning.md) · [Digital Bank Mellat](projects/digital-bank-mellat.md)
 
 ---
 
@@ -101,6 +128,7 @@ This inventory combines professional experience with practical work on my own de
 - Storybook
 - Visual Regression Testing
 - API Contract Testing (Pact consumer contracts)
+- API Testing and Executable Collections (Postman and Bruno)
 
 ---
 

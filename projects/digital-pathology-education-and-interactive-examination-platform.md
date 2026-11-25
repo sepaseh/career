@@ -32,7 +32,7 @@ The project aimed to recreate the experience of examining tissue samples digital
 
 ## My Contributions
 
-- Conducted on-site workflow analysis to understand pathology education and examination processes before defining the solution.
+- Attended workshops at a university of medical sciences and worked with a microscope to analyze teaching and assessment workflows before designing the digital-slide viewer.
 - Designed the browser-based approach for navigating pathology slides.
 - Developed the frontend of the digital pathology platform.
 - Built the interactive educational and examination experience on top of pathology slides.
@@ -49,6 +49,14 @@ The project aimed to recreate the experience of examining tissue samples digital
 - **Flexible Image Preparation Pipeline:** Supported both server-side and offline image preparation workflows, allowing institutions to work with multi-gigabyte pathology slides that were often impractical to upload through standard web interfaces.
 
 - **Progressive Multi-Resolution Rendering:** Implemented progressive tile-based rendering that enabled interactive exploration of multi-gigabyte pathology slides in a standard web browser while keeping memory usage and network transfer manageable.
+
+---
+
+## Field Discovery and Iterative Product Design
+
+- Attended workshops at a university of medical sciences in Mashhad and personally used a microscope to understand how students explored tissue. This led to the map-like navigation idea: prepare a large image, divide it into tiles at multiple zoom levels and load visible portions progressively.
+- Evolved the initial viewer through customer feedback, adding location-linked explanatory pins and then written and multiple-choice assessments associated with the tissue image.
+- Delivered the platform for educational use during COVID-19. Analysis relied on field observation, hands-on exploration and customer discussions.
 
 ---
 

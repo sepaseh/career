@@ -12,9 +12,23 @@ node scripts/export-resumes.cjs public
 node scripts/export-resumes.cjs private
 node scripts/export-resumes.cjs all en
 node scripts/export-resumes.cjs all fa
+node scripts/export-resumes.cjs public all frontend-engineer
+node scripts/export-resumes.cjs public all software-engineer
+node scripts/export-resumes.cjs private all software-engineer
 ```
 
 Public PDFs are generated in `output/pdf/` without a telephone number. Private PDFs and local settings live under `private/`, which is ignored by Git. No Git commit or upload is performed by the exporter.
+
+The optional third argument selects the resume profile. Each profile reads the English source and its counterpart under `fa/`.
+
+| Profile | Markdown source |
+| --- | --- |
+| `frontend-engineer` (default) | `resume-frontend-engineer.md` |
+| `software-engineer` | `resume-software-engineer.md` |
+
+The output filenames use `mahdi-sepaseh-resume-{profile}-{en,fa}.pdf`. Each profile preserves Markdown section order and uses the same two-page layout checks.
+
+The previous `ats` argument selects `frontend-engineer`. The previous `ai-developer-experience` and `ai-assisted-engineering` arguments select `software-engineer`. These aliases write the current PDF filenames.
 
 Create `private/contact.json` locally with these settings:
 

@@ -1,30 +1,34 @@
 # LinkedIn Profile Reference
 
-[فارسی](fa/linkedin.md) · [Resume](resume.md) · [Skills](skills.md)
+[فارسی](fa/linkedin.md) · [Software Engineer Resume](resume-software-engineer.md) · [Frontend Engineer Resume](resume-frontend-engineer.md) · [Skills](skills.md)
 
 This is the source of truth for the intended English LinkedIn profile. Its structure follows LinkedIn's profile sections, while the wording is adapted from the underlying experience and project records. The live profile was last reviewed on 26 October 2026; that review does not mean every intended field below has been published.
 
 ## Intro
 
-**Name:** Mahdi Sepaseh  
-**Headline:** Senior Frontend Engineer | React & TypeScript | Frontend Architecture  
+**Name:** Mahdi Sepaseh
+
+**Headline:** Senior Software Engineer | AI-Assisted Engineering
+
 **Location:** Mashhad, Razavi Khorasan, Iran
 
 ## Contact Info
 
-**Email:** [m.sepaseh@gmail.com](mailto:m.sepaseh@gmail.com)  
-**LinkedIn:** [linkedin.com/in/sepaseh](https://www.linkedin.com/in/sepaseh/)  
+**Email:** [m.sepaseh@gmail.com](mailto:m.sepaseh@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/sepaseh](https://www.linkedin.com/in/sepaseh/)
+
 **GitHub:** [github.com/sepaseh](https://github.com/sepaseh)
+
+**Website:** [sepaseh.vercel.app](https://sepaseh.vercel.app/)
 
 ## About
 
-I am a Senior Frontend Engineer with 17+ years of experience turning business problems into web applications. React, TypeScript and frontend architecture are my primary areas of expertise. My work also includes requirements analysis, solution design and technical leadership.
+I am a senior software engineer with nearly two decades in software development. I started in web development and grew into frontend architecture, requirements analysis, solution design and technical leadership. I have built tools for developers and used schemas to make application behavior configurable.
 
-I have worked across blockchain, healthcare, industrial software, hospitality and enterprise platforms. In a wallet ecosystem, I built schema-driven interfaces that allowed transaction workflows to be configured through metadata without frontend code changes. Other work includes interactive digital pathology education and a shared frontend for multiple television platforms.
+For nearly a year, I have been building software with AI coding assistants. I turn project requirements and lessons from implementation into reusable instructions for assistants, repository guidance and workflows for reviewing and validating changes.
 
-I work directly with customers, product teams and backend engineers to understand operational workflows and choose practical technical approaches. As my responsibilities have grown toward architecture and team leadership, I have stayed involved in implementation. That helps me make decisions grounded in the challenges developers face.
-
-I begin with the problem, evaluate the available options and aim for simple, maintainable solutions that can evolve with the product and team. I value systems thinking, clear technical communication and collaboration across disciplines, especially when working in unfamiliar business domains.
+I have applied this in client work by writing development and testing guidance for coding assistants, working with executable API collections and setting up automated tests and continuous integration. I have also designed a process for tracing service fixes from issue to pull request.
 
 ## Featured
 
@@ -38,11 +42,7 @@ I begin with the problem, evaluate the available options and aim for simple, mai
 **Location:** Mashhad, Razavi Khorasan, Iran  
 **Location type:** On-site
 
-Built frontend applications for a blockchain wallet ecosystem using React and TypeScript. My main focus was the surrounding web ecosystem, including developer-facing tools and wallet-connected services.
-
-- Developed workflows for wallet-based authentication, application management, team collaboration and API key management.
-- Built schema-driven interfaces for transaction automation, allowing new workflows to be configured through metadata without frontend changes.
-- Contributed to system analysis and technical planning, and developed the frontend of an internal AI-assisted physiotherapy platform.
+We analyzed product requirements and planned the engineering work together for the wallet ecosystem, while I was responsible for frontend architecture and development across its web applications. I built interfaces for developers to manage applications, teams and API keys. For transaction automation, I built shared infrastructure that rendered interfaces from schemas and metadata, allowing compatible features to be added without changing the frontend code.
 
 ### Veerasense
 
@@ -52,11 +52,7 @@ Built frontend applications for a blockchain wallet ecosystem using React and Ty
 **Location:** Mashhad, Razavi Khorasan, Iran  
 **Location type:** On-site
 
-Led frontend engineering for industrial software built around AI-powered monitoring, safety and inspection workflows. Worked with enterprise customers, AI engineers and backend developers throughout delivery.
-
-- Developed React and TypeScript applications and contributed to software architecture and technical planning.
-- Analyzed customer workflows and translated operational requirements into implementation plans.
-- Supported deployments, user onboarding, technical training and post-deployment support.
+I organized the software team and trained junior developers, gradually handing frontend development over to them. I reviewed and documented customers' operational needs on site and helped design a shared image acquisition and distribution core for the AI modules to address limits on concurrent camera connections. I also led development and deployment with the team, from the initial version through to operational use.
 
 ### Hoomaan
 
@@ -66,11 +62,7 @@ Led frontend engineering for industrial software built around AI-powered monitor
 **Location:** Mashhad, Razavi Khorasan, Iran  
 **Location type:** On-site
 
-Led a small development team while remaining involved in frontend architecture and implementation with React and Next.js.
-
-- Established shared approaches to application structure, reusable frontend foundations and development practices across products.
-- Led frontend development for a multi-branch supermarket platform with location-aware ordering and distributed inventory.
-- Coordinated development and collaborated with backend engineers on API design and service integration.
+I led discovery meetings with the customer and documented requirements and technical constraints for designers and developers. I defined the shared frontend structure and the API contracts for login, registration and one-time passwords, keeping Postman collections aligned with the implementation. I also coordinated the designer, backend developers and frontend developers and resolved delivery blockers.
 
 ### SP Soft (Software Solutions Provider)
 
@@ -80,11 +72,7 @@ Led a small development team while remaining involved in frontend architecture a
 **Location:** Mashhad County, Razavi Khorasan, Iran  
 **Location type:** On-site
 
-Co-founded a software development company delivering applications across healthcare, hospitality, tourism, education, finance and business management.
-
-- Worked directly with customers on discovery, workflow analysis and technical feasibility before defining implementation plans.
-- Designed frontend architecture and developed applications with React and Redux, adapting the solution to each business domain.
-- Collaborated on API design and system integration, and supported delivery, maintenance and continued product development.
+I analyzed business needs through customer discussions, site visits and research into similar products, and assessed technical feasibility before development began. I was responsible for solution design, UI/UX and frontend architecture, and worked with backend engineering on API design, integration, testing and deployment. We kept working with the customer after delivery, gathering feedback and maintaining the product.
 
 ### Profile Digital
 
@@ -94,25 +82,18 @@ Co-founded a software development company delivering applications across healthc
 **Location:** Iran  
 **Location type:** On-site
 
-Developed applications for a professional networking and digital identity platform, alongside custom projects for domestic and international clients.
-
-- Built reusable AngularJS components and API-driven interfaces with JavaScript.
-- Combined server-rendered public profiles with client-side interactions and implemented Google AMP pages.
-- Contributed to the transition from CMS-based applications to SPA architecture and shared frontend infrastructure.
+I developed frontends for the Profile professional network, a backend-as-a-service (BaaS) platform and a survey system. For user-defined data structures, I built a dynamic admin panel that generated forms and fields from schemas at runtime. I also worked with analysts and backend engineers to redesign an international product and modernize its infrastructure, and was responsible for frontend implementation and integration.
 
 ### Commercial Trade Promotion
 
-**Title:** Co-Founder / Web Developer  
+**Title:** Web Developer
+
 **Employment type:** Full-time  
 **Dates:** Oct 2011 – May 2015  
 **Location:** Khorasan-e Razavi Province, Iran  
 **Location type:** On-site
 
-Developed custom websites for commercial and industrial organizations, working directly with customers from requirements through delivery.
-
-- Designed and implemented WordPress themes tailored to customer branding, content and business needs.
-- Integrated custom frontend implementations with WordPress and built search-friendly website structures.
-- Balanced visual requirements, usability and SEO throughout website delivery.
+I worked directly with commercial and industrial clients to define requirements and deliver WordPress websites. I developed custom themes and optimized the sites for search engines.
 
 ### Kaspid
 
@@ -122,11 +103,7 @@ Developed custom websites for commercial and industrial organizations, working d
 **Location:** Mashhad, Razavi Khorasan, Iran  
 **Location type:** On-site
 
-Began my professional development career within a team delivering websites for commercial customers.
-
-- Implemented frontend layouts and templates, and integrated them into CMS-based websites.
-- Collaborated with experienced developers and supported website deployment and customer delivery.
-- Gained practical experience with HTML, CSS, JavaScript, jQuery and search-oriented website development.
+I built frontend templates and integrated them into content management systems for commercial websites. I worked with senior developers to deploy and deliver sites to clients.
 
 ## Education
 
@@ -151,12 +128,13 @@ Began my professional development career within a team delivering websites for c
 
 ### Enterprise Resource Planning
 
-**Dates:** Aug 2026 – Present
+**Dates:** Aug 2026 – Nov 2026
 
-Ongoing frontend modernization of a legacy ERP application, rebuilding existing MVC/jQuery workflows as a React management portal.
+Modernized a legacy ERP application over 80 days, rebuilding its MVC and jQuery interface as a React management portal.
 
-- Reconstructed page requirements from the existing application, implemented ERP workflows and simplified complex forms with Ant Design.
-- Coordinated API contract changes and documentation with a backend engineer, and set up automated quality, contract, browser and Storybook checks.
+- Reconstructed requirements from the legacy application and worked with backend engineering to standardize and document API contracts.
+- Wrote reusable development and testing instructions for coding assistants and set up automated quality checks, API contract tests and browser tests.
+- Designed a way to trace reported service issues to the pull requests that resolved them.
 
 ### Digital Bank Mellat
 
@@ -164,8 +142,9 @@ Ongoing frontend modernization of a legacy ERP application, rebuilding existing 
 
 Frontend applications for digital identity verification, video banking and the staff workflows supporting those services.
 
-- Designed and implemented three frontend applications around a monorepo and shared packages, integrating live sessions, queues and operational interfaces.
-- Defined API collections and frontend documentation, established automated tests and CI, and automated packaging of lightweight deployment releases.
+- Helped define video banking requirements and design REST and WebSocket contracts. Designed and implemented customer and banker interfaces.
+- Contributed to design documentation, data models, sequence diagrams and executable API collections in Bruno.
+- Wrote project-specific guidance for coding assistants and set up application and shared-package tests and continuous integration in GitHub Actions.
 
 ### Multi-Signature Crypto Wallet Ecosystem
 
@@ -357,7 +336,7 @@ On 26 October 2026, associations were saved for 50 skills; 12 remained intention
 | 57 | Systems Thinking | [BitWatt](experience/bitwatt.md)<br>[Hoomaan](experience/hoomaan.md)<br>[SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Veerasense](experience/veerasense.md) | [Digital Bank Mellat](projects/digital-bank-mellat.md)<br>[Multi-Signature Crypto Wallet Ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md)<br>[Location-Based Supermarket Retail Platform](projects/location-based-supermarket-retail-platform.md)<br>[Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)<br>[Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md)<br>[Multi-Vendor Tour & Travel Reservation Platform](projects/multi-vendor-tour-travel-reservation-platform.md)<br>[Professional Digital Identity & Networking Platform](projects/professional-digital-identity-and-networking-platform.md) | Contextual interpretation of system boundaries, workflows, shared architectures and operational trade-offs. |
 | 58 | Technical Communication | [BitWatt](experience/bitwatt.md)<br>[Veerasense](experience/veerasense.md)<br>[Hoomaan](experience/hoomaan.md)<br>[SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Profile Digital](experience/profile-digital.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md)<br>[Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)<br>[Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md) | API documentation, backend collaboration, technical planning and customer technical communication support these targets. |
 | 59 | Cross-Functional Collaboration | [BitWatt](experience/bitwatt.md)<br>[Veerasense](experience/veerasense.md)<br>[Hoomaan](experience/hoomaan.md)<br>[SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Profile Digital](experience/profile-digital.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md)<br>[Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)<br>[Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md) | Different functions are explicitly identified: frontend/backend, product/customer, and AI engineering. |
-| 60 | Ownership | [SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Commercial Trade Promotion](experience/commercial-trade-promotion.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md) | Independent frontend implementation and co-founder/full-lifecycle customer delivery are concrete ownership contexts. Avoid assuming ownership from seniority alone. |
+| 60 | Ownership | [SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Commercial Trade Promotion](experience/commercial-trade-promotion.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md) | Independent frontend implementation and full-lifecycle customer delivery are concrete ownership contexts. Avoid assuming ownership from seniority alone. |
 | 61 | Figma | — | — | General practical use is recorded; employer/project context remains unconfirmed. UI design alone does not identify the tool used. |
 | 62 | Adobe Photoshop | — | — | General/historical use is recorded; branding/material design at Commercial Trade Promotion does not name Photoshop. Needs explicit contextual confirmation. |
 
@@ -384,7 +363,7 @@ The association review on 26 October 2026 also inspected the active ERP and Digi
 This section is repository guidance, not profile copy.
 
 - Update this reference and [its Persian counterpart](fa/linkedin.md) when the intended profile changes; reconcile factual changes with the underlying experience, project and education records.
-- The [resume](resume.md) remains a concise application document. LinkedIn keeps the fuller Co-Founder / Web Developer title for Commercial Trade Promotion, consistent with the detailed experience record and reviewed live profile; the resume's shorter Web Developer title is intentional.
+- The [Software Engineer Resume](resume-software-engineer.md) accompanies the current headline. Use Web Developer for Commercial Trade Promotion consistently across this reference, the detailed experience record and the resumes.
 - Intro and public contact information come from [About](about.md).
 - Featured and Courses are intentionally empty at the owner's request. Do not add portfolio, resume or course entries in these sections.
 - Employment roles, dates and full-time types come from the seven [experience records](README.md#professional-experience). Locations and on-site types retain the live values reviewed on 26 October 2026. No work arrangement is inferred from the profile location.
@@ -392,12 +371,12 @@ This section is repository guidance, not profile copy.
 - Include the English language course once in Education under its provider, with English Language Course as Field of study and years 2012–2015. Leave Degree, Grade and Gregorian month fields blank; no degree or certificate is claimed. On 26 October 2026, the single course record was saved in English and Persian and verified after fresh reloads of both profile variants, each showing the two existing degrees and this course.
 - Both degrees received final English/Persian readbacks with the month ranges above and no grade.
 - The owner confirmed that English and Persian profile-language variants already exist. Preserve those variants; no additional profile-language variant or language-proficiency record was created during this update. The Languages entries above are reference values, not a claim that a live proficiency section was observed.
-- The project dates and company associations reflect the reviewed live profile and owner-confirmed records. Enterprise Resource Planning and Digital Bank Mellat have no company association recorded here. ERP is ongoing and uses Aug 2026 – Present with the currently-working setting enabled.
-- Projects are eight shared English-only records in both profile-language variants. Keep the existing records and publish only the exact English project headings and English descriptions, with no Persian titles or descriptions. The Persian LinkedIn reference deliberately repeats this English section; the underlying Persian project documents remain broader career sources, not project text to publish on LinkedIn. On 26 October 2026, a fresh live reload verified all eight exact English titles and complete English descriptions against this reference, with no Persian text in either field. ERP's previously verified currently-working setting remains unchanged.
+- Project dates and company associations are based on owner-confirmed records and the reviewed profile history. Enterprise Resource Planning and Digital Bank Mellat were freelance projects, with no company association recorded here. ERP ran from Aug 2026 to Nov 2026.
+- Projects are eight shared English-only records in both profile-language variants. Keep the existing records and publish only the exact English project headings and English descriptions, with no Persian titles or descriptions. The Persian LinkedIn reference deliberately repeats this English section; the underlying Persian project documents remain broader career sources, not project text to publish on LinkedIn. On 26 October 2026, a fresh live reload verified the eight English titles and descriptions in use at that review.
 - Project contribution sources: [ERP](projects/enterprise-resource-planning.md), [Digital Bank Mellat](projects/digital-bank-mellat.md), [wallet ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md), [supermarket retail](projects/location-based-supermarket-retail-platform.md), [digital pathology](projects/digital-pathology-education-and-interactive-examination-platform.md), [hospitality/IPTV](projects/hospitality-guest-experience-and-iptv-platform.md), [travel reservations](projects/multi-vendor-tour-travel-reservation-platform.md), and [professional networking](projects/professional-digital-identity-and-networking-platform.md).
 - The ordered Skills list reflects the 62 published skill identities, not a proficiency ranking. Preserve those identities, including React, HTML5, CSS3, Frontend Architecture, Performance Optimization and Technical Mentoring. For future additions, select the appropriate canonical entry without creating alias duplicates.
 - On 26 October 2026, a freshly reopened Reorder editor showed all 62 skills persisted in exactly the order above, with no mismatches.
-- All 62 skill names and their full order, both degrees, and the eight shared English-only project titles and descriptions received final readbacks. About, the Persian headline and the seven experience updates have save confirmations; no separate final independent audit of all their text is claimed.
+- The 26 October 2026 review verified all 62 skill names and their order, both degrees, and the eight shared English-only project titles and descriptions. Save confirmations for About, the Persian headline and the seven experience entries apply to the wording from that review.
 - Use the same ordered English skill names in both language references. Motion / Framer Motion is one entry. Do not count aliases or inferred underlying dependencies as separate experience.
-- [The full skills inventory](skills.md) and [skills review](docs/skills-review.md) retain broader context and evidence. Recent development-tooling work supports practical testing/performance skills, without being listed as an additional project or attributed to earlier employers.
+- [The full skills inventory](skills.md) documents broader skills and links to relevant work.
 - Publishing or editing this file does not update LinkedIn automatically. No new live-profile status is implied without a separate review.

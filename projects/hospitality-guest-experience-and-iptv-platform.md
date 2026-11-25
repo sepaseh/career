@@ -1,4 +1,4 @@
-# Hospitality Guest Experience & IPTV Platform
+# Interactive Hotel TV System
 
 **Associated Company:** SP Soft (Software Solutions Provider)
 
@@ -34,7 +34,7 @@ The project aimed to consolidate guest-facing services into a single platform, e
 
 ## My Contributions
 
-- Conducted business analysis to translate hotel operational requirements into guest-facing digital experiences.
+- Reviewed hotel services, hotel management software and building management systems (BMS) to define integration needs, and analyzed guest, room-assignment and service-ordering workflows.
 - Designed a television navigation model inspired by the Windows Modern UI experience, optimized for directional remote-control input.
 - Built a configurable cross-platform frontend supporting multiple television platforms, selectable interface themes, and hotel-specific deployments.
 - Designed user experiences for hospitality services, room automation, and guest interactions while collaborating on backend API integration.
@@ -50,6 +50,14 @@ The project aimed to consolidate guest-facing services into a single platform, e
 - **Dynamic Television Navigation:** Designed a configurable navigation model that adapted to each hotel's enabled services while preserving a predictable remote-control experience across different deployments.
 
 - **Custom Android TV Launcher:** Replaced the standard Android TV launcher with a custom launcher that prevented guests from leaving the hospitality environment, allowing the television to operate as a dedicated hospitality device while maintaining a seamless guest experience.
+
+---
+
+## Product Discovery and On-Site Deployment
+
+- Developed the product with my backend colleague, starting with hotel services, interactive hotel televisions and existing hotel management and BMS software to understand how the product needed to communicate with them. Analyzed guest, room-assignment and service-ordering workflows; UI/UX and hotel-specific themes and configurations were part of our delivery.
+- Integrated room-lighting and ventilation controls with the BMS team. Added arrival/welcome experiences, advertising and tourism-service requests as the product evolved.
+- Surveyed hotel networks and planned deployment around available LAN or Wi-Fi infrastructure. Installed the system on Linux virtual machines with the aim of reducing resource requirements and dependence on specific hardware.
 
 ---
 

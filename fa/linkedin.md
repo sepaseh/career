@@ -1,30 +1,34 @@
 # مرجع پروفایل لینکدین
 
-[English](../linkedin.md) · [رزومه](resume.md) · [مهارت‌ها](skills.md)
+[English](../linkedin.md) · [رزومهٔ مهندس نرم‌افزار](resume-software-engineer.md) · [رزومهٔ مهندس فرانت‌اند](resume-frontend-engineer.md) · [مهارت‌ها](skills.md)
 
 این فایل مرجع محتوای موردنظر برای نسخه فارسی پروفایل لینکدین است. ساختار آن با بخش‌های پروفایل لینکدین هماهنگ است و متن‌ها از سابقه‌ها و پروژه‌های مستند این مخزن بازنویسی شده‌اند. آخرین بررسی پروفایل آنلاین در ۲۶ اکتبر ۲۰۲۶ انجام شده است؛ این تاریخ به معنی انتشار همه محتوای زیر در پروفایل آنلاین نیست.
 
 ## معرفی Intro
 
-**نام:** مهدی سپاسه  
-**عنوان پروفایل:** مهندس ارشد فرانت‌اند | React & TypeScript | Frontend Architecture  
+**نام:** مهدی سپاسه
+
+**عنوان پروفایل:** مهندس ارشد نرم‌افزار | مهندسی با کمک هوش مصنوعی
+
 **موقعیت:** مشهد، خراسان رضوی، ایران
 
 ## اطلاعات تماس Contact Info
 
-**ایمیل:** [m.sepaseh@gmail.com](mailto:m.sepaseh@gmail.com)  
-**لینکدین:** [linkedin.com/in/sepaseh](https://www.linkedin.com/in/sepaseh/)  
+**ایمیل:** [m.sepaseh@gmail.com](mailto:m.sepaseh@gmail.com)
+
+**لینکدین:** [linkedin.com/in/sepaseh](https://www.linkedin.com/in/sepaseh/)
+
 **گیت‌هاب:** [github.com/sepaseh](https://github.com/sepaseh)
+
+**وب‌سایت:** [sepaseh.vercel.app/fa](https://sepaseh.vercel.app/fa/)
 
 ## درباره من About
 
-مهندس ارشد فرانت‌اند هستم و بیش از ۱۷ سال در تبدیل مسائل کسب‌وکار به برنامه‌های وب تجربه دارم. تخصص اصلی من React، TypeScript و معماری فرانت‌اند است. در کنار توسعه، در تحلیل نیازمندی‌ها، طراحی راهکار و رهبری فنی هم نقش داشته‌ام.
+مهندس ارشد نرم‌افزارم و نزدیک به دو دهه در ساخت محصولات وب کار کرده‌ام. از توسعهٔ وب شروع کردم و در ادامه معماری فرانت‌اند، تحلیل نیازمندی‌ها، طراحی راهکار و رهبری فنی هم بخشی از کارم شد. برای توسعه‌دهندگان ابزار ساخته‌ام و از Schema برای پیکربندی رفتار برنامه استفاده کرده‌ام.
 
-در حوزه‌های بلاکچین، سلامت، نرم‌افزارهای صنعتی، هتلداری و پلتفرم‌های سازمانی فعالیت کرده‌ام. در اکوسیستم کیف پول، رابط‌های مبتنی بر Schema ساختم تا گردش‌کارهای تراکنش از طریق فراداده و بدون تغییر کد فرانت‌اند قابل پیکربندی باشند. تجربه‌های دیگرم شامل آموزش تعاملی آسیب‌شناسی دیجیتال و فرانت‌اند مشترک برای چند پلتفرم تلویزیونی است.
+نزدیک یک سال است که با دستیارهای کدنویسی هوش مصنوعی نرم‌افزار می‌سازم. نیازمندی‌های پروژه و تجربهٔ پیاده‌سازی را به دستورالعمل‌های قابل استفادهٔ مجدد برای دستیارها، راهنمای مخزن و روال بازبینی کد و اعتبارسنجی تغییرات تبدیل می‌کنم.
 
-با مشتریان، تیم‌های محصول و مهندسان بک‌اند همکاری مستقیم دارم تا گردش‌کارهای عملیاتی را بفهمیم و رویکردهای فنی عملی انتخاب کنیم. با گسترش مسئولیت‌هایم در معماری و رهبری تیم، مشارکت در پیاده‌سازی را حفظ کرده‌ام. این حضور کمک می‌کند تصمیم‌هایم به چالش‌های واقعی توسعه‌دهندگان متکی باشد.
-
-از شناخت مسئله شروع می‌کنم، گزینه‌های موجود را می‌سنجم و به دنبال راهکارهای ساده و قابل نگهداری هستم که همراه با محصول و تیم تکامل پیدا کنند. تفکر سیستمی، ارتباطات فنی روشن و همکاری بین‌تخصصی برایم اهمیت دارند؛ به‌ویژه زمانی که در یک حوزه کسب‌وکار ناآشنا کار می‌کنم.
+این روش را در کار با مشتریان هم به‌کار برده‌ام. برای دستیارها راهنمای توسعه و تست نوشته‌ام، با کالکشن‌های اجرایی API کار کرده‌ام و تست خودکار و یکپارچه‌سازی مداوم را راه‌اندازی کرده‌ام. روشی هم طراحی کرده‌ام که بتوان ایرادهای سرویس را از گزارش اولیه تا درخواست ادغام اصلاحات پیگیری کرد.
 
 ## موارد منتخب Featured
 
@@ -38,11 +42,7 @@
 **موقعیت:** مشهد، خراسان رضوی، ایران  
 **شیوه همکاری:** حضوری
 
-توسعه برنامه‌های فرانت‌اند در اکوسیستم کیف پول بلاکچینی با React و TypeScript. تمرکز اصلی من بخش وب اکوسیستم، از جمله ابزارهای توسعه‌دهندگان و سرویس‌های متصل به کیف پول بود.
-
-- توسعه گردش‌کارهای احراز هویت با کیف پول، مدیریت برنامه‌ها، همکاری تیمی و مدیریت کلیدهای API.
-- پیاده‌سازی رابط‌های مبتنی بر Schema برای خودکارسازی تراکنش؛ امکان تعریف گردش‌کار جدید از طریق فراداده و بدون تغییر فرانت‌اند.
-- مشارکت در تحلیل سیستم و برنامه‌ریزی فنی و توسعه فرانت‌اند پلتفرم داخلی فیزیوتراپی مبتنی بر هوش مصنوعی.
+در اکوسیستم کیف‌پول، تحلیل نیازهای محصول و برنامه‌ریزی فنی را همراه تیم پیش می‌بردیم و مسئولیت معماری و توسعهٔ فرانت‌اند برنامه‌های وب بر عهدهٔ من بود. رابط‌هایی ساختم تا توسعه‌دهندگان بتوانند برنامه‌ها، تیم‌ها و کلیدهای API را مدیریت کنند. برای خودکارسازی تراکنش‌ها، زیرساخت مشترکی ساختم که رابط‌ها را از روی Schema و فراداده نمایش می‌داد و امکان افزودن قابلیت‌های سازگار را فقط با پیکربندی فراهم می‌کرد.
 
 ### ویراسنس Veerasense
 
@@ -52,11 +52,7 @@
 **موقعیت:** مشهد، خراسان رضوی، ایران  
 **شیوه همکاری:** حضوری
 
-رهبری مهندسی فرانت‌اند نرم‌افزارهای صنعتی مبتنی بر هوش مصنوعی برای پایش، ایمنی و بازرسی؛ با همکاری مشتریان سازمانی، مهندسان هوش مصنوعی و توسعه‌دهندگان بک‌اند در طول تحویل محصول.
-
-- توسعه برنامه‌ها با React و TypeScript و مشارکت در معماری نرم‌افزار و برنامه‌ریزی فنی.
-- تحلیل گردش‌کار مشتریان و تبدیل نیازهای عملیاتی به برنامه پیاده‌سازی.
-- همراهی در استقرار، راه‌اندازی برای کاربران، آموزش فنی و پشتیبانی پس از تحویل.
+سامان‌دهی تیم نرم‌افزار و آموزش همکاران تازه‌کار را بر عهده گرفتم و توسعهٔ فرانت‌اند را به‌تدریج به آن‌ها سپردم. نیازهای عملیاتی مشتریان را در محل بررسی و مستند می‌کردم و برای رفع محدودیت اتصال هم‌زمان دوربین‌ها، در طراحی هستهٔ مشترک دریافت و توزیع تصاویر میان ماژول‌های هوش مصنوعی مشارکت داشتم. توسعه و استقرار راهکارها را هم همراه تیم از نسخهٔ اولیه تا بهره‌برداری هدایت می‌کردم.
 
 ### هومان Hoomaan
 
@@ -66,11 +62,7 @@
 **موقعیت:** مشهد، خراسان رضوی، ایران  
 **شیوه همکاری:** حضوری
 
-رهبری یک تیم کوچک توسعه همراه با مشارکت مستقیم در معماری و پیاده‌سازی فرانت‌اند با React و Next.js.
-
-- تعریف رویکرد مشترک ساختار برنامه، زیرساخت قابل استفاده مجدد و روش‌های توسعه در چند محصول.
-- رهبری توسعه فرانت‌اند پلتفرم سوپرمارکت چندشعبه‌ای با سفارش‌گذاری مبتنی بر موقعیت مکانی و موجودی توزیع‌شده.
-- هماهنگی توسعه و همکاری با مهندسان بک‌اند در طراحی API و یکپارچه‌سازی سرویس‌ها.
+جلسات نیازسنجی مشتری را هدایت می‌کردم و نیازها و محدودیت‌های فنی را برای طراحان و توسعه‌دهندگان مستند می‌کردم. ساختار مشترک فرانت‌اند و قراردادهای API ورود، ثبت‌نام و رمز یک‌بارمصرف را تعریف کردم و کالکشن‌های Postman را با پیاده‌سازی هماهنگ نگه می‌داشتم. هماهنگی طراح، بک‌اند و فرانت‌اند و رفع موانع تحویل هم بر عهدهٔ من بود.
 
 ### اس‌پی‌سافت SP Soft
 
@@ -80,11 +72,7 @@
 **موقعیت:** شهرستان مشهد، خراسان رضوی، ایران  
 **شیوه همکاری:** حضوری
 
-هم‌بنیان‌گذاری شرکت توسعه نرم‌افزار و ساخت برنامه‌ها در حوزه‌های سلامت، هتلداری، گردشگری، آموزش، امور مالی و مدیریت کسب‌وکار.
-
-- همکاری مستقیم با مشتریان برای شناخت مسئله، تحلیل گردش‌کار و ارزیابی امکان‌پذیری فنی پیش از تعریف برنامه اجرا.
-- طراحی معماری فرانت‌اند و توسعه برنامه‌ها با React و Redux متناسب با نیاز هر حوزه کسب‌وکار.
-- همکاری در طراحی API و یکپارچه‌سازی سیستم و همراهی در تحویل، نگهداری و ادامه توسعه محصول.
+نیازهای کسب‌وکار را با گفت‌وگو با مشتری، بازدید میدانی و بررسی محصولات مشابه تحلیل می‌کردم و امکان‌پذیری فنی راهکارها را پیش از شروع توسعه می‌سنجیدم. طراحی راهکار، رابط و تجربهٔ کاربری و معماری فرانت‌اند بر عهدهٔ من بود و طراحی API، یکپارچه‌سازی، تست و استقرار را همراه بک‌اند پیش می‌بردیم. پس از تحویل هم ارتباط با مشتری، دریافت بازخورد و نگهداری محصول ادامه داشت.
 
 ### پروفایل دیجیتال Profile Digital
 
@@ -94,25 +82,18 @@
 **موقعیت:** ایران  
 **شیوه همکاری:** حضوری
 
-توسعه برنامه‌های پلتفرم شبکه‌سازی حرفه‌ای و هویت دیجیتال، در کنار پروژه‌های اختصاصی برای مشتریان داخلی و بین‌المللی.
-
-- ساخت کامپوننت‌های قابل استفاده مجدد AngularJS و رابط‌های مبتنی بر API با JavaScript.
-- ترکیب صفحات عمومی رندرشده در سرور با تعاملات سمت کلاینت و پیاده‌سازی صفحات Google AMP.
-- مشارکت در گذار از برنامه‌های مبتنی بر CMS به معماری SPA و زیرساخت مشترک فرانت‌اند.
+فرانت‌اند شبکهٔ حرفه‌ای پروفایل، پلتفرم بک‌اند به‌عنوان سرویس (BaaS) و سامانهٔ نظرسنجی را توسعه دادم. برای ساختارهای داده‌ای که کاربران تعریف می‌کردند، پنل مدیریتی پویایی ساختم که فرم‌ها و فیلدها را هنگام اجرا از روی Schema تولید می‌کرد. در بازطراحی یک محصول بین‌المللی و نوسازی زیرساخت آن، با تیم تحلیل و بک‌اند همکاری داشتم و پیاده‌سازی فرانت‌اند و یکپارچه‌سازی را پیش بردم.
 
 ### بازرگانی توسعه تجارت Commercial Trade Promotion
 
-**عنوان شغلی:** هم‌بنیان‌گذار / توسعه‌دهنده وب  
+**عنوان شغلی:** توسعه‌دهنده وب
+
 **نوع همکاری:** تمام‌وقت  
 **بازه زمانی:** Oct 2011 – May 2015؛ مهر ۱۳۹۰ – اردیبهشت ۱۳۹۴  
 **موقعیت:** خراسان رضوی، ایران  
 **شیوه همکاری:** حضوری
 
-توسعه وب‌سایت‌های اختصاصی برای سازمان‌های تجاری و صنعتی، با همکاری مستقیم مشتریان از تعریف نیاز تا تحویل.
-
-- طراحی و پیاده‌سازی قالب‌های WordPress متناسب با برند، محتوا و نیاز کسب‌وکار مشتریان.
-- یکپارچه‌سازی فرانت‌اند اختصاصی با WordPress و ساخت ساختار مناسب برای موتورهای جست‌وجو.
-- ایجاد توازن میان نیازهای بصری، کاربردپذیری و SEO در طول تحویل وب‌سایت.
+نیازهای وب‌سایت را مستقیم با مشتریان تجاری و صنعتی مشخص می‌کردم و سایت‌های WordPress را با قالب اختصاصی تحویل می‌دادم. ساختار سایت‌ها را هم برای موتورهای جست‌وجو بهینه می‌کردم.
 
 ### کاسپید Kaspid
 
@@ -122,11 +103,7 @@
 **موقعیت:** مشهد، خراسان رضوی، ایران  
 **شیوه همکاری:** حضوری
 
-آغاز مسیر حرفه‌ای توسعه در تیمی که وب‌سایت‌های مشتریان تجاری را پیاده‌سازی و تحویل می‌داد.
-
-- پیاده‌سازی چیدمان و قالب‌های فرانت‌اند و یکپارچه‌سازی آن‌ها با وب‌سایت‌های مبتنی بر CMS.
-- همکاری با توسعه‌دهندگان باتجربه و همراهی در استقرار وب‌سایت و تحویل به مشتری.
-- کسب تجربه عملی با HTML، CSS، JavaScript، jQuery و توسعه وب‌سایت با توجه به نیازهای جست‌وجو.
+قالب‌های فرانت‌اند را برای وب‌سایت‌های شرکتی می‌ساختم و به سیستم‌های مدیریت محتوا متصل می‌کردم. استقرار و تحویل سایت‌ها به مشتریان را هم همراه توسعه‌دهندگان ارشد پیش می‌بردم.
 
 ## تحصیلات Education
 
@@ -151,12 +128,13 @@
 
 ### Enterprise Resource Planning
 
-**Dates:** Aug 2026 – Present
+**Dates:** Aug 2026 – Nov 2026
 
-Ongoing frontend modernization of a legacy ERP application, rebuilding existing MVC/jQuery workflows as a React management portal.
+Modernized a legacy ERP application over 80 days, rebuilding its MVC and jQuery interface as a React management portal.
 
-- Reconstructed page requirements from the existing application, implemented ERP workflows and simplified complex forms with Ant Design.
-- Coordinated API contract changes and documentation with a backend engineer, and set up automated quality, contract, browser and Storybook checks.
+- Reconstructed requirements from the legacy application and worked with backend engineering to standardize and document API contracts.
+- Wrote reusable development and testing instructions for coding assistants and set up automated quality checks, API contract tests and browser tests.
+- Designed a way to trace reported service issues to the pull requests that resolved them.
 
 ### Digital Bank Mellat
 
@@ -164,8 +142,9 @@ Ongoing frontend modernization of a legacy ERP application, rebuilding existing 
 
 Frontend applications for digital identity verification, video banking and the staff workflows supporting those services.
 
-- Designed and implemented three frontend applications around a monorepo and shared packages, integrating live sessions, queues and operational interfaces.
-- Defined API collections and frontend documentation, established automated tests and CI, and automated packaging of lightweight deployment releases.
+- Helped define video banking requirements and design REST and WebSocket contracts. Designed and implemented customer and banker interfaces.
+- Contributed to design documentation, data models, sequence diagrams and executable API collections in Bruno.
+- Wrote project-specific guidance for coding assistants and set up application and shared-package tests and continuous integration in GitHub Actions.
 
 ### Multi-Signature Crypto Wallet Ecosystem
 
@@ -357,7 +336,7 @@ A professional networking platform combining individual and organization profile
 | 57 | Systems Thinking | [BitWatt](experience/bitwatt.md)<br>[Hoomaan](experience/hoomaan.md)<br>[SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Veerasense](experience/veerasense.md) | [Digital Bank Mellat](projects/digital-bank-mellat.md)<br>[Multi-Signature Crypto Wallet Ecosystem](projects/multi-signature-crypto-wallet-ecosystem.md)<br>[Location-Based Supermarket Retail Platform](projects/location-based-supermarket-retail-platform.md)<br>[Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)<br>[Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md)<br>[Multi-Vendor Tour & Travel Reservation Platform](projects/multi-vendor-tour-travel-reservation-platform.md)<br>[Professional Digital Identity & Networking Platform](projects/professional-digital-identity-and-networking-platform.md) | Contextual interpretation of system boundaries, workflows, shared architectures and operational trade-offs. |
 | 58 | Technical Communication | [BitWatt](experience/bitwatt.md)<br>[Veerasense](experience/veerasense.md)<br>[Hoomaan](experience/hoomaan.md)<br>[SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Profile Digital](experience/profile-digital.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md)<br>[Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)<br>[Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md) | API documentation, backend collaboration, technical planning and customer technical communication support these targets. |
 | 59 | Cross-Functional Collaboration | [BitWatt](experience/bitwatt.md)<br>[Veerasense](experience/veerasense.md)<br>[Hoomaan](experience/hoomaan.md)<br>[SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Profile Digital](experience/profile-digital.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md)<br>[Digital Bank Mellat](projects/digital-bank-mellat.md)<br>[Digital Pathology Education & Interactive Examination Platform](projects/digital-pathology-education-and-interactive-examination-platform.md)<br>[Hospitality Guest Experience & IPTV Platform](projects/hospitality-guest-experience-and-iptv-platform.md) | Different functions are explicitly identified: frontend/backend, product/customer, and AI engineering. |
-| 60 | Ownership | [SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Commercial Trade Promotion](experience/commercial-trade-promotion.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md) | Independent frontend implementation and co-founder/full-lifecycle customer delivery are concrete ownership contexts. Avoid assuming ownership from seniority alone. |
+| 60 | Ownership | [SP Soft (Software Solutions Provider)](experience/sp-soft.md)<br>[Commercial Trade Promotion](experience/commercial-trade-promotion.md) | [Enterprise Resource Planning](projects/enterprise-resource-planning.md) | Independent frontend implementation and full-lifecycle customer delivery are concrete ownership contexts. Avoid assuming ownership from seniority alone. |
 | 61 | Figma | — | — | General practical use is recorded; employer/project context remains unconfirmed. UI design alone does not identify the tool used. |
 | 62 | Adobe Photoshop | — | — | General/historical use is recorded; branding/material design at Commercial Trade Promotion does not name Photoshop. Needs explicit contextual confirmation. |
 
@@ -384,7 +363,7 @@ A professional networking platform combining individual and organization profile
 این بخش راهنمای مخزن است و جزو متن پروفایل نیست.
 
 - هنگام تغییر محتوای موردنظر پروفایل، این مرجع و [نسخه انگلیسی](../linkedin.md) به‌روز شوند و تغییر واقعیت‌ها با سندهای اصلی تجربه، پروژه و تحصیلات تطبیق داده شود.
-- [رزومه](resume.md) سند مختصر درخواست شغل باقی می‌ماند. عنوان کامل هم‌بنیان‌گذار / توسعه‌دهنده وب برای بازرگانی توسعه تجارت در لینکدین حفظ شده و با سابقه تفصیلی و پروفایل بررسی‌شده یکسان است؛ عنوان کوتاه‌تر توسعه‌دهنده وب در رزومه انتخابی متناسب با کاربرد آن است.
+- [رزومهٔ مهندس نرم‌افزار](resume-software-engineer.md) با هدلاین فعلی هماهنگ است. عنوان توسعه‌دهنده وب برای بازرگانی توسعه تجارت در این مرجع، سابقهٔ تفصیلی و رزومه‌ها یکسان نگه داشته شود.
 - معرفی و تماس عمومی از [درباره من](about.md) گرفته شده‌اند.
 - بخش‌های Featured و Courses به درخواست صاحب پروفایل خالی می‌مانند. موردی برای معرفی نمونه‌کار، رزومه یا دوره در این بخش‌ها اضافه نشود.
 - عنوان‌ها، تاریخ‌ها و نوع همکاری تمام‌وقت از هفت سند [تجربه کاری](README.md#تجربه‌های-حرفه‌ای) گرفته شده‌اند. موقعیت و همکاری حضوری بر اساس نمای آنلاین بررسی‌شده در ۲۶ اکتبر ۲۰۲۶ حفظ شده‌اند؛ شیوه همکاری از موقعیت کلی پروفایل نتیجه گرفته نشده است.
@@ -392,12 +371,12 @@ A professional networking platform combining individual and organization profile
 - دوره زبان انگلیسی یک بار در Education زیر نام برگزارکننده، با Field of study برابر دوره زبان انگلیسی و سال‌های 2012–2015 ثبت شود. فیلدهای Degree، Grade و ماه میلادی خالی بمانند؛ ادعای مقطع دانشگاهی یا گواهی دوره نمی‌شود. در ۲۶ اکتبر ۲۰۲۶، این رکورد واحد به انگلیسی و فارسی ذخیره و پس از بارگذاری تازه هر دو نسخه پروفایل تأیید شد؛ هر نسخه دو مدرک پیشین و همین دوره را نشان داد.
 - هر دو مدرک با بازه ماه‌های بالا و بدون Grade در نسخه انگلیسی و فارسی بازخوانی نهایی شده‌اند.
 - صاحب پروفایل وجود نسخه‌های زبانی انگلیسی و فارسی را تأیید کرده است. این نسخه‌ها حفظ شده‌اند و در این به‌روزرسانی هیچ نسخه زبانی یا سابقه تسلط به زبان تازه‌ای ساخته نشده است. موارد بخش Languages بالا، اطلاعات مرجع هستند و به معنی مشاهده بخش تسلط به زبان در پروفایل آنلاین نیستند.
-- تاریخ و شرکت مرتبط پروژه‌ها مطابق پروفایل بررسی‌شده و اطلاعات تأییدشده صاحب مخزن است. برای ERP و دیجیتال بانک ملت، شرکت مرتبط تعیین نشده است. ERP ادامه دارد و بازه Aug 2026 – Present (اکنون) با فعال‌بودن گزینه ادامه کار ثبت می‌شود.
-- پروژه‌ها هشت رکورد مشترک و فقط انگلیسی در هر دو نسخه زبانی پروفایل هستند. همین رکوردها حفظ و فقط عنوان دقیق انگلیسی پروژه و توضیح انگلیسی منتشر شود؛ عنوان و توضیح فارسی در این بخش منتشر نشود. بخش پروژه‌های همین مرجع فارسی عمداً متن انگلیسی را تکرار می‌کند؛ سندهای فارسی پروژه‌ها منابع گسترده‌تر مسیر حرفه‌ای هستند و متن انتشار پروژه در لینکدین نیستند. در ۲۶ اکتبر ۲۰۲۶، پس از بارگذاری تازه آنلاین، عنوان دقیق انگلیسی و توضیح کامل انگلیسی هر هشت پروژه با این مرجع تطبیق داده شد و هیچ متن فارسی در این دو فیلد وجود نداشت. گزینه ادامه کار ERP که پیش‌تر تأیید شده، تغییر نمی‌کند.
+- تاریخ و شرکت مرتبط پروژه‌ها بر اطلاعات تأییدشده صاحب مخزن و سوابق پروفایل بررسی‌شده متکی است. ERP و دیجیتال بانک ملت پروژه‌های فریلنسری هستند و شرکت مرتبط برای آن‌ها تعیین نشده است. بازهٔ ERP از اوت ۲۰۲۶ تا نوامبر ۲۰۲۶ است.
+- پروژه‌ها هشت رکورد مشترک و فقط انگلیسی در هر دو نسخه زبانی پروفایل هستند. همین رکوردها حفظ و فقط عنوان دقیق انگلیسی پروژه و توضیح انگلیسی منتشر شود؛ عنوان و توضیح فارسی در این بخش منتشر نشود. بخش پروژه‌های همین مرجع فارسی عمداً متن انگلیسی را تکرار می‌کند؛ سندهای فارسی پروژه‌ها منابع گسترده‌تر مسیر حرفه‌ای هستند و متن انتشار پروژه در لینکدین نیستند. در بازبینی آنلاین ۲۶ اکتبر ۲۰۲۶، عنوان و توضیح انگلیسی هر هشت پروژه طبق متن همان زمان تأیید شد.
 - منابع مشارکت در پروژه‌ها: [ERP](projects/enterprise-resource-planning.md)، [دیجیتال بانک ملت](projects/digital-bank-mellat.md)، [کیف پول](projects/multi-signature-crypto-wallet-ecosystem.md)، [سوپرمارکت](projects/location-based-supermarket-retail-platform.md)، [آسیب‌شناسی دیجیتال](projects/digital-pathology-education-and-interactive-examination-platform.md)، [هتل و IPTV](projects/hospitality-guest-experience-and-iptv-platform.md)، [رزرو سفر](projects/multi-vendor-tour-travel-reservation-platform.md) و [شبکه‌سازی حرفه‌ای](projects/professional-digital-identity-and-networking-platform.md).
 - فهرست مرتب مهارت‌ها همان ۶۲ ورودی منتشرشده است و رتبه تسلط نیست. نام این ورودی‌ها، از جمله React، HTML5، CSS3، Frontend Architecture، Performance Optimization و Technical Mentoring، حفظ شود. برای موارد آینده، ورودی اصلی مناسب انتخاب شود و نام‌های هم‌معنی تکراری ساخته نشوند.
 - در ۲۶ اکتبر ۲۰۲۶، با بازکردن دوباره ویرایشگر Reorder، ذخیره هر ۶۲ مهارت دقیقاً به ترتیب بالا و بدون مغایرت تأیید شد.
-- هر ۶۲ نام مهارت و ترتیب کامل آن‌ها، هر دو مدرک و عنوان و توضیح فقط انگلیسی هشت پروژه مشترک بازخوانی نهایی شده‌اند. درباره من، عنوان فارسی و هفت تجربه کاری تأیید ذخیره دارند؛ برای متن کامل آن‌ها ادعای ممیزی مستقل نهایی نمی‌شود.
+- در بررسی ۲۶ اکتبر ۲۰۲۶، نام و ترتیب ۶۲ مهارت، هر دو مدرک و عنوان و توضیح انگلیسی هشت پروژهٔ مشترک بازخوانی شدند. تأیید ذخیرهٔ About، هدلاین فارسی و هفت سابقهٔ کاری مربوط به متن همان بررسی است.
 - نام و ترتیب مهارت‌های انگلیسی در هر دو مرجع یکسان می‌ماند. Motion و Framer Motion یک مورد هستند. نام‌های هم‌معنی یا وابستگی‌های زیرساختی استفاده‌شده بدون تجربه مستقیم، مهارت جداگانه محسوب نمی‌شوند.
-- [فهرست جامع مهارت‌ها](skills.md) و [بازبینی مهارت‌ها](docs/skills-review.md) جزئیات و شواهد بیشتر را نگهداری می‌کنند. ساخت ابزارهای توسعه خودم پشتوانه مهارت‌های تست و عملکرد است و به‌عنوان پروژه جدید یا تجربه کارفرمایان قبلی ثبت نمی‌شود.
+- [فهرست جامع مهارت‌ها](skills.md) مهارت‌های گسترده‌تر را همراه با پیوند به تجربه‌ها و پروژه‌های مرتبط ثبت می‌کند.
 - ویرایش یا انتشار این فایل، پروفایل آنلاین لینکدین را خودکار تغییر نمی‌دهد. وضعیت تازه پروفایل آنلاین فقط با بررسی جداگانه تأیید می‌شود.

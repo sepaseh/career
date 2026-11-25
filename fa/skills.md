@@ -2,7 +2,7 @@
 
 [English](../skills.md) · [گزیده مهارت‌ها برای لینکدین](linkedin.md)
 
-این فهرست، تجربه‌های حرفه‌ای و کارهای عملی روی ابزارهای توسعه خودم را پوشش می‌دهد. روش‌های مرتبط زیر عنوان‌های کلی‌تر گروه‌بندی شده‌اند. [بازبینی مهارت‌ها](docs/skills-review.md) مبنا و دامنه موارد تازه را مشخص می‌کند. برنامه یادگیری جدا از این فهرست نگهداری می‌شود و از وجود کد در ریپو، سطح تسلط نتیجه گرفته نمی‌شود.
+در این فهرست، مهارت‌هایی را که در مهندسی نرم‌افزار به کار می‌برم همراه با پیوند به تجربه‌ها و پروژه‌های مرتبط آورده‌ام.
 
 ## مهندسی نرم‌افزار
 
@@ -12,6 +12,33 @@
 - Technical Planning
 - Product Development
 - Product Engineering
+
+---
+
+## تحلیل، مدل‌سازی و مستندسازی
+
+- Business Process Analysis
+- Stakeholder Discovery and Requirements Clarification
+- Acceptance Criteria Definition
+- Product Benchmarking and International Technical Research
+- Information Architecture
+- Relational Data Modeling and Entity-Relationship Diagrams (ERD)
+- Interaction and Data Modeling (دیاگرام توالی UML، ERD و Mermaid)
+- High-Level Design Documentation (HLD)
+- Technical Documentation and Document Version Control (Git)
+- API Contract Documentation (Postman، Swagger / OpenAPI و Bruno)
+
+این توانایی‌ها در پروژه‌های [بانکداری](projects/digital-bank-mellat.md)، [ERP](projects/enterprise-resource-planning.md)، [هومان](experience/hoomaan.md)، [بازار خدمات نمایشگاهی](projects/exhibition-services-marketplace-operations-platform.md) و [کشف مبلمان](projects/custom-furniture-product-discovery-platform.md) به‌کار رفته‌اند. مستندات بانکداری را با همکاری تیم تهیه کردیم. تجربهٔ کار با قراردادهای Postman در هومان ثبت شده است.
+
+---
+
+## مهندسی با کمک هوش مصنوعی
+
+- آماده‌سازی اطلاعات پروژه و راهنمای مخزن برای دستیارهای کدنویسی
+- نوشتن دستورالعمل‌های قابل‌استفادهٔ مجدد برای کارهایی مثل طراحی، بازبینی کد و اعتبارسنجی تغییرات
+- هماهنگ‌کردن راهنمای توسعه و تست دستیارها با قراردادهای API، درخواست‌های ادغام و بررسی‌های خودکار در فرایند یکپارچه‌سازی مداوم
+
+در کار مشتری، راهنمای دستیارها را همراه با قراردادها و بررسی‌های خودکار تدوین کرده‌ام. [نوسازی ERP](projects/enterprise-resource-planning.md) · [دیجیتال بانک ملت](projects/digital-bank-mellat.md)
 
 ---
 
@@ -101,6 +128,7 @@
 - Storybook
 - Visual Regression Testing
 - API Contract Testing (قرارداد مصرف‌کننده با Pact)
+- API Testing and Executable Collections (Postman و Bruno)
 
 ---
 

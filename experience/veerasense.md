@@ -62,6 +62,15 @@ I was responsible for:
 
 ---
 
+## Platform Architecture and Field Requirements
+
+- Took technical responsibility after initially joining for frontend work; organized the software team, mentored junior engineers and gradually delegated frontend implementation after training them.
+- Contributed to a shared image-acquisition core that received camera images and distributed them to AI modules, addressing limited concurrent camera connections. Results were surfaced in a configurable panel that combined modules and layouts into customer-specific service packages.
+- Conducted on-site discovery across petrochemical, mining, steel, banking, university and tourism environments. Documented operational requirements and converted them into implementation guidance, including queue/visitor counting and OCR-based inspection workflows.
+- Guided staged delivery from Python-based MVPs to production-oriented component rewrites in C++, with the engineering team. Participated in deployment and software-protection decisions; AI-model development and the backend rewrites were collaborative responsibilities.
+
+---
+
 ## Technology Stack
 
 - React

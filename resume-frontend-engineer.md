@@ -1,8 +1,8 @@
 # Mahdi Sepaseh
 
-**Senior Frontend Engineer**
+**Frontend Engineer**
 
-**React | TypeScript | Frontend Architecture**
+**React · TypeScript · Frontend Architecture**
 
 Mashhad, Iran
 
@@ -12,9 +12,11 @@ LinkedIn: [linkedin.com/in/sepaseh](https://www.linkedin.com/in/sepaseh/)
 
 GitHub: [github.com/sepaseh](https://github.com/sepaseh)
 
+Website: [sepaseh.vercel.app](https://sepaseh.vercel.app/)
+
 ---
 
-I am a Senior Frontend Engineer with 17+ years of experience developing web products, from commercial websites to enterprise platforms. My primary expertise is in React, TypeScript and frontend architecture. Alongside development, I have contributed to business requirements analysis, solution design and technical team leadership.
+I am a frontend engineer with nearly two decades of experience developing web products, from commercial websites to enterprise platforms. My primary expertise is in React, TypeScript and frontend architecture. Alongside development, I have contributed to business requirements analysis, solution design and technical team leadership.
 
 ---
 

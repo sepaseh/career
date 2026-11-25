@@ -1,4 +1,8 @@
-# Esports Community and Commerce Platform
+# Esports Store & Social Network
+
+**Associated Company:** SP Soft (Software Solutions Provider)
+
+**Period:** 2018–2022
 
 ## Overview
 
@@ -27,9 +31,12 @@ The project aimed to bring these activities together into a single platform wher
 
 ## My Contributions
 
-- Collaborated in requirements analysis, frontend solution design, and API contract definition.
+- Reviewed the social-network and store requirements with the customer and defined the purchase and order-fulfillment process.
 - Redesigned the user experience after evaluating the client's initial concept, creating a more cohesive interface for community features and digital commerce.
 - Designed the purchasing experience for multiple product types with distinct fulfillment workflows while maintaining a consistent customer journey.
+- Designed a shared purchase and order-tracking flow that kept product-specific delivery stages and support requests linked to the relevant order.
+- Worked with the backend team on API contracts and Steam integration for inventory and item transfers.
+- Designed and implemented the web interface for mobile and desktop.
 - Helped evolve the platform from a conventional gaming website into a community-oriented experience centered around persistent player identities.
 
 ---
