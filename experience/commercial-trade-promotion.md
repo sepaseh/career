@@ -1,6 +1,6 @@
 # Commercial Trade Promotion
 
-**Role:** Co-Founder / Web Developer
+**Role:** Web Developer
 
 **Employment Type:** Full-time
 
@@ -10,7 +10,7 @@
 
 ## Work Context
 
-As a co-founder and web developer, I worked directly with commercial and industrial organizations to design and deliver custom websites aligned with their branding, content, and business objectives.
+As a web developer, I worked directly with commercial and industrial organizations to design and deliver custom websites aligned with their branding, content, and business objectives.
 
 My work combined website design, custom WordPress theme development, frontend implementation, and search engine optimization at a time when most business websites were built through custom development rather than visual page builders. This period provided hands-on experience across customer collaboration, web delivery, and building tailored digital solutions for a wide range of organizations.
 

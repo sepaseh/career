@@ -1,8 +1,8 @@
 # Mahdi Sepaseh
 
-**Senior Software Engineer**
+**Senior Software Engineer | AI-Assisted Engineering**
 
-Frontend Architecture · System Design · Technical Leadership · Product Engineering
+Coding Assistant Workflows · Requirements Analysis · Frontend Architecture
 
 Mashhad, Razavi Khorasan, Iran
 
@@ -12,20 +12,22 @@ Mashhad, Razavi Khorasan, Iran
 
 **GitHub:** https://github.com/sepaseh
 
+**Website:** [sepaseh.vercel.app](https://sepaseh.vercel.app/)
+
 ---
 
 # About
 
-I am a Senior Software Engineer with more than 17 years of experience designing and building web applications and digital products across industries including blockchain, industrial automation, healthcare, hospitality, tourism, finance, and professional networking.
+I am a senior software engineer with nearly two decades in software development. I started in web development and went on to take responsibility for frontend architecture, product engineering and technical leadership. My work has spanned finance, industrial automation, healthcare, hospitality, tourism and professional networking.
 
-My professional journey began at the age of sixteen as a junior web developer. Over the years, my role evolved from frontend implementation and customer website delivery to product engineering, frontend architecture, system design, and technical leadership. Frontend development remains my primary area of expertise, but my responsibilities have consistently extended beyond implementation.
+## Frontend Architecture and Software Engineering
 
-Throughout my career, I have worked directly with product teams, customers, and domain specialists to understand business workflows, evaluate technical approaches, and translate complex requirements into practical software solutions. This has included contributing to product discovery, software architecture, implementation planning, API design, and cross-functional delivery.
+Working on user interfaces gave me a practical way to understand how business rules affect people using a product. I built web applications with React and TypeScript, designed shared frontend structures and stayed involved in implementation as my work expanded into system design and team leadership. I also built interfaces for developers to manage applications and API keys and used schemas to make transaction processes configurable.
 
-My experience includes blockchain wallet ecosystems, industrial and automation software, AI-assisted healthcare products, digital pathology education systems, hospitality platforms, reservation marketplaces, financial simulation tools, and professional networking applications. Working across different domains has strengthened my ability to understand unfamiliar problems without relying on a predefined solution model.
+I work with customers, product teams and backend engineers to understand how work gets done, clarify requirements and agree on what the software should do. I have led discovery sessions, defined shared API contracts and followed requirements through frontend implementation, automated tests and delivery documentation.
 
-Although my responsibilities have increasingly shifted toward architecture and technical leadership, I continue to value hands-on software development. Staying involved in implementation helps me make practical architectural decisions and maintain a realistic understanding of the challenges faced by engineering teams.
+## AI-Assisted Engineering
 
-I believe sustainable software is built through clear problem understanding, appropriate technical decisions, simplicity, and maintainability. Rather than beginning with a preferred technology, I try to understand the underlying problem, evaluate the available options, and design solutions that can evolve alongside the product, team, and business.
+For nearly a year, I have been building software with AI coding assistants. My focus is making the knowledge from that work available on the next task. I translate requirements and project decisions into guidance that helps assistants locate relevant code, understand the project's rules and verify changes. I write reusable instructions for recurring tasks such as reviewing a pull request or validating a change.
 
-This repository complements my resume by providing additional context about my professional experience, engineering approach, selected projects, and technical growth throughout my career.
+In client work, I have written development and testing guidance for coding assistants, worked with executable API collections and set up automated tests and continuous integration. I have also designed a process for tracking service issues from their initial report through the pull requests that address them.

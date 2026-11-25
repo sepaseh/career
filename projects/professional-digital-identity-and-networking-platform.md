@@ -52,6 +52,14 @@ The project aimed to establish a unified ecosystem where digital identity became
 
 ---
 
+## Profile Evolution and Pro API BaaS
+
+- Evolved customizable profiles, initially inspired by simple profile builders, into a professional network with posts, likes, following and expertise tags for discovering specialists.
+- Alongside this product, contributed to analysis and design of Pro API, a Backend-as-a-Service platform. Users defined backend data structures and fields; the management interface rendered corresponding forms dynamically from schemas rather than relying on predefined pages.
+- My primary implementation responsibility was frontend development, working alongside analysts and backend engineers.
+
+---
+
 ## Technology Stack
 
 - AngularJS

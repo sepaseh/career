@@ -51,6 +51,16 @@ The project therefore evolved from building a secure wallet into establishing th
 
 ---
 
+## Automation Platform and External Developers
+
+- Contributed to analysis and design of the companion automation platform. External developers could provide their own server endpoints and schema-based configuration, submit applications for review and make approved applications available through the ecosystem.
+- Designed and implemented dynamic forms based on JSON Schema so compatible automations could be introduced without changing shared interface code or releasing a new frontend version. Some applications retained specialized forms.
+- The developer portal covers registration and approval, while the marketplace consumes application recipes and renders configuration forms. These extension and integration requirements were a substantial part of the engineering work alongside the wallet itself.
+
+[Developer portal](https://github.com/vultisig/developer-portal) · [App marketplace](https://github.com/vultisig/app-marketplace)
+
+---
+
 ## Technology Stack
 
 - React

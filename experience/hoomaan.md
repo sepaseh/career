@@ -63,6 +63,14 @@ I was responsible for:
 
 ---
 
+## Development Coordination and API Contracts
+
+- Reviewed delivery bottlenecks and organized collaboration between designers, backend and frontend developers. Established Postman collections and shared contracts for recurring login, registration and OTP workflows across projects.
+- Documented behavior, implementation conventions and the scope of UI customization so project-specific designs remained feasible and consistent with shared contracts.
+- Elicited and wrote down customer requirements, guided UI revisions, and worked with backend developers on service and data structures. Kept API collections aligned with frontend implementation and mentored developers on application structure and responsive Next.js interfaces.
+
+---
+
 ## Technology Stack
 
 - Next.js
